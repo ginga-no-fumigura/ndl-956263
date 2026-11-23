@@ -1,0 +1,2502 @@
+{
+ "work": "藤村詩集 羅馬字",
+ "work_id": "ndl-956263",
+ "repo": "ginga-no-fumigura/ndl-956263",
+ "author": "島崎藤村",
+ "yomi": "",
+ "category": "詩",
+ "kind": "prose",
+ "description": {
+  "kind": "詩",
+  "era": "",
+  "author": "島崎藤村",
+  "desc": "島崎藤村の詩集。研究社、1917年刊。国立国会図書館デジタルコレクションの全文テキスト（OCR）をそのまま収めた未校正の本文。"
+ },
+ "editions": [
+  {
+   "pid": "956263",
+   "title": "藤村詩集 : 羅馬字",
+   "editor": "島崎藤村 著",
+   "series": "",
+   "publisher": "研究社",
+   "year": 1917,
+   "pages": "コマ 11〜164",
+   "url": "https://dl.ndl.go.jp/pid/956263",
+   "label": "1917 研究社",
+   "note": "国立国会図書館の全文テキスト（OCR）のまま"
+  }
+ ],
+ "status": "未校正",
+ "license": {
+  "text": "本文はパブリックドメイン。訳と注は CC BY 4.0"
+ },
+ "poems": [],
+ "translation": null,
+ "base": "国立国会図書館デジタルコレクション（インターネット公開）の全文テキスト（OCR）をそのまま収めた。1 段落が底本の 1 コマ（見開き）。校正はしていないので、振り仮名や柱の混じり、読み違いが残る。",
+ "blocks": [
+  {
+   "id": "ndl-956263-0001",
+   "pid": "956263",
+   "pages": [
+    11
+   ],
+   "no": 1,
+   "vol": "若菜集",
+   "kotobagaki": "",
+   "author": "",
+   "text": "SINPONNOHASIGAKI.HuransunoTabiniaruaida,watasiwakonoSisy〓noAminaosiwoomoitatta.ZenbunoKaisatuwoKitositeimakokoni〓yakenisurunogasunawatisoredearu.KonoSisy〓noKy〓honwaZyunwo〓tesyuppansitaMakimakinoGappondeatta.Sita-gatte,issatunoSy〓tositewahukwanzennaTokoroga〓katta.KonoSinpondewaUtanoZyunzyoS〓sakuTokisitagai,Daimokumonarubekunemmoarumonowaaratame,arumonowakuwae,subetekonoSisy〓wokaitaTokinoKokoromotinitikadukerukotowoSyutosita.MaenoHonwawaketeyomakitositeatta.KonoSinpondewa\"Hitohabune\"wo\"Haruyaidukoni,''toaratamete,Dai-ni-kwanno\"Natu-gusa\"noutiniwosameta.Sorekara,motono\"monodekonoSinpen\"Rakubaisy〓nimoretanikuwaetanomoaru.Taisy〓6nennoHaru.WAKANA-SYU.T〓son.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0002",
+   "pid": "956263",
+   "pages": [
+    12
+   ],
+   "no": 2,
+   "vol": "一　秋の思",
+   "kotobagaki": "",
+   "author": "",
+   "text": "KokoronakiUtanoSirabeHitohusanoBud〓nogotosi.NasakearuTenimotumarete,AtatakakiSaketonaruran.wa,I.Bud〓danahukakukakareru,Murasakinosoreniaranedo,KokoroaruHitonoNasakeni,KageniokuHusanomituyotu.AkinoOmoi.SowaUtanowakakiyuenari;AdiwaimoIromoasakute,Ookatawakamitesutubeki,UtatanenoYumenoSoragoto.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0003",
+   "pid": "956263",
+   "pages": [
+    13
+   ],
+   "no": 3,
+   "vol": "一　秋の思",
+   "kotobagaki": "",
+   "author": "",
+   "text": "Aki.Akiwakinu,Akiwakinu.Hitohawa,Hanawa,TuyuKazenokitehikuKotonoAokiBud〓wamurasakinoSizennoSaketokawarikeri.ariteNen1状はまぬwakinu,Akiwakinu.状はOkuresakidatuAkigusamo,MinaY〓zimonoOkidokoro,WaraiSakewoKanasimino此noSakadukinikosotugubekere.ね矢の13は〓しみAkiwakinu,さかずきにAkiお先牧生此ゑ9ねろ私爻先重つろAkiwakinu,Akiwakinu.KusakimomomidisurumonoTarekawaAkiniyowazaran.TiearigaonoSabisisan1KimiHuewohuke,warewaべwo,wautawan!草たんpかはあをy",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0004",
+   "pid": "956263",
+   "pages": [
+    14
+   ],
+   "no": 4,
+   "vol": "一　秋の思",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASYU.WAKANASY〓.KitunenoWaza.Hatugoi.tunMaegam1no,n1miesitoki,Hanagus1notoomoikeri.NiwanikakururuKogituneno,HitonakitokiniYoruidete,AkinoBud〓noKinoKageniHusa.SinobitenusumuTuyunoMadaagesomesiRingonoMotoMaenisasitaruHanaarukiminusumuKoiwaKitunen1aranedomo,KimiwaBud〓niaranedomo,HitosirezukososinobiideKimiwonusumeruwagaKokoro.YasasikusirokiTewonobete,Ringoクス〃wowarenlataesiwa,UsukurenainoAkinoMin1HitokoisomesiHazimenari.sirokiWagaKokoronakiTameikinoSonoKaminokenikakarutoki,TanosikiKoinoSakadukiwoKimigaNasaken1kumisikana!RingobatakenoKonositan1,OnodukaranaruHosomitiwaTagahumisomes1Katamizoto,Toitamaukosokoisikere.no",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0005",
+   "pid": "956263",
+   "pages": [
+    15
+   ],
+   "no": 5,
+   "vol": "一　秋の思",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASY〓.WAKANASY〓.Kamiwoaraeba.6KimigaKokorowa.Kamiwoaraebamurasakino0gusanomaeniIromiete,AsiwoagurebaHanadorinoWaren1sitagauHuzeiari.KimigaKokorowaK〓roginoKazenisasowarenakugotoku,AsakagekiyokiHanagusaniOsikiNamidawososoguran.えははおナリき古花kタナこ+税がなるそシことにhヲならずソレカつりマカれさえてがきなき君がこそしすきこゆシラベとめれMemnagamurebaAyagumonoMakitewahirakuEmakimono,TenitoruSakewaUmazakenoWakakiUreiwotatayumeri.Sore,kakinarasuTamagotono,HitotunoItonoSawarisae,KimigaKokoronikagir1nakiSirabetokosowakikoyumere.MimiwotaturebaUtagaminoKitariteTamanoHuewohuki,KutiwohirakebaUtabitonoHitohusiwarewakoiutau.Aa,nadokakuwahureyasukiKimigayasasikiKokoromoteKakubakarinaruwagaKoimHuretamawanuzoUraminaru.wareAa,kakumadeniayasikumoAtukiKokoronowarenaredo,WarewoSIkiminokoisitauSonoNamidaniwaoyobazina.niwa",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0006",
+   "pid": "956263",
+   "pages": [
+    16
+   ],
+   "no": 6,
+   "vol": "一　秋の思",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASYU.WAKANASYU.Akinikakurete.Kasanouti.WagaTeniuesiSiragikunoOnodukaranaruTokikureha,HitomotoHanano〓〓gureni,AkinikakureteMadnisakunari.HutarisitesasuhitoharinoKasaniSugatawotutumutomo,NasakenoAmenohurisikiri,KawakuMamonakiTamotokana!KaotoKaotowoutiyosete,Ayumutosurebanatukasiya1BaikwanoAbura,KurokaminoMidareteniouKasanouti.Siruya,kmi.KokoromoaranuAkidorinoKoenimorekuruhitohusiwosiruya,kimi?KoinoLmtosamenuremasarl,NuretekoisikiYumenoMaya,SometezomovuruMomiurano,AmemnavameruAsimatoi.HukakumosumeruAsazionoSokonikakururuSiratamawosiruya,kimi?Utauwokikeba,Umekawayo,SibasiNasakewosuteyokasi!IdukomoKoinitawamurete,Sore,Ty〓beenoYumegatari.AyamemosiranuYaminoYoni,SidukaniugokuHosikuduwosiruya,kimi?MadahikimominuOtomegonoMunen1hisomeruK〓tonoNewosiruya,kimi?KoisikiAmeyohurabahure!AkinoIrihinoterisoite,KasanoNamidawohosanuManiTeniTewotoriteyukitekaerazi.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0007",
+   "pid": "956263",
+   "pages": [
+    17
+   ],
+   "no": 7,
+   "vol": "一　秋の思",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASY〓.AkikazenoUta.Sabisiikanaya,KanoMomidibaAkikazenonikitarutoki.SabisisawaitutomowakanuYamazatontObanamidareteAkikazezohuku.MitiwotutauruBaramonnoNisinihigasinitirugotoku,HukitadavowasuAkikazen1HirugaeriyukuKonohakanaSidukanikitaruAkikazenoNisinoUmiyorihukiokori,MaitatisawaguSirakumonoTobiteYukuemomiyurukana!AsabautihuruWasi-takanoAkekureSorawoyukuSgotoku,ItakumohukeruAkikazenoHaneniKoear1Tikaraar.Y〓kagetakakuAkiwakinoKirinoKozuenoK〓tonoNeSonoOtonaiwokikutokiwa,KazenokitarutosirarekeriniMirebakasikosi,NisikazenoYamanoKonohawoharautoki,Kanasiikanaya,AkikazenoAkinomomohawootosutoki.Y〓beNisikazehukiotite,AsaAkinoHanoMadonlAsaAkikazenohukiyosete,Y〓benoUduraSunikakuru.irl,HitowaTurugiwohuruedomo,Genikazourebakaginar.8SitawaTokiyowononosirumo,Koewatatimatihorobumeri.HurisakemirebaAoyamamoIrowamomidimsomckaete,SimohawokaesuAkikazenoSoranoKagaminiarawarenu.Takakumohages1,NomoYamaIbukimadowasuAkikazeyo!YowokaregaretonasumademoSuzusiikanaya,NisikazenoMaduAkinoHawohukerutoki,wa",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0008",
+   "pid": "956263",
+   "pages": [
+    18
+   ],
+   "no": 8,
+   "vol": "一　秋の思",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASY〓.WAKANASY〓.Sy〓-sinisyu.HukimoyamubekiKehainasi.IAa,urasabisi,AmetutinoTubonoutinaruAkinoHiya,OtibatotomonihirugaeruKazenoYukuewotarekasiru?sidukaniY〓gureYumemintote,YonoWaduraiyorisibasinogaru.YonoKumonoYukue.Kimiyorlhokanwwsirumononaki,Hanakagen1yukiteKoiwonakinu.NiwanitatiidetadahitoriSy〓kaid〓noHanawowake,SoranagamurebayukuKumonoSaraniHimituwohirakukana!SugikosiYumediwoomolmiruni,KoikosoTuminare,TumikosoKoi.InorimoTutomemokonoTumiyue,TanosikiSonoetowarewayukazi.NatukasikikimitoTewotadusae,",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0009",
+   "pid": "956263",
+   "pages": [
+    19
+   ],
+   "no": 9,
+   "vol": "一　秋の思",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASYU.WAKANASY〓.KurakiYomimademokakeriyukan!Ky〓teki.HitotunoHananiTy〓toKumo,KogumowaHanawomamorigao,Koty〓waHananiyoigaomMaedomomaedomoSubezonaki.Ⅱzonaki.SidukaniteraseruTukinoHikarino,NadokaTaemanakuMonoomowasuru?SayakekisonoKageKoewanakutomo,MiruHitonoMunenisinobiirunari.HanawaKogumonotamenaraba,Koty〓noMaiwoikanisen?HanawaKoty〓notamenaraba,KogumonoItowoikanisen?MiruYagate,hitotunoHanatirite,Kogumo.wasokoninemuredomo,TubasamokarukiKoty〓kosoIdukotomonakuusenikere.NasakewatokutomoNasakewosiranuUkiyonohokanimokutiyukuwagaAkasanuOmoito,konoTukikagetoIdurekaKoenaki,idurekanasiki?tomoMi.Idure",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0010",
+   "pid": "956263",
+   "pages": [
+    20
+   ],
+   "no": 10,
+   "vol": "一　秋の思",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASY〓.WAKANASY〓.Beturi.(別離)Tarekawamaemsakerumite,Hanawotumantoomowazaru?HitodumawositaeruOtokono,Yamanino'oriteBonoOnnanolewonozomimiteutaeruUta.KoinoHananimotawamurur〓NetaminoTy〓noMizoturaki.HutatunoHanemooreorete,TubasanoIrowaasenikeri.Tarekatodomen,TabibitonoAsuwaKumomanikaururuwo.Tarekakikuran,TabibitonoAsuwaWakaretotugemas1wo.HitonoInotiwoHarunoY6no,Yumeto1ukosouresikere.Yumeyorimolyaiyahukaki,WareniOmoinoarumonowo.KiyokiKoitoyaKatasigaiWarenomiMonowoomouyori,Koiwaahuretenigorutomo,KiminiNamidawokakemasiwo.UmenoHanasakuKorooiwaHasusakabayatoo.noiwabi,HasunoHanasakuKorooiwaHagisakabayatoomoukana!HitodumakouruKanasisawo,KimigaNasakenisirlmoseba,SemetewawarewoTumibitoto,Yobitamaukosouresikere.MatuMamohayakuAkiwakite,WagahumuMitiniHagasakedo,NigoritemoteruwagaKoiwaKiyokiUramitonarinikeri.Ayamemosiranuus1yaMiwa,KurusikiKoinoHitoyayori,,TuminoSimotowonogareide,Koitesinantoomounari.TarekawaTarekawaHanawotadunezaru?Ironimavowazaru?",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0011",
+   "pid": "956263",
+   "pages": [
+    21
+   ],
+   "no": 11,
+   "vol": "二　六人の処女",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASY〓.B〓ky〓.(望〓)TerawonogareidetaruS〓noutaisisonoUta.IzasarabaKorewokonoYonoWakarezoNogareidetewasuminaresi,,MiteranoKurinoSirakabeno,Menimohutatabimiyurukana!zoto,II.RokuninnoOtome.Izasaraba!SumebaHotokenoYadorisae,HonoonoIetonarumonowo.NagusamemonakiKokoroyorl,NagareteoturuNamidakana!noIzasaraba!KokoronoAburanigorutomo,TomosibitakakukakiokosiNasakewaatukumoyuruHinoKoisikiTiriniwarewayakenan!",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0012",
+   "pid": "956263",
+   "pages": [
+    22
+   ],
+   "no": 12,
+   "vol": "二　六人の処女",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASYU.O-Y〓.Otomezohenuru〓katano,WarewaYumediwokoetekeri.WagaYonoSakan1hurikaeri,,Iku-yamakawawonagamureba.-MidusidukanaruEdogawanoNagarenoKisiniumareide,KisinoSakuranoHanakageni,WarewaOtometonarinikeri.MiyakodoriukuOokawaniNagaretesosoguKa\"azoinoSirosumiresakuWakagusaniYume〓karisiwagaMikana!KumomurasakinoKokonoeOomiyautinitukaesite,Seiry〓dennoHarunoY〓noTukinoHikariniterasaretu.noKumowotiribameNamiwohor1,KasumiwoukabeHiwomanekuTamanoUtenanoObasimaniKakaruY〓benoHarunoAme.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0013",
+   "pid": "956263",
+   "pages": [
+    23
+   ],
+   "no": 13,
+   "vol": "二　六人の処女",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASY〓.SabakaritakakiHitoMenonimoYono,mite,KagayakuSamawosamazamanoTokimekitamauHitonoKoromonoKawokageri.NagareyukuYukitekaeranuMiduEdogawasidukaya,nite,AyumiwaosokiwagaOmoi.OnoremosirazuYowohuraba,WakakiInotinitaekanete,KisinoHotorinoKusawosiki,Hoho-emitenakuwagaMikana!AkabosinoKiramekisomuruAsitanoSoraniugokugoto,AtarinoHikarikiyurumade,SakaenoHitonoSamamomiki.AmatuMisorawowataruHinoKagekatabukerugotokunite,NanoY〓gurenikieteyukuHiidesiHitonoHatemomiki.O-Kinu.MisorawokakeruArawasino,HitonoOtomenoMiniotite,HananoSugataniYadokareba,ArasinikawakiKumonue,AmakakerubekiSubewonoml,NegauKokorononakaretote,KurokaminagakiwagaMikoso,UmarenagaranoMesiinare.HarusidukanaruMisonounoHananikakureteHitowonaki,AkinoHikarinoMadon1yorl,Y〓〓gumot〓kiTomowokou.-HitorinoAnewousinaite,OomiyautinoKadowoide,nikitemireba,Ky〓EdogawakanaAkiwasamisikiNagame1Huy〓wosakinoMitosureba,NamidawaAkinoHananoTuyu.OgotowosakinoMitosuraba,SakuranoSimohakiniotite,",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0014",
+   "pid": "956263",
+   "pages": [
+    24
+   ],
+   "no": 14,
+   "vol": "二　六人の処女",
+   "kotobagaki": "",
+   "author": "",
+   "text": "O-Sayo.UreiwahosokiItonoOto.ImasakinoYowaWasinoMiOtomen1amaruTubasakana!no,UsiosamisikiAraisonoIwakagewarewaumarekeri.Aa,aruTokiwawagaKokoro,Arayurumonowonageutite,YowaAdikinakiAsadiunoSigereruYadotoomoinaslMiwaSubemonakiK〓roginoYorunoNogusanihaimegur1,TadaitaduraniNewotatete,Utawoutautoomoukana!AsitaY〓benoSirogomato印urusatot〓kiMonoomoi.OkasikuMononikuruerito,Warewoluras1,YonoHitono.GenikuruwasinoMinarubeki,KonoTosimadenoOtometowa.UreiwahukakuTemotayuku,MusubooretaruwagaOmoi.IroniwagaMiwoataureba,OtomenoKokoroToritonar,KoiniKokorowoataureba,TorinoSugatawaOtomenite,OtomenagaramoSoranoTori,ArawasinagaraHitonoMinoAmetoTutiton1mayoliru,MinoSadamekosokanasikere.NagareteatukiwagaNamida,YasumuTokinakiwagaKokoro.MidareteMonon1kuruiyoru;KokorowoHuenoNenihukan.HuewotoruUtihuruikeri,TewaHinitoonoYubi.moeteNenikosokawake,KutibiruHuewotadunuruHuzeiari.no,",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0015",
+   "pid": "956263",
+   "pages": [
+    25
+   ],
+   "no": 15,
+   "vol": "二　六人の処女",
+   "kotobagaki": "",
+   "author": "",
+   "text": "HagesikuhukakiTameikiniHuenoOdakeyakumoruAinoKokorowohukutokiNagaruruMidunotatikaerimawa,ran.Kamiwamidareteoturutomo,MaduhukiiruruIkiwokike!Nikumiwowarenohukutokiwa,TiriyukuHanamotodomarite.woTikarawokomesihitohusiTugenoSasigusiotitekeri.n1,YokunoOmoiwohukutokiwa,KokoronoYaminoHibikiari.-Hukebanagaruru,nagarureba,HuehukiarauwagaNamida.Utae,Ukiyonohitohusiwa,HuenoYumedinoMonogurui.MizikakiHuenoHusinoMaNagakiOmoinonakarazuya.mo,Kurusimunakare,wagaTomoyo!SibasiwaHuenoNenikaere!NanatunoKokoroKoewoete,Newokosokikame,Utagamimo.-WareYorokobiwohukutokiwa,TorimoKozueniNewotodomeOturuNamidawonuguikite,Sidukanikikine,wagaHuewo!Ikariwowarenohukutokiwa,SewoyukuUomoHutiniari.O-Kume.WareKanasimiwohukutokiwa,SisimoNamidawososoguran.KoisikimamaniIewoide,KokonoKisiyorikanoKisie,Koemasimonotokitemireba,Tidorinakunari,Y〓magure.WareTanosimiwohukutokiMusimonakuNewoyametuwa,ran.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0016",
+   "pid": "956263",
+   "pages": [
+    26
+   ],
+   "no": 16,
+   "vol": "二　六人の処女",
+   "kotobagaki": "",
+   "author": "",
+   "text": "KiminoTukuenouenarade,NaniniInotiwosasagemasi.KoimwaOyamosutehatete,YamuYosimonakiMunenoHiya,BinnoKewohukuKawakazeyo,Semete,awaretoomoekasi!Kudakabakudake,Kawanamiyo!WareniInotiwaarumonowo.Kawanamitakakuoyogiyuki,HitorinoKaminikogarenan.KawanamikurakuSewohayami,NagareteIwamkudakurumo,.Kimiwoomoeba,Taemanaki,KoinoHonoon1kawakubesi.Kokoronomikawa,TemoAsimo,WagaMiwasubeteHonoonan.OmoimidareteaaKoino,TisudinoKaminoNaminiKin〓noAmenooyam1naku,Mikasavatakakumasarutomo,Yoi-yoininakuwagaKoinoNamidanoTakin1oyobazina.nagaruru.O-Tuta.Siritamawazuya,wagaKoiwa,Hana-torinoEniarazlkasi.KagaminoKatati,SunanoMozi,KozuenoKazenoNeniarazi.HanahonomiyuruHarunoY6SugataninitaruwagaInoti,Oboro-oboroniTitihahawaHutatunoKagetokieusete,YoniMinasigonowagaMikoso,KageyoriidesiKagenareya.TasukemoaranuimawaMiwa,WakakiHizirinisukuwarete,HitonatukasikitMaegamino,Otometokosowanarinikeri.Y6no,Siritamawazuya,wagaKoiwa,OosikikiminoTenihurete,Aa,KutibeniwosonoKutini,Kiminiutusadeyamubekiya.KoiwawagaMinoYasironite,KimiwaYasironoKaminareba,",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0017",
+   "pid": "956263",
+   "pages": [
+    27
+   ],
+   "no": 17,
+   "vol": "二　六人の処女",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASYU.WakakiHizirinonotamawaku,TokiwoS1matankiminaraba,KanoKakinoMiwotorunakare!KakuiitamauUresisamlKotosinoAkimohayahukasi,MadusonoAkiwomiyoyatote,HiziriniKakiwosusumureba,SonoKutibirunihuretamal,KakumoIroyokiKakinaraba,Nadokawahavakuwaren1tugekonu?UtamoKokoronoSugatanar1,MadusonoKoewokikeyatote,Hitohusiutaiidekereba,HiziriwaTamamoyoitamai,KakumotanosikiUtanaraba,Nadokawahayakuwaren1tugekonu?WakakiHizirinonotamawaku,MakotowosaguruwagaMinari,MitinoMayoltonarunakare!KakuiitamauUresisan1,NasakemoMitinohitotunari,KakaruOmoiwomiyoyatote,WagakonoMuneniYubisaseba,Hiziriwahayakukoiwatari,KakumotanosikiKoinaraba,Nadokawahayakuwaren1tugekonu?WakakiHizirinonotamawaku,HitonoInotinoosikaraba,Aa,kanoSakewonomunakare!KakuiitamauUresisan1,SakeNagusamenohitotunarl,MadusonoHaruwomiyoyatote,Hizirin1Sakewosusumureba,YumenoKokotiniyoitamal,KakumotanosikiSakenaraba,Nadokawahayakuwaren1tugekonu?Sore,AkinoHinoY〓magure,SozoroarukinoKokoronaku,HutoMemiruwoTenitoreba,YukiyorisirokiKoisinari.WakakiHizirinonotamawaku,TienoIsitoya,korezokono,AmariniosikiIronareba,Hitonikakusiteimamohanatazl.WakakiHizirinonotamawaku,Mitiyukiisogukiminaraba,MayoinoUtawokikunakare!KakuiitamauUresisam.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0018",
+   "pid": "956263",
+   "pages": [
+    28
+   ],
+   "no": 18,
+   "vol": "二　六人の処女",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASY〓.32AtukiNasakewatagaUtazo?O-Kiku.KurokaminagakuyawarakakiOnnagokorowotarekasiru?MitinoTameniwaTiwonagasi,KuniniwasinuruOtokoari.KuniOtokonokataruKotonohawo,Makototoomoukotonakare!Diheewaidure,KoikaNaka?Ty〓beemoNanoTamen1hatu.DiheeOtomegokoronoasakunomiIimotutauruOkasisaya.Aa,mukasiyori,koisinisl,Otokonoarltosiruyakimi.IimoMidaretenagakiBinnoKewo,TugenoOgusinikakiageyo!Onnagokorowaiyasarani,HukakiNasakenokomorukana!Aa,Tukigusanokienubeki,KoiwosurutowatagaKotoba?KoharuwaKoiniTiwonagasi,UmekawaKoinoTamenisinu.Koitesinantoyomiidesi,",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0019",
+   "pid": "956263",
+   "pages": [
+    29
+   ],
+   "no": 19,
+   "vol": "三　生のあけぼの",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASY〓.O-SitiwaKoinoTamen1yake,waKoinoTamen1hatu.TakaoKanasikarazuya,Kiyohimewa,HebitonarerumoKoiyueni.Ⅲ.Sei*Akebono.noYasasikarazuya,SayohimetonarerumoKoiyueni.walsitoOtokonoKoinoTawamureTabinisuteyukuNasakenomi.OtokowaKoisurunakare,Otomegoyo!Kanasimunakare,wagaTomoyo!KoiKoisuruTokitoKanasimitokanagaki,iduremizikaki?Idure生",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0020",
+   "pid": "956263",
+   "pages": [
+    30
+   ],
+   "no": 20,
+   "vol": "三　生のあけぼの",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASY〓.Kusamakura.Y〓namikurakunakuTidori,WarewaTidorimaranedomo,KokoronoHanewoutihurite,SamisikiKatanltoberukana!WakakiKokoronohitosudini,,Nagusamemonakunagekiwabi,MunenoK〓rinomusuborete,ToketeNamidatonarinikeri.AsihawoarauSiranaminoNagareteIwawoidurugoto,OmoiamariteKusamakura,MakuranoKazunoimaikutu.Kanasiikanaya,HitonoMino,NakiNagusamewotadunewabi,MitinakiMoriniwakeirite,NadonakiMitiwomotomuranran?Waremosorekaya,Ureikaya,NozueniYamaniTanikageni,MiruYosimonakiAsay〓noHikarinakuteAkikurenu.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0021",
+   "pid": "956263",
+   "pages": [
+    31
+   ],
+   "no": 21,
+   "vol": "三　生のあけぼの",
+   "kotobagaki": "",
+   "author": "",
+   "text": "OmoimousukuMimokuraku,NokoreruAkinoHanawomite,Yukucmosirazunagareyuku,MiduniNamidanooturukana!KanasimihukakiwagaMeniwa,IronakiIsimoHanatomiki.Aa,HitoriminoKanasimiwoAdiwaisireruHitonarade,TarenikataranHuyunoHino,KakumowabisikiNonoKesiki.woMiwoAsagumon1tatoureba,Y〓benoKumonoAmetonar1,MiwoY〓amenitatoureba,AsitanoAmenoKazetonaru.MiyakonoKatawonagamureba,SoraHuyugumon1〓warete,MinihurikakaruTamaarare,SodenoK〓ritotodiaeri.Sareba,OtibatoMiwonasite,Kazenihukaretehirugaeri,AsanoKigumonitomonaware,YoruSirakawawokoetekeri.MizoremazirinoKazetuyoku,KogawanoMidunoUsug〓ri,K〓rinositanotosuruwa,NagareteUmimyukuMiduka?MitinakiimanoMinarebaka,WarewaMitinakiNowositai,Omoimidarete,MitinokunoMiyaginommademayoikinu.NaiteHakazemotanomosiku,KumonikakururuKasasagiyo!5HikarimousukiSamuzorano,NaremoaretaruNonimusebu.KokoronoYadonoMiyaginoyo,MidareteatukiwagaMiniwa,HikagemousukuKusakarete,AretaruNokosouresikere.Namidamok〓ruHuyunoHiHikarimonakutekureyukeba,HitomemoKusamokarehatete,HitorisamayouwagaMikana!noHitorisamisikiwagaMimiwaHukuKitakazewoK〓totokiki,",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0022",
+   "pid": "956263",
+   "pages": [
+    32
+   ],
+   "no": 22,
+   "vol": "三　生のあけぼの",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASY〓.HinoiruKatawonagamuredo,WakikurumonowaNamidanomi.yukuHitonoKanasiya,youteHumebakudururuSimobasira,NaniKoemowoawarenoyoinaku,sonoSinobineUtawanl,?Samisiikanaya,AranaminoIwanikudaketetirerutoki,Kanasiikanaya,HuyunoHinoUsiototomonikaerutoki.Uresiya,MononoNewohikite,NozuewokayouHitonoKoyo!SirabeNaniKadodukehikuTemonok〓rihateMinoHate;zo?TarekaNamidiwonozomimite,SonoHurusatowositawazaru?TarekaUsionoyukuwomite,KonoHitonoYowoosimazaru?urawakaku,Yasasiya,TosimoMaziri·naku,MadaHatugoinoTeniTewotoriteyukuHitoyo,kakururusonoSugata?NaniwoKoyomimoaranuAraisonoSunadin1hitorisamayoeba,MizoremazirinoAmagumonoOtiteUsiotonarimkeri.NonoSamisisan1taekanete,SimotoSimotonoKaregusanoMitinakiMitiwohumiwakete,Kitarebasamusl,HuyunoUmi.T〓kuwakikuruUminoOto,NaretesamisikiwagaMimimAvasivamoruruMononoNewaMadaurawakakiNodinoTori.AsawaUmibenoIsinoenl,KosiutikaketeHurusatonoKatawonozomedomo,MiyakonoOtonaumonowaNamibakari.Aa,medurasinoSirabezotoKoenoYukuewotadunureba,MidorinoHanemomadayowaki,SoremoHatuneka,Uguisuno.samisikiAraisono,KurewaUsiowosomesiSunanihusi,",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0023",
+   "pid": "956263",
+   "pages": [
+    33
+   ],
+   "no": 23,
+   "vol": "三　生のあけぼの",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASY〓.Harukinikerasi,HaruyoHaru!MadaSirayukinotumoredomo,WakananomoeteIroaoki,Kokotikososure,Sunanoeni.Haru.ITarekaomowan.Harukinikerasi,HaruyoHaru!UresiyaKazeniokurarete,Kitarurasltoyaomoebaka,UmegaKazosuru,Uminobeni.Tarekaomowan,UguisunoNamidamok〓ruHuyunoHini,WakakiInotiwaHarunoY〓noHanan1uturouYumenoMato;AayosisarabaUmazakemUtaiakasanHarunoY6wo.IsobenitakakiOoiwanoUeninoboritenagamureba,Haruyakinuran,SinonomeSionoNet〓kiAsaborake.noUmenoNioin1meguriauHaruwoomoebahitosirezuKarakurenainoKanbasemNagareteatukiNamidakana!AayosisarabaHanakagen1UtaiakasanHarunoY〓wo.WagaMihitotumowasurarete,Omoiwadu〓auKokorodam,HarunoSugatawotomekureba,TamotomniouUmenoHana;AayosisarabaK〓tonoNeniUtaiakasanHarunoY〓wo.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0024",
+   "pid": "956263",
+   "pages": [
+    34
+   ],
+   "no": 24,
+   "vol": "三　生のあけぼの",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASY〓.HatuneyasasikiUguisuyo!KozoniWakarewotugeyokasi!TanimamnokoruSirayukiyo,H〓murikakuse,KozonoHuyu!ⅡAkebono.KurenaihosokutanabikeruKumotonarabaya,AkebononoKumotonarabaya!Haruwakinu,Haruwakinu.SamisikusamukuKotobanaku,MadusikukurakuHikarinaku,MinikukuomokuTikaranaku,KanasikiHuyuyo,yukinekasi!YamiwoidetewaHikariaruSoratonarabaya,AkebononoSoratonarabaya!HaruHaruwakinu,Haruwakinu.AsamidorinaruNiigusayo!T〓kiNomosewoegakekasi?SakitewaakakiHarubanayo,KiginoKozuewosomeyokasi!HarunoHikariwoirodoreruMidutonarabaya,AkebononoMidutonarabaya!HatonihumareteyawarakakiKusatonarabaya,AkebononoKusatonarabaya1Haruwakinu,Haruwakinu.Kasumiyo,Kumoyoyurugiide,K〓reruSorawoatatameyo!HananoKaokuruHarukazeyo,NemureruYamawohukisamase!HaruⅢHaruwakinu.Haruwakinu,HaruwaHaruwakinu,Haruwakinu.kinu.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0025",
+   "pid": "956263",
+   "pages": [
+    35
+   ],
+   "no": 25,
+   "vol": "三　生のあけぼの",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASY〓.WAKANASY〓.HaruwoyosekuruAsasioyo,AsiDOKarehawoaralsare!Kasumin1yoeruHinaduruyo,WakakiAsitanoSoramtobe!WakamurasakinoAsagasumiKasuminoSodewoMinimatoe!HatuneuresikiUguisunoTorinoSirabewoutaekasi!Haruwakinu,Haruwakinu.UreinoSerinoNewotaete,K〓reruNamidaimaiduko?TumoreruYukinokieusete,Ky〓noWakanatomoeyokasi!NemugenoHaruyo,sameyoHuyunoK〓rinimusuboresi,HurukiYumediwosameidete,YanaginoItonoMidaregami,UmenoHanagusi5sasisoete,BinnoMidarewokakiageyo!Haru1NemugenoHaruyo,sameyoHaru!AyumebaTaninoSawarabinoSitamoeisogunagaAsiwoTakakumoageyo,ayumeHaru!TaenaruHarunoIkiwohuki,,UmenoKamnioe!KozomenoⅣNemureruHaruyo.NemureruHaruyo,urawakakiKatatiwokakusukotonakare!Tarekometenomiky〓noHiwoNabetenoHitonosugusuSMani,SametenoHarunoSugata6kosoMadaYumenoManoHuzeinare.VUteya,Tudumi.Uteya,TuduminoHarunoOto!YukiniumoruruHuyunoHinoKanasikiYumewatozasarete,YowaHarunoHitokawarikeri.NemugeSakasikinoHaruyo,sameyoHaru1HitonomizaruMani,",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0026",
+   "pid": "956263",
+   "pages": [
+    36
+   ],
+   "no": 26,
+   "vol": "三　生のあけぼの",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASY〓.WAKANASY〓.HikebakozomenoHarugasumi,KasuminoMakuwohikitodite,,HanatoHanatowonuuItowaKesamoeidesiAoyanagi.Sy〓-si.KumedotukisenuWakamiduwoKimitokumamasi,KanoIdumi!KasuminoMakuwohikiakete,Haruwoukagaukotonakare!HanasakiniouKagewokosoHarunoUtenatoiubekere.KawakimosiranuWakamiduwoKimitonomamasl,KanoIdumi!Koty〓yo,Hananitawamurete,YasasikiYumewomitewamal,YouteHasodemohirahirato,HarunoSugatawomainekasi!KanoWakamiduMiwonasite,HarunoKokoroWakiiden!towomaineniMidorinoHanenoUguisuyo!UmenoHanagasanuisoete,YumesidukanaruHarunoHiSirabewotakakuutaekasi!KanoWakamidutoMiwonasite,Kimitonagaren,HananoKage!no",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0027",
+   "pid": "956263",
+   "pages": [
+    37
+   ],
+   "no": 27,
+   "vol": "三　生のあけぼの",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASY〓.SayoniwaSayonoSirabear1,AsaniwaAsanoNemoaredo,HosinoHikarinoItonoOn1,AsitanoK〓towasidukanari.My〓zy〓.UkaberuKumotoMiwonasite,AsitanoSoran1idezareba,Nadosirurameya,AkabosinoHikarinoIronoKurenaiwo?MadaurawakakiAsanoSora,KiramekiwataruHosinouti,ItoitowakakiHikariwobaNadukemasikabaMy〓zy〓to.AsanoUsiotoMiwonasite,NagareteUminiidezareba,Nadosirurameya,My〓zy〓noSumitekanasikiKiramekiwo?Nanikakoisiki,,Akabosino,MunasikiAmanoTowoidete,Hukakumot〓kiHotoriyori,HitonoYotikakukitarutowaUsionoAsanoAsamidori,MinasokohukakiSiraisiwoHosinoHikarinisukasimite,AsanoYowaiwokazoubesi.NonoToriZOnakuYamakawaY〓benoYumewosameidete,HosokultanabikuSinonomenoSugatawoutusuAsaborake.mo",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0028",
+   "pid": "956263",
+   "pages": [
+    38
+   ],
+   "no": 28,
+   "vol": "三　生のあけぼの",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASY〓WAKANASY〓.SionoNe.Suika.(醉歌)WakitenagaruruYaozionoSokoniizayouUminoK〓to.Sirabemohukasi,MomokawanoYorodunoNamiwoYobiatume,TokimitikurebaUrarakaniT〓kukikoyuruHarunoSionoNe.TabitoTabitonokimiyaware,KimitowaretonoNakanareba,YouteTamotonoUtagusawoらSametenokimin1misebavana!WakakiInotimosuginuMani,TanosikiHaruwaolyasusi.TagaMinimoteruTakarazoya?KimikurenainoKaobasewa.ni,KimigaManakomNamidaarl,KimigaMayuniwaUreiarl,KatakumusuberusonoKutiniSore,KoemonakiNagekiari.NamonakiMitiwotokunakare!NamonakiTabiwoyukunakare!KainakiKotowonagekuyori,KitariteumakiSakeninake!HikarimoaranuHarunoHiHitorisamisikiMonogurui,,KanasikiAdinoYonoTieniOinikerasina,Tabibitoyo!no,",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0029",
+   "pid": "956263",
+   "pages": [
+    39
+   ],
+   "no": 29,
+   "vol": "三　生のあけぼの",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASY〓.WAKANASY〓.KokoronoHarunoTomosibiniWakakiInotiwoteras1miyo!SakuMawomatadeHanatiraba,Kanasikarazuya,kimigaMiwa?HutatunoKoe.Asa.Tarekakikuran,AsanoKoe;NemuritoYumewoyaburiide,AyanasuKumon1utinorite,YorodunoToriniutawaretu,Amanokanatan1arawarete,\"HigasinoSoran1Hikariarl,SokoniTokiari,Hazimearl,SokoniMitiari,Tikaraarl,SokoniIroari,Kotobaarl,SokoniKoeari,Inotiarl,SokoniNaari,\"toutaitutu,Misoran1agari,Tinikakeri,NokonnoHositomorotomoni,HikarinoutiniAsazokakururu.Wakimemohuradeisogiyuku,KiminoYukuewaidukozoya?K〓toHanaSakenoarumonowo,Todomaritamae,Tabibitoyo!Kure.Tarekakikuran,KurenoKoe;KasuminoTubasa,KumonoObi,KemurinoKoromo,TuyunoSode,TukaretenayamuArasoiwoYaminokanataninageirete,YorunoTukainoK〓morinoTobuMamoKoenooyaminaku",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0030",
+   "pid": "956263",
+   "pages": [
+    40
+   ],
+   "no": 30,
+   "vol": "三　生のあけぼの",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASY〓.\"KokoniKageari,Mayoiari,KokoniYumeari,Nemuriari,KokoniYamiari,Yasumiari,Kokoninagakiari,t〓kiari,\"KokoniSi*ari,toutaitutu,Kusakiniikoi,Noniayumi,KanatanioturuHitotomoniIronakiYamin1Kure.zokakururu.Aika.Nakano-Sy〓y〓woitamu.秀才香骨幾人憐琴臺舊譜墟前柳秋入長安夢愴然風流銷盡二千年KoreNakano-Sy〓y〓ga秋怨十絕noitinari.Sy〓y〓Azanawa威〓,Koazawa重太郞,IyoUwazimanoHitonarlto1u.Bunkwa-daigakunoIzainarisiga,TosiAwadukaninizyusitinisiteusenu.Sy〓y〓Ik〓SeigwainihenminaK〓sinnoYosuiniarazaruwanasl.SitanikakaguruwakarenoSeienwoutusesimono,awasekakagetekonoSy〓iaaiwotuibosurunoKokorowotodomu.noiti重waK〓sinno思君九首思君我心傷中夜坐松蔭遺思君我容瘁露華多似淚遙思君我心悄昨夜涕淚流思君我腸裂今朝盡成血示君錦字詩忽覺筆端香寄君鴻文册窓外梅花白爲君調綺羅中有鴛鴦圖爲君築金屋長春夢百祿*死",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0031",
+   "pid": "956263",
+   "pages": [
+    41
+   ],
+   "no": 31,
+   "vol": "三　生のあけぼの",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASYO.Kanasikanaya,onaziYoniUmareidetaruMiwomotite,TomonoTigirimomusubazun1Kimiwahayakumoyukerukana!贈君名香篋休將秋扇掩應記韓壽思明月照眉疹贈君双臂環一鐫不乖約寳玉價千金一題勿變心〓宵琴響搖恐亂月前調SuzusikiManakoTuyuwoobi,Bud〓noTamatomagaumade,SonoOmokagewotutaetewa,AmarininetakiSugatakana!訪君過臺下佇門不敢入千里轉金鶯忽發頭屋桃嬌影三分月潭把花月秀春風吹綠野似君三兩朶芳花一朶梅作君玉膚堆OnaziTokiyonumarekite,OnaziInotinoAsaborake,KimikarakurenainoHanawaWareInotiari,Yaemugura.tiri,Kanasi1kanaya,nagareyukuMiduninakiNawosirusutote,ImahatanokoruUtahogonoNagakiUreiwoikanisen?Kanasiikanaya,,uruwasikuSakisomenikeruHanawomiyo!Ikanarebakakutodomarade,Matadetiruran,sakeruMamo.Kanasiikanaya,suruSuminoIronisometesiHananoKinoKimigaSirabenoUtanoNeni,UsukiInotinoHibikian.Kanasiikanaya,uruwasikiNasakemoKoinoHanawomiyo!ItoitokiyokisonoKoiwaKiyurutokosokike,itohayaku.3Kanasiikanaya,sakinoYowa,MisoranikakaruHosinoMinoHitonoInotinoAsaborake,Hikarimomisedeusenisiyo!KimislHanatoniaranedomo,InaHanayorimosaraniHana.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0032",
+   "pid": "956263",
+   "pages": [
+    42
+   ],
+   "no": 32,
+   "vol": "四　深林の逍遥、其他",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASY〓.KimiSlKoitoniaranedomo,InaKoiyorimosaraniKoi.Kanasiikanaya,HitonoYon1,AmariniosikiZaenareba,YamainiTiriniKanasiminiSi*nimadesosirinetamaruru.IV.Kanasilkanaya,hatatosenoKotobanoUminoMinarezao,IsonikudakuruTakazionoUreinoHanatotirinikeri.SinrinnoSy〓y〓,sonota.Kanas11kanaya,HitonoYonoKidunamosuteteinanakeba,TukisenuKusaniAkiwakite,KoemokanasikiTennoUma.Kanasiikanaya,Newot〓mi,NagaruruMidunoKisinisakuHitotunoHananiterasarete,HirugaeriyukuHitohabune.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0033",
+   "pid": "956263",
+   "pages": [
+    43
+   ],
+   "no": 33,
+   "vol": "四　深林の逍遥、其他",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASY〓.SinrinnoSy〓y〓.(深林の遺遙)TikarawokizamuKodakuminoUtihuruOnonoAtowotae,HarunoKusabanaHorimononoNominoNioimotodomezina!IrosamazamanoHarunoHaniAohitohudenoAtomonakuTieniwakaruruAkakusumoOnodukaranaruSugatanomi.Hinokiwaarasi,Suginaosi,Goy〓wakurosi,SiinokinoEdawomaziyuruSirakasiya,OotiwaKukiwoyokotaete,EdatoEdatonmoyuruHinoNakan1vasasikiWakakaede.YamanoSei*HitonisirarenuTanosiminoHukakiHayasiwoTarekasiru?Hiton1sirarenuHarunoHino*精",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0034",
+   "pid": "956263",
+   "pages": [
+    44
+   ],
+   "no": 34,
+   "vol": "四　深林の逍遥、其他",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASY〓.Nugisutete,HarunoKasumiMatoekasi!KasuminoOkuTarekasiru?wowoKinoSei.HananoMurasakiHanoMidori,UrawakagusanoNobenoIto.NakuUguisunoNeniidete,HukakiHayasiniUtaekasi!noAyumebaRannoHanawohumi,YukebaYamamomoSodenitirl,TamotonimatouYamakuzunoKuzunoUrahawokaesitewaHikagenoKagenoYamaitigo,IroyokiMikosootinikere.OkayamatudukiKumagumamoItonadarakaniyukinobite,HukakiHayasinoTaniainiMidareteniouHudibakama,TaniniHanasakiTanin1tiriHitonisirarezukuturumeri.SemaritekurakiHazamayoriYayahiraketaruMiyamaginoHaruwaKoedanoTadazumai,SigeritehirokiKumazasanoHazuewohukakukakiwakete,Taninokanatanikitemireba,TakumiwotukusuOohatanoOsanoHayasiniKitarekasi!YamanoSei.KanomoeiduruKusawohumi,KanowakiiduruMiduwonomi,moKanoatarasikiHananiyoi,HarunoOmoinoNakarazuya?KinoSei.HurukiKoromowo",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0035",
+   "pid": "956263",
+   "pages": [
+    45
+   ],
+   "no": 35,
+   "vol": "四　深林の逍遥、其他",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASY〓.WAKANASY〓.YamanoSei.SikawataoruruTabigotoniTumakouKoiniKaerunari.IdukuniyukukaTakikawayo,KoemosabisiyaSiraitonoAokiIwaon1nagareotiWakakiMasiranotamenidaniOtowotodomuruTokizonaki.YamanoSei.Y〓gurekayouTabibitonoMunenoOmoiTarekasiru?NoyamawakaruruTabigotoniTitosenoHaruniKaerunari.woKinoSei.HurukiOtibawoYawarakakiAobanoKageniH〓mureyo!TomonimoaranuYamakawanoHarunoKokoroTarekasiru?woKinoSei.Y〓wonakiakasuKanasiminoMakuran1tutauNamidakoso,HuyunoYumediSameideteHarunoHayasiniKitarekasi!woImaSimowataruMiyamakaze,HaruwasidukanihukikayouHayasinoSy〓*noNewokikeba,KazenoSirabenisasowarete,HukakiHayasinoTanikagenoSokoninagaruruSidukunare.*〓",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0036",
+   "pid": "956263",
+   "pages": [
+    46
+   ],
+   "no": 36,
+   "vol": "四　深林の逍遥、其他",
+   "kotobagaki": "",
+   "author": "",
+   "text": "Nanikakoisiki,IwakagewoNagareteiduruIdumigawa.KinoSei.KakureteutauNonoYamanoKoenakiKoewoKikuya,kimi?Tutumun1amaruHanakagenoMidunoSirabeSirukimi?ya,MiredomoakanusirotaenoKumonoHasodenoMiyamag1noTiedanikakaritatihanareWakaremaiyukuSugatakana!KigiwowatariteyukuKumonomirebaAtomonakiSibasitoTakakiYukueniizanaware,TidinimegureruIwakagenoHananimomayoiIsiniyori,,MidunoNewokikeba,NagaruruYamawaayaukuIsiwakare,KeduritenaseruAoiwamTakimidunoKudaketeoturuWakikuruNaminoSewohayami,HarunoHinoHanayakanisasuHikariterisouMidukemuri,HitoriKokemusuIwawoyodiHuruuAyumiwohumisimete,UkaberuKumowoukagaeba,SitantodorokuTakimidunoSumuItomanakiIwanamiwaOtiteidukunkudaruran?YamanoSei.Naniwoizayou,MurasakinoHukakiHayasinoHarugasumi.woYamanoSei.AanagaretutuKogaretutu,UturiyukitutuUgokitutu.Aamegur1tutuKaeritutu,UtiwaraitutuMusebitutu.KinoSei.lmaHinoHikariHarugasumi.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0037",
+   "pid": "956263",
+   "pages": [
+    47
+   ],
+   "no": 37,
+   "vol": "四　深林の逍遥、其他",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASY〓.ImaHanagumon,HarunoAme.Hahawoh〓murunoUta.UkigumowaaritomowakanuOozoranoTukinoKageyorihuruSigurekana!Aaaa,HananoTuyuHukakiniHayasiyoiniUtaekasi!KimigaHakabaniKigikuari.KimigaHakabaniSakakiari.YubiorikurebaitutabimoKawareruKumowonagamurun1,Sirokiwakinari,nan1wokamoMotuHudenisen,IroayanoItusikaawakutyawoobite,Kumokurenaitokawarikeri.Aa,Y〓magurewarehitoriTadoruHayasimohirakekite,MiduuminoItosidukanaruKisibenisakeruHanatutuzi.UkigumosidumeruyukebaKageHarumiete,noHiya,MiduniSorekurenainoIrosomete,narinureba,·KumomurasakitoKagesaeakakiMidutorinoHarunoMiduumiKisinoKusa,HukakiHayasiyaHanatutuzi;MayouhitorinowagaMidanikurenainoHukamurasakinoAyaniuturouY〓magure.KusabaniTuyuwasigekusite,OmokarazuyawasonoSirusi.ItukaNemuriwosameidete,kaerikon,wagaHahayo.kaItuAkarahikuKomoMasuraomo,TirihiditonarumonoMinawo.Aa,sametamaukotonakare!",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0038",
+   "pid": "956263",
+   "pages": [
+    48
+   ],
+   "no": 38,
+   "vol": "四　深林の逍遥、其他",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASY〓.Aa,kaerikurukotonakare!Kassy〓.(合唱)IHaruHaruwaHanasaki,Hanatirite,KimigaHakabankakarutomo.Ank〓*HarunoYowaHikaribakaritoomoisiwo,Sirokiya,UmenoSakarinaruran.Ane.WakakiInotinoosikereba,YaminimoHarunoKan1yowan.toleyolehngronsひNatuNatuwamidaruruHotarubino,2KimigaHakabanitoberutomo.YamiAkiwasamisikiAkisameno,KimigaHakabanisosogutomo.Semete,KoyoiwaSaohimeyo,HanasakuKageniutaekasi!HanaIm〓to.Soramoyoerya,HarunoY6Hosimokakuretemiewakazu.HuyuwamasironiYukizimonoKimigaHakabanik〓rutomo.wa,T〓kiNemurinoYumemakura,Osorurunakare,wagaHahayo!Yo-menimosoretohonoziroku,供著香",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0039",
+   "pid": "956263",
+   "pages": [
+    49
+   ],
+   "no": 39,
+   "vol": "四　深林の逍遥、其他",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASY〓.MidareteniouUmenowagaTomoUsuk〓bainoSomegoromo.TomonoHanaAne.noHikarinoKoisisan1,wokakusuUguisuyo!HokageniuturuSakadukiwo,Koinom1yoeruY〓narikeri.HaruKatatiIm〓to.KozonoKoyoiwawagaTomonoNamidawoutusuYonoNagori.HanasaesirukiHarunoY〓noYamiwoosorurukotonakare!YamiyGaryi.0Im〓to.UmewomeguriteyukuMidunoYamiwonagaruruSeseragiya!Kagemokanas1ya,Kinegawan1,UreisidumisiY〓narikeri.UmeAne.KozonoKoyoiwawagaTomonoOmoiwaHarunoY〓noYumeva.YumemosasowanuKanarlseba,IdurekaYoruniniowamasi.Ane.KozonoKoyoiwaYowoukimononi",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0040",
+   "pid": "956263",
+   "pages": [
+    50
+   ],
+   "no": 40,
+   "vol": "四　深林の逍遥、其他",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASYU.idetamauHitomewotutumuY〓narikeri.Koyoiwa?\"totamaukosouresikere.ToiIm〓to.KozonoKoyoiwawagaTomonoSodenoKasuminoHanamusiro.Siritamawazuya?UmegaKani,Wagaumaretesi,HarunoY〓wo.SiriHikuya,K〓tonoNeTakaziowoUtusiawasesiY〓narikeri.ⅡRengebune.SibasibamokoboruruTuyuwaHasubanoUkihaninomimotamarikeruAne.miginoTenikurabureba,YasasikinaregaTanagokoro.kana!WagaAne.Aa,HasunoHana,HasunoHana1Kagewamiekeri,Ikemidun.HururebaitodoyawarakaniMoyuruka,atukuomohoyuru.HitotunoHunemSaosasite,Ukihawowaketekogiiden!Im〓to.\"Moyuruyaikani,Ukiha",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0041",
+   "pid": "956263",
+   "pages": [
+    51
+   ],
+   "no": 41,
+   "vol": "四　深林の逍遥、其他",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASY〓.WAKANASY〓.Im〓to.mosuzusiya,Hagakureni,nimosirosl,HasunoHana.Natugumoyukeba,Kagemiete,HanayoriHanawowataruras1.KazeSokoAne.Hasuhaniutai,Hunen1nori,HanatuminosuruNatunoYume.KokommoakakiHasubanano,sidukanaruIkenoOmo.MiduAne.Hasuwoyasasimi.,Hanawotori,Sodenahitasiso,Ikemiduni!HasunoHanahuneSaotomete,Naniwonagamuru,sonoSugata?HasuNaniIm〓to.NamisidukanaruHanakageniKiminoKatatinouturukana!Hitomemohadiyo,Hanakageni!NareTibusanogaarawaruru.NareKimiIm〓to.HukakumosumeruIkemidunoHanisureteyukuMinarezao.KiminoKatatitoNatubanato,Idureuruwas1,idureyasasiki?Idure",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0042",
+   "pid": "956263",
+   "pages": [
+    52
+   ],
+   "no": 42,
+   "vol": "四　深林の逍遥、其他",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASY〓.ⅢIm〓to.wasidukaniSorasumite,watanosikiY〓magure.KazeBud〓-no-KinoKage.Haruakiniomoimidaretewakikanetu,TokinituketutuuturuKokoroAkiwa.Im〓to.Tanosikarazuya,hanayakani,AkiwaIrihinoterasutoki?ItumadewakakiOtomegonoTanosikiYumenowarerazoya?ItuAkiAne.AkinoBud〓noKinoKagenoIkaniyasasikuhukakutomo.Tanosikarazuya,Bud〓banoHagosiniKumonokayoutoki?tomo.Ane.Yasasikarazuya,murasakinoBud〓noHusanokakarutoki?TeniTewotoriteKagewohumuNaretowakaretenanikasen.Im〓to.GeniyaKainakiKurigotomoBud〓msikazi.,hitohusano?Yasasikarazuya,NiibosinoBud〓noTamaniuturutoki.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0043",
+   "pid": "956263",
+   "pages": [
+    53
+   ],
+   "no": 43,
+   "vol": "四　深林の逍遥、其他",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKAVASY〓.WAKANASY〓.Waren1ataeyo,hitohusawo,Sokonikakarerumurasakino.KonoTakadononinoborukana!Kanasimunakare,wagaAneyo!TabinoKoromowototonoeyo!TabiAne.Warewosirekasi,Edatakami,Todokazimonowo,kanoHusawa1Ane.WakaretoiebaMukasiyori,,HitonoYonoTunenaruwo.KonoHakagenoTamamTewahurede,WagaSasigusinootinikeruNaga〓〓ruMiduwonagamureba,hadukasikiNamidakana!kana!YumeIVIm〓to.SitaeruHitonoMotonyukuKiminouekosotanosikere.Takadono.WakareyukuHitowoosimutoKoyoiyori,TokiYumediniwareyamadowanIm〓to.Wakarentaekanete,T〓kiHuyuyamakoetekimiyukaba,",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0044",
+   "pid": "956263",
+   "pages": [
+    54
+   ],
+   "no": 44,
+   "vol": "四　深林の逍遥、其他",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASY〓.Nagusamemo,NaregatanosikiUtagoemo;HikarinowowagaMizoya?NaniAne.Aa,HanatorinoIronituke,Nenitukewarewoomoekasi!NaregaKokoronoK〓tonoNemo,MataitukikankonoWakare.Im〓to.KiminoyukubekiYamakawawaOturuNamidanimiewakazu.KimiKy〓wakaretewaitukamatamadenoAimiruInotikamo?SodeniSigurenoHuyunoHiniKiminiokuran,HanamoganaSodeIm〓to.sayakekiKimigaMenoIromo,KimikurenainoKutibirumo;gana!Ane.Sodeni〓eruuruwasiki,NagaKaobasewoAogeyokasi!mo;midorinoKimigaKurokamimo,Mataitukamin,konoWakare.NagakurenainoKaobaseni,NagaruruNamidawarewanuguwan.Ane.Naregayasasiki",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0045",
+   "pid": "956263",
+   "pages": [
+    55
+   ],
+   "no": 45,
+   "vol": "四　深林の逍遥、其他",
+   "kotobagaki": "",
+   "author": "",
+   "text": "Ry〓sei.(流星)OsanoNe.OsanoNewoKikubekiHitowaimaiduko?KokorowoItoniyorisomete,NamidaninizimuMomenzima.YaburesiMadoniMiwonagete,KureyukuSorawonagamureba,NeguramisoguMuragarasu,Turenihanaretetobuitiwa,Atowositautek〓k〓to.Kadonitatiidetadahitori,HitomatigaonoSamisisan,Y〓benoSorawonagamureba,KumonoYadorimosutehatete,Nanikakoisiki,HitonoYoniNagareteoturuHosihitotu.Kimitoasoban.Kimitoasoban,NatunoY〓noAobanoKagenoSitasuzumi,MizikakiYumewamusubazuSemeteKoyoiwautaekasi!Kamome.moNaminiumareteNamin1sinuNasakenoUminoKamomedori,KoinoOonamitatisawag1,YumemusububekiHimamoKumotonarimataAmetonaruHirunoUreiwataezutomo,HosinoHikariwokazoemiyo!TanosiminoKazuY〓watukizi.nasi.KurakiUsionoodorokite,NagaratekaeruWadatuminoTorinoYukuemomiewakanuNaminiukinenoKamomedor1.YumekaUtutukaAmanogawa,HosiniKarinenoTanabatanoHibikimosumitekoiwataruOsanoT〓newokikameyamo.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0046",
+   "pid": "956263",
+   "pages": [
+    56
+   ],
+   "no": 46,
+   "vol": "四　深林の逍遥、其他",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASY〓.Kwaiko.(懷古)HirunoYume.HanatatibananoSodenoKanoMimeuruwasikiOtomegowaMahiruniYumewomitesiyori,SametewasururuY〓noNaraikakuMahirunoYumenonazomoarikerumonoka?WasuregatakuwaAmanoKawaran1yaoyorodu,TiyoroduKaminoKantudoi,Tudoiimases1Ametutino·Tokika?HazimenowotaresiruSoreOogaminoAmagumonoYaekakiwaketeyukugotoku,NonoTorizonakuAdumadinoUsuinoYamamnoboriyuki;YumetosirisebanamanakaniSamezaramasiwoYoniidete,Urawakagusanourawakami,,NaniwokaYumenoNagonTowabakotaen,mezametewakawakuMaAtukiNamidanozoto,HiwaterasedomoKagezonaki,WagaTumahayatokoinakite,AtukiNamidawososogitesi,MikotonoYumewaAtomomonasi.nasi.T〓zainanpoku.YamatonoKuninoTakaitinoIkadutiyaman1miyukisite,Amagumonoen1ioriseruKurumanoHibikiimaiduko?Otokogokorowotatoureba,TuyokumoKusawohukuKazeka?MotoyoriKazenoMinisiareba,Kin〓waHigasiky〓waNisi.MewomegurasebaSazanamiya,SiganoMiyakowaarenisito,MukasiwoomouUtabitonoSumeruUramimonanikasen,Onnagokorowotatoureba,KazenihukaruruKusanareya.MiniS1areba,MotoyoriKusanoKin〓waMinami,ky〓waKita.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0047",
+   "pid": "956263",
+   "pages": [
+    57
+   ],
+   "no": 47,
+   "vol": "四　深林の逍遥、其他",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASY〓.WAKANASY〓.Takadonon1HaruwakasumeruNoboritemirebaKemuritatuTaminoKamadonoNagamesae,KieteAtonakiKumomiru.Sirakabe.Tarekasiruran,HanatikakiTakadonowarewanoboriyuki,MidareteatukiKurusimiwoUtusiidekeri,Sirakabeni.KokonoenoHuyuwasigururuOomiyautinoTomosibiya,SamusawaYukinik〓ruY〓noTatunoKoromowaIromonaslTubanisirusesiMozinareba,Hitosirezukosokawakikere.Aa,aasirokiSirakabeniWagaUreiariNamidaarl.Mukasiwat〓kiHunaikusa,HitonoTisiononagarutomo,ImawamunasikiWadatuminoManmantositeKiwaminasi.MukasiwahirokiSekigahara,TuruginiYumewoarasoedo,ImawasabisikiKusanomizo,B〓b〓tositeHatemonaki.WareimaAkinoNoniidete,Okuyamatakakunoboriyuki,MiyakonoKatawonagamureba,Aa,aaatukiNamidakana!",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0048",
+   "pid": "956263",
+   "pages": [
+    58
+   ],
+   "no": 48,
+   "vol": "四　深林の逍遥、其他",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASY〓.YotunoSode.Tenba.(天馬)ZyonoUta.OiwawakakiwakosiKatani,Humin1terasedo,mareranaruKusikiTames1waHakoneyama,YayoinoSuenoY〓magure,Minam1noAmanoTowoidete,YonayonakitanoYadon1yukuTinokurenainoHosinoKage.Otokonolkinoyawarakaki,O-NatunoKaminikakarutoki,OtokonohayakiTameikino,Ararenogotokuhasirutoki.OtokonoatukiTenoHirano,O-NatunoTenimohururutoki,OtokonoNamidanagareide,O-NatunoSodenikakarutoki.Katakunanarls1Otokosae,HosinoHikariwoMen1mitewa,MinihurikakaruMagagotono,AmanoSirusitoutagaeri.OtokonokurokiMenoIrono,O-NatunoMuneniuturutoki.OtokonoakakiKutibiruno,O-NatunoKutinimoyurutoki.S〓nakininakuUguisunoNioiidetauKoewoage,SaedurikuruuNewokikeba,GenimedurasikiHarunoUta,HaruwoesiranuOtonesae,KanoUguisunQhitokoen1.MakuranoKaminosimerikite,HitonatukasikiOmoian.Hitokososirane,aaKoino,nagareide,HutarinoMiyoriGeni,kogaruredositaedomo,YamuTokimonakiSeizy〓r〓.MadaTokinaranuSirayurino,MagakinoKagemsakerumite,",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0049",
+   "pid": "956263",
+   "pages": [
+    59
+   ],
+   "no": 49,
+   "vol": "四　深林の逍遥、其他",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASY〓.TukumonoOkinaUtusiyoniKokoronoYokunoYumewokoi,NewodanikikanuHinaduruno,NokinoEnokinikitenakeba,NezamenoOunaNotinoyononakimadou.HananoUtenamMuranominaminoKatahotori,SonoY〓umaresimenoUmawa,NagaruruMidunoaizomenoAogeyasasikiSugatanar1.KitamumaresionoUmanoKurigemmaziruMurasakiwaIroAkebononoHarugasumi,HikariwomatouHuzeian.SoranikakareruHosinoIro,HarusakikaeruNatubanaya,Kore,Wazawain1arazusite,YosiyaSirusitoieruarl.NaniwoyoinakuHarudoriyo,tugekuruTurunoKoe,NaniwoSore,TorinoNeniuranaite,Yorokobiaritoiwauarl.TakakiHizirinokonoMuraniKoewoagesasetamauran?YowokatamukenyokiHitono,SidunoHarugusaniSigererunonosiredo,IdetamaukatoTarekasiruran,NiibosinoMakotonoKitawosasisimes1,Asi-no-MiduuminoSamisikitoki,SidumeruMiduniuturuNamonakiSidunoKatabisasi,HarunoYokazenoOtowotae,HosinoHikarimoosamarite,UwasamnokoruTurunoNeya,NakuUguisunlHanatireba,Aa,konoMuraniumaretesiUmanoariyatotouHitomonasi.Ouma.Ana,Amagumonitomonaware,MidorinoKamiwoutihurui,OumawaHitonisitagaite,HakonenoMinewokudarikeri.MunewaodoriteYaoziono,KanoWadatuminiwakugotoku,NodowayosekuruHarunamiwoNomedomokawakuHuzeian.MewahisakatanoAsanoHosi,MatugewaKusanoAsamidori,",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0050",
+   "pid": "956263",
+   "pages": [
+    60
+   ],
+   "no": 50,
+   "vol": "四　深林の逍遥、其他",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASY〓.UruoihikaruHitominiwaTisatonoSotomohogaranite,Higasin1terasin1s1n1iru,AmatuMisorawowataruHino,AsahiY〓hinoYukuesaeKumonoTaemanikiwamuran?HutatunoMimiwotatoureba,ItokasukanaruAsakazen,SoyogeruKusanoHanogotoku,HidumenoOtowotatoureba,SikonnoIronoYakiganewoTakakumotatakuHibikiari.KuruebanagakiTategaminoUtihuriutihuruMidaregami,,MoetewameguruTinoSiono,odoruHarunoUmi.NagareteHakukurenainoHikariniwa,HonoonoIkimoaradatite,Hukakumot〓kiInanakiwaOogaminosumuUtubarinoTiriwougokasuTikaraarl.Aa,AsadorinoNewokikite,HuzinoTakanenoYukininaki,Y〓tugewataruTorinoNen1,KisonoMitakenoIwawokoe,KanoAogumon1inanakite,SorayoriSoranoInadumanoHikarinoSuenikakurubekiOumanoMinitear1nagara,NasakemoatukunatukasikiAruzinoAtowotomekureba,Hakonemot〓si,Miideraya,HimoatatakaniHanahukakiSazanamiaokiMiduuminoKisinokotigotiKusawoyukuTennoOumanoSugatawobaTarekawaomoitarekasiru?Sirazuya,HitonoAmagumoniTamesiAyumuwaarumonowo,TenbanooriteOotutiniAyumuTamesinonakarameya〓Miyo,HudinoHanoKagehukakuKisinoWakagusaKaniidete,HarubanamyouTy〓noYume,SonoKagewohumuOumaniwa,HitotunoakakiHarubanan1,MiezaruKamiYadorinoari.HitotuuturouNonoIroniTukisenuAmanoUreiari.Aa,Wasi-takanotobuMitiniTakakukakareruOozoranoMugennoTurunihuretenari,",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0051",
+   "pid": "956263",
+   "pages": [
+    61
+   ],
+   "no": 51,
+   "vol": "四　深林の逍遥、其他",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASY〓.mtawamurete,OgamiMegamiTeruHinoKagenoKumoninaki,MitisiowoSoraninagarurukawakubekiNomitukusutomoTenbayo,naregaMiwomotite,TorinokitenakuNio-no-Umi,HanatatibananoKagewohumuSonoSugatakosooosikere.Meuma.AonamihukakiMiduumino,KisinoHotoriniumaretesi,AmanoMeumawaAdumanaruKanoMitinokunoNonisumeri.SimomuruoiKazenlsure,OtomowabisikiKarekusanoSusukiObananimanekarete,,!Arenon1nagekuMeumakanaTarekaTubamenoKoewokiki,TanosikiUtawoMiminisite,HimoatatakaniHanahukakiNisinoSorawobasitawazaru?TarekaAkinakuKariganenoKanasikiUtaniMimitatete,samukiT〓zoranoHurusatoKumonoYukuewositawazaru?SirokiHituzinimimahosiku,SukitewahukakuyawarakakiManakonoIronoUruoiwaWagaHurusatowosinobebaka?HidumemousukuKatayasete,YotunoAsisaehosoriyukiSonoTategaminoTuyanakiwa,ArenonoSorannagekebaka?HaruwaNatorinoWakagusaya,YameruTikaraniIsiwohiki,NatuwaKokubunoMinewokoe,MeumantamaruSiowoou.AkiwaHirosenoKawazoinoMomidinoKageniMutiutare,HuyuwaNozueniHimokurete,MizorenoMitinoDoron1uyu.Turuyo,MisoranoKumoniaki,AsanoKasuminoKaniyoite,HarunoHikarinoSorawotobuTubasanoIrononetakikana!Sisiyo,samisikiNonikakure,MitinakiMoriniodorokite,AkebonoTuyun1humimayouSurudokiTumenokoisiyana!Sikayo,AkiyamaTumagoimMomidinoKagewohumiwakete,TanimanoMidun1aegiyoru",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0052",
+   "pid": "956263",
+   "pages": [
+    62
+   ],
+   "no": 52,
+   "vol": "四　深林の逍遥、其他",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASY〓HitominoIronoyasasiyana!HitowotumetakuadikinakuOmoitorisiwaikutoseka?InotiwousukuasamasikuOmoisomesiwa,MiwosemuruTuyokiKubikin1nagekiwabi,HananiNamidawososoguyori.Kanasiikanaya,HarunoNoniWakeruIdumiwonomihosumo,AmanoMeumanokagirinakiKawakeruKutiwonanikasen?Kanasiikanaya,yukuMidunoKisinoYanaginoKinoKagenoKanoNiigusano〓kutomo,UetaruNodowoikanisen?MiwaTirihidinoYaemuguraYadoniumaruredo,SigereruKanasiyaTutinoAogusawaSonoNagusamen1arazikasi!Aa,TiriAmagumonoKonoyoya,niAmagumokoreyakono,ya!Kutuwamooreyo,Yomosuteyo,Kuruimoideyo,KubikisaeKamikudaketozoinorunaruMeumanoKokoroawarenari.TukisenuKusanoarltoiuAmatuMisoranositawasiya!KawakanuMidunowakuto1uAmanoIduminonatukasiya!SemakiUmayawosutehatete,SorawoyukubekiUmanoMino,Kokorobakariwahavaredomo,YamitewaoturuNamidanoml.KusaniumareteKusamnakuSugatayasasikiTennoUma,Ukiyonomonon1kotonarade,KiyuruInotinomerokikana!TiritehakanakiYanagibanoSonoSugatanimonitarikeri.NaminikieyukuAwayukinoSonoSugatanimonitarikeri.GeniYonotunenoUmanaraba,KakubakarinaruKanasimin1MinoWaduraiwouramiwabi,Koehuriageteinanakan.KokoroMidareteKonoYobakarinagakikanowaYoTategam1sidukanoWakare·nimo,narunoHukakukanasikiKoekikeba,Aa,kasukanaruTameikiniTennoUreiwomurasakinoNozuenoHananihukinokosuYonoNagorikosohakanakere.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0053",
+   "pid": "956263",
+   "pages": [
+    63
+   ],
+   "no": 53,
+   "vol": "四　深林の逍遥、其他",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASY〓.Niwatori.SoranhitotunoMy〓zy〓no,YamiyukuMidun1ugokutoki,HiwomukaentoNiwatorino,YorunoTukaiwoNenizonaku.HananyorisouNiwatorinoTumayo,Medoriyo,Kakitubata,IdureAyametowakigataku,SamonitukasikiHuzeiarl.TuyukekiAsanoaketeyuku.SoranoNagamewotarekasiru?MoyurugagotokikurenainoKumoROYukuewotarekasiru?SugatayasasikiMendorino,KatatiwohaduruKokorosite,Hanan1kakururuArisamamSinakawaritaruTumadoriya!Yamimokoreyoritonarinaru,KoehuriagetenakutokiwaHitonoNemurinominamezame,Y〓waHinikayouYumemakura.OosikuTosakatakekinoIroOndorimoTuyanonisite,KinaruKutibasiAsiKedume,Owasidariononaganagasi.Akehanaretari,Y〓wasudeni,IzaTumadoritoSuwoidete,EwoasarantoNo.niyukeba,Ana,ayanikunoMonowomiki.Toutemomimas1,tagatameniYosooiarikuTumadoriyo!KazariniTumamorutamenoIitagenaruzoidirasiki.toMisiranuTorinoNemotakaniAsitanoSoraninakiwatari,Kusakakiwaketekuruwanazo,Tumakourasiya,Tumadoriwo.Enikosokakere,HanadoriSorenimokayouhitotugai,SimoniWabinenoAsaborake,AmeniIrihinoY〓magure.noNetasiya,TuyuniHanenurete,AsahiniuturuKagemireba,",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0054",
+   "pid": "956263",
+   "pages": [
+    64
+   ],
+   "no": 54,
+   "vol": "四　深林の逍遥、其他",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASYU.WAKANASYU.KerareteoturukurenainoTisionoHanamoTimsomite,HutatunoTorinoMemokuruiTagainihirumuHuzeinasi.Odorin1osikisirotaenoYukiwoazamukubakarinari.Tikaraaruras1,KoetakekiKatakinoSamawoosoreteka,haditekaya,IroaruSamamMedoriwaHananikakurekeri.SokoniKoeari.Namidaar1,,ArasoikuruuyotunoHane,NorimsuberisiTumadorinoAna,taoreken,Koetakasi!Kakutomiruyor1taekanete,Sewoyatakamesi,TumadoriHagakimoarakutobihasiri,KedumeniTutiwokakikuruu.waHitokoetakakuhimeisite,Aton1taoruruTumadorinoHanewaTisionoaken1somi,Atarin1sakeruHanaakasi.HudegenoSamamosakadatite,MenoHikari,TisionimaziruHutatunoTorinoSugatakoso,KoreosorosikiHuzeinare.Aa,aaatukiNamidakana!AruniKainakiTumadoriwaSemetehitokoenakekasitoKabaneninagekuSamaaware!MedoriwaHanawokakeidete,ArasoiwakuruHimamonami,TagainikeauKedumeniwaHonoomotirutoutagawaru.NanitowasiranuKanasiminoItukaOsoretokawarikite,OmoimidareteNewonomizoNakuyaMedorinoKokoronaku.KeruyaSagannoMatosorete,HananiTisionoTumadoriwa,TekinoUganwomezasitutu.,Tumemooreyotokekaesinu.Warewokourasi,SugatamoIromoNenitatete,natukasiki",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0055",
+   "pid": "956263",
+   "pages": [
+    65
+   ],
+   "no": 55,
+   "vol": "四　深林の逍遥、其他",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WAKANASY〓.HananoKanasikiKatatitoomoikiya,Tekitonarantowa.AnaitamasineNagamekana!SakinotanosikiHanatirite,SorairokurakuhitohakenoKumonikanasikiNonoKesiki.Hanan1motururuTy〓aruwo,ToriniEnisinonakarameya?Osorosikikana,sonoKokoro!NatukasikikanasonoNasake!YukitekaeranuToriwaiza,TumakaMedorika,Kakitubata,IdureAyamewohumiwakete,NozuewokaeruniwanoTori.Aken1somitaruKusamireba,TorinoInotinomorokikana!HiyorimomoyuruKoimireba,TekinoKokoronoureslyana!Miyo,ugokiyukuOozoranoTeruHimoKumo.n1usuragite,HananiIronakuKazehukeba,Nowasabisikumokawarikeri.Kanasi,koisinoTumadorino,HiemasariyukusonoSugata,TayoritoomouhitohusinoIdureMedorinoMinoSuezo.OsorewoidakuHahatoKogaYorisougotokukanoTekiniNanitowanasiniMiwoyosuruMedoriKokoroawarenare.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0056",
+   "pid": "956263",
+   "pages": [
+    66
+   ],
+   "no": 56,
+   "vol": "夏草",
+   "kotobagaki": "",
+   "author": "",
+   "text": "MatusimaZuiganziniasobi,Bud〓RisunoKiboriwomite.Hunadimotos1Zuiganzi,,Huyu-zy〓y〓*noKokoronaku,HurukiTobiraniMiwoyosete,Hida-no-TakuminoUkiborino,Bud〓noKagen1kitemireba,BodainoTeranoHuyunoHini,KatanakanasimiN〓miureu.HorareteusukiBud〓banoKagen1kakururuKinezumiyo,Sugatabakariwakakusutomo,KakusuYosinas1,NominoKawa.UsionihibikuIsoderanoKanenikonoHinokururutomo,Y〓yamikaketetatazumeba,KoisikiyanazoZingor〓.NATUGUSAtomo,",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0057",
+   "pid": "956263",
+   "pages": [
+    67
+   ],
+   "no": 57,
+   "vol": "一　春やいづこに",
+   "kotobagaki": "",
+   "author": "",
+   "text": "IHaruyaidukoni.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0058",
+   "pid": "956263",
+   "pages": [
+    68
+   ],
+   "no": 58,
+   "vol": "一　春やいづこに",
+   "kotobagaki": "",
+   "author": "",
+   "text": "NATUGUSA.HaruyaidukoniKasuminoKagenimoeidesiItonoYanaginikurabureba,ImawaogurakiKositayami.Aa,hitotokinoHaruyaidukoni?ni?IrowohokorisiAsamidori,,WakakiMukasimoarikeruwoImawasigereruNatunoKusa.AahitotokinoHaruyaidukoni?UmemoSakuramokawarihateEdawamidorinoSakenogotoYoutekudururuNatunoYume.Aa,hitotokinoHaruyaidukoni?no",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0059",
+   "pid": "956263",
+   "pages": [
+    69
+   ],
+   "no": 59,
+   "vol": "一　春やいづこに",
+   "kotobagaki": "",
+   "author": "",
+   "text": "Uta.Namimidaretenokuruiyorutakakususamaziya!HibikiWasinoセーマヽ子noMirumenoKusawaaokusite,UmiUsionoKaninioi,NagaremonoHawamusuborete,AmaObunen1kogarurumo,AsitaY〓benoSadamenakiOotatugamimiruYumenoKurakiArasimodorokeba,Unabarakawaritutu.aokusite,UminoTubasanoHonewosobadateteSugatatutumuWakawasinoMiwaOoihaya,Sagoromoya,Horohautin1kakusedomo,MiyoOiwasiwaSokosirokuAkasudiOodumeniIwawotukamiteNakatakakiKasirakaninagamekeri.woAmanoMiya,HorohanonoAkasuditateruUnabaratokumoIwaKasirasidu-Tokutatikaere,Natunamin1,Tomoyobi-kawasuHamatidori!IwaniMosioyakuHiwakiehatete,hisomeruKamomedori.AmawaTomayaniHunewaIso,Isoutiyo-suruNamigiwanoKeduritetakakiIwakadomsibasiMiwoyosuniwanoWasi.n1,Tomoyobi-GeniSiragaminoMononohuSimowoharaugoto,KaraainoHanaMasuraonowositaugoto,MomidinoKageninakuSikaMidunoniaegugoto,ManakosurudokuOiwasiwaYukuewonozomukana!noTuruginoIwaninokanoAogumonoTanimamsibasiMiwoKumonoIkadutinoHinoIwaniotiotitekiyuruMamo,NemidaregamikaKurokumohukaretuSoranitobi,Bud〓noSakenokomurasaki,nitare,Aranamino,otiNamimaniWaga,Wakawasiwautihisomi,wasiwatatiagari,OgawamuturuMy〓zy〓nonitaruManakositeKurokumonoyukuOozoranomukaiumekisiga,waga,Oi-noKazeninosumeruniIrokosonokanatani",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0060",
+   "pid": "956263",
+   "pages": [
+    70
+   ],
+   "no": 60,
+   "vol": "一　春やいづこに",
+   "kotobagaki": "",
+   "author": "",
+   "text": "Idure,Kokoronookuretari,sadamubeki?takasihagesitoTikaraahureteSoraSugatakana!takakumaitatiagaruWakawasiwaKotodioya,Waga,AyanasuSiginoHunoyawarakaniTaniUkegewasirokusibatobutokimo,MasimidunoWakitenagaruruTubasawoutihitasiKonomeruKagewayukuHarun1sakeruHanatutuzi.MuneniKuroiwatakenoIwabanan1oukaWakawasinoIwakadohukakuMiwoyosete,tobuwoukagaumMonwaHanabisiMai〓giHayakazeno,Waga,OiwasiwohukuSamawahurun1nitarikeri.n1ounimomrunoOto-OiwasinoMiduniMai〓gihiramekikaerunoNagoriSamawahitohawoWaga,OiwasiwaKatatuyokuMuneHarahirokuahureide,HanewautisinoguKazewoHagesikisirukumoarawarete,HudinoHanakamo,MunenoHuMomonoYoroiwookugotoku,TorinoInotinoTatakainiTubasakakaruOinoSimo.TatakauginotameniOiwasiumaretewanoUtankatan,tooyam1naki,hukuIkiwaIrokurenainoHonookamo,nowakiagariTuyokiTubasawohirugaesimowosinogikeri.HanewoTuru-HanewanakiatukiMuneyor1nigeniKanasimimkanoAmagu-GeniikamesikiMononohuidure,TubasawobaOiwasinoHarihirogetaruhabatakite,OdoreruMunewaUmizioretunarugotoku,noTatenimoHikariwositauMinaredomo,kanasiya,OidorinoHitokoehukakiKurusiminoOtoraninokosioki,KinsinoNuinoKurozyusunozomiruKurokumonoSadamehutatabimitabinoOtowoMiso-nowakitunaga-noObikato",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0061",
+   "pid": "956263",
+   "pages": [
+    71
+   ],
+   "no": 61,
+   "vol": "一　春やいづこに",
+   "kotobagaki": "",
+   "author": "",
+   "text": "HasodenoutinitutumareteSugatakakienikeri.waituGinga.(銀河)Aa,SadamenakiOozoratokumokawariyukiKurakiArasinoosamariteUnabaraya,HosokukakareruAyagumoIronokomurasaki,UsumurasakinoUturoin1narikerasi.noKesikinoAma-no-Kawarawonagamureba,HosinoTikarawaotoroete,T〓kiMukasinoYumenoAto,Kokon1titosewosuginikeri.HikarinikaeruHosiwaYukarinotanosikiSonotoInotiwoIwamtunagitewawokaketomete,HorohamtutumuKasirawobataruWakawasinoHarinimonitaruTumasakinonuretaruIwabanan1Katakutukitaruhitotubawasoremoka,Oiwasino.hosokumoItoSoranoIdumiwoYonoHitonoKumun1makasetewakiidesiAmanoKawarawakarehatete,waidukoniuseturan?wobautimotage-KumunoAmemNagoriMiduSimohurikakaruOiwasinokuwaenagamureba,NatunoHikariniterasaretehibikuTakazionoKudaketehukakiUnabaranotatuWakawasiwaHikageniuturuKumosasitesirezutobuya,kanatae.nohitohawoIwaneniHibikiwoageyo,Tanabatayo!MidorinoSorawakawaranedo,HosinoYadorinoimawahatanoIwakadoniYukuemo",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0062",
+   "pid": "956263",
+   "pages": [
+    72
+   ],
+   "no": 62,
+   "vol": "一　春やいづこに",
+   "kotobagaki": "",
+   "author": "",
+   "text": "NATUGUSA.NATUGUSA.Hakuzi-KwabinnoHu.(白磁花瓶の賦)Misiya,MigiwanoSiroayame,HanayorisirokiHanagamewo?IkanaruHitonoTakumiyoriUmareidesitosiruya,kimi?Hu.Idukon1OsanoNewokikan?Aa,Hikobosimo,Tanabatamo,Imawamunasikuoikutite,NatunoY〓bewokatarubekiMisoran1wakakiHosimonasi.NatuKamenoSugatanoyasasikiwaNezasimokiyokiIdumiyoriNioiidetarusirotaenoKokoronoHanatokimiyayamin.SabakarikiyokiTakumizotoIitamaukosouresikere.UramiwabituruwagaTomonoUkinamidayoriidekosiwo.YumenltawamureYumenlyoiSamuruTokinakiwagaTomonoNagoriwasirokiHanagameniAtukiNamidanonokorukana!NigoriwoidetesakuHanan1Nioiaritonaayasimiso!HikariwatakakiHanagameniKoinoNetamimoarumonowo.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0063",
+   "pid": "956263",
+   "pages": [
+    73
+   ],
+   "no": 63,
+   "vol": "一　春やいづこに",
+   "kotobagaki": "",
+   "author": "",
+   "text": "HazimeteTomonoKoiutaHanakagenikiteutautoki.woSadamewoyosoniKageroonoKiyuruTamesizonas1toie,AmariniusukiEnisikosoTomonoKonoyonoInotinare,MidorinoIronoNatugusanoAsitanoTuyuninururugoto,HukakusuzusikiManakoniwaKoinoSidukunouruoiki.Yagatesakaen,yukuSuenoHikarimomatadeNatunoY〓noMizikakiYumewaTomosibinoHanatotiriyukuHakanasaya!Kagewoutu-itesakuHananoNagaruruMiduwositaugoto,NasakewohukumuKutibiruniKarakurenainoIrowomiki.TuvumomadahinuMidoribaSigekiKozuenoSitakageniHototogisunakuNatunoHinoMorohagakurenoAoumemo.noOtomegokorowoSiratamanoKuratowaTomonomitesikado,TakaranoMunewohirakubekiKoinoKagidaninakarisika?NatunoHikarinokagayakiteSatukinoAmenoharewatariKoganeirodukuUmegaenoTanosikiTokiyaarubekiwo.Itokenakikana,HitonoyoniTiearigaonoKoinaredoOtomegokoronoHakanasawaTomonoesiranuhokanariki.niMunenoAobanourawakamiAsatuyusigekiKozueyoriOtitekuyasikiAoumenoMinohitotunaruHanagameyo!AimitenotiwatokosienoWakaretonarisiYonoNagoriKanasikiYumetoomolslwoWareyawasurezl,NatunoYoha.InotiwausukiSeminoHanoHitoegoromonoUramonaku",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0064",
+   "pid": "956263",
+   "pages": [
+    74
+   ],
+   "no": 64,
+   "vol": "一　春やいづこに",
+   "kotobagaki": "",
+   "author": "",
+   "text": "TukiwaidekeriNatunoY〓noAobanoKagen1sasisoite,AogebaMunenisinobiiruHikarinoIronoSayakesaya.SakitetirinuruHananaruwo.ya.Aa,Kainas1yaSonoHananoYukasikarubekiKawokageba,YumeniYumemirukokotiHutarinoHizawoutiterasuTukinoHikarin1sasowaretu,SidukaniTomonoutauUta.siteWagakurenainoKaobasenTodomemoaenuNamidakana!Tarenikataran,WagaKokoro.Tarenikatugen,KonoOmoi.KusahumiwakuruKohituziyo,NaremoNozueniMayouMika?WakakiInotinoAsaborake,KokoronoHaruTanosimiyo.noSamayoiyasukiTabibitoyoNaayamarisoYukuMitiwo.itamasikiNadoKanasiminoYumetowakawariHateturan.TatuwokizamisiMiyabasira,HutokiKokorowaarlnagaraUsukiInotinohatatosenoNagoriwasirokiKamehitotu.KoiwanioeruMurasakino",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0065",
+   "pid": "956263",
+   "pages": [
+    75
+   ],
+   "no": 65,
+   "vol": "一　春やいづこに",
+   "kotobagaki": "",
+   "author": "",
+   "text": "Kirigirisu.TaorarubekiwoInotiniteHanasakutoniwaaranedomoAsatuyuomokihitoedaniUreiwohukumuHanagameya.KozoTutanoHanoKagenikite,UtaiidesimkuraburebaKotosimoonaziSirabemoteKawaruHusinakiKirigirisu.KozoAa,aakiyokiSirayukiwaTumorimoaezukiyurugoto,NatukasikarisiTomonoMiwaWarewonokositeusenikeri.SemetewasirokiHanagameyo,KienisiAtonoNonoHananoIronimoideyowagaTomonoInotinoHarunoYukinoNagonMiminakiwarewotogamesoyo!Uresikimonotoomoisiwo.SizennoUtanokakumadeniHurukiSirabetonarikeruka?wo!SizenOnaziSirabentaekaneteKusatoKusatonoHanawowakearuKatanitatiyoriteKoe",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0066",
+   "pid": "956263",
+   "pages": [
+    76
+   ],
+   "no": 66,
+   "vol": "二　新潮",
+   "kotobagaki": "",
+   "author": "",
+   "text": "126NATUGUSA.MusinoKotaewomotomekeri.woHanawohedatetekimigammakaseteutaedomonoKokoronokayowanebaSenakaawasenoKirigirisu.tameKikuIIUtaNiizio.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0067",
+   "pid": "956263",
+   "pages": [
+    77
+   ],
+   "no": 67,
+   "vol": "二　新潮",
+   "kotobagaki": "",
+   "author": "",
+   "text": "Niizio.I.WareAgemakinoMukasiyoriUsionoOtowokikinareteIsoben1asobuAsay〓beAmanoHunadiwositaisiga,YagatemunasikisonoYumewaMinoNariwaitonarinikeri.SitigwatuNatunoUminoKanoAmamon1niouY〓magure,AnimorotomoniHuneuketeTikarawohuruuMinarezao,IdureHunadewaisamasikuNamimanihibikuKainoUta.Y〓zioaokiUnabaran1SunadorisubekukogikurebaMakitewahirakuNaminoenoKamomenoYumemohiyayakaniUkabinagaruruUmikusanoMenimokasukanimiyurukana.ManakowoageteoturuHinoKiramekuKatawonagamuruni",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0068",
+   "pid": "956263",
+   "pages": [
+    78
+   ],
+   "no": 68,
+   "vol": "二　新潮",
+   "kotobagaki": "",
+   "author": "",
+   "text": "NATUGUSA.NATUGUSA.KumonoTobarimohitotabiKagayakikaeruTakamikuraNisinikatamukuNatunoHiT〓kuHikariwosidumekeri.waHasodeutihuruHayabusawaAyanasuKumowomaiideteTubasanoTiriwoharaitutuMononikakawaruHuzeinasi.waHy〓hy〓tositeToriwohukuKazenoTikaramonanikasen.IkioiTatunoyukugotokuHaotowokikebaKaturag1noSonoHikomukasikakinarasuMayuminoTurunoHibikiari.MiyouruwasinoYorunoSora,Miyouruwas1noSoranoHosi,HokutonokiyokiKagesaeteNozomiwosasouAmanoHana,TowanoYadorimoHunabitonoHikariwoaoguTamesikana.NozomisuguresiHayabusayoSemeteHunadinosirubeseyo.takakiAratamawaGenisonoTekinlomomkuSiroumanoSirokiTategamiutihuruiKazewoyaburunlmasaruUsiowoterasuKagaribinoKiramekuKatawoukagaebaMatunoHiakakumoyuredomoUeyukuKagewamiewakazuNagarewahayasiHunaberimHuretekatunaruYorunoNami.kana.UnaduramirebaKageugoku5HukamurasakinoKumonoIroHayakureteyukuAmagiwaniYukueyat〓kiHayabusanoMorohawaAyan1uturoiteKoganenoNaminitadayoinu.AsitaY〓bewokizamitesiAmanoHasiranoKagekurakuⅡ.MatatakuHimaniKazehukiteMaitatuKumowotatourebaIkusan1nozomuMasuraonoAruwaKaneutiKaiwohuki",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0069",
+   "pid": "956263",
+   "pages": [
+    79
+   ],
+   "no": 69,
+   "vol": "二　新潮",
+   "kotobagaki": "",
+   "author": "",
+   "text": "AruwaTatihakiTurugitoriYumiyawomotun1nitarikeri.AruwakewasikiAoyamawoSinogun1magauNaminoueAruwatihironoTanihukakuOturunimagauNaminoKage.HikariwahanareHosikakureMisoranoHanawatiriusenu.AyauruwasikiMakimonowoTakakunobetaruOozorawaMiruManikuraku〓wareteMemsusamazikukawarikeri.TatakaisusumuMononohunoTuruginoSimowoharaugotoAhururubakarihuruitatiUsiowoutitekogikurebaYanawahutarinoTatenisiteKadiwasurudokiYaibanarl.1KikebaharukaniBangunnoTokinoHibikinlutimazeteDinranoNeirohogarakaniNonoSoratakakuhukerugotoKurakiUsionoOtonoutiItoatarasikiKoesunarl.TatoebaNamiwaNisikazenoKozuewohuruihurugotokuHunewakareyukuAkinoHanoEdanihanaretetirugotosi;HobasiranakabaorekudakeKagariwaUminitadayoinu.KanasiyakuruuOonaminoHuneugokasutomiruutiniRowousinaisiHarakarawaGenikieyasukiSiratuyunoOtitehakanakunarerugotoUminoMokudutokawarikeri.WareamatatabiUminkiteKazehukiokoruOriorinoNaminoHibikininareslkadoKakarusuzusikiNewotateteKusikiMa2nohukuKaku3kaUtagawaruruwakikazariki.tozoKokoroseyokas1,Harakarayo,NaosoresotosakebuutiAaOmoinomihayaredomoManakonomaenoOdorokiwa1萬軍2魔3角",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0070",
+   "pid": "956263",
+   "pages": [
+    80
+   ],
+   "no": 70,
+   "vol": "二　新潮",
+   "kotobagaki": "",
+   "author": "",
+   "text": "TurugitonariteMunewosasiTidiniTikarawokudakutomotakakiSakanamiwaIkariteTakekiKokorowoitamasimu.Kutiteyukukatoutagaware,TokiniwatanomuHitomonakiTumetakiYominoMinasokoniSidumukatokosoomowarure.SadameyonaninoTawamurezo?HitonoInotiwaHarunoY6noYumetoyaSgenimoYumenarabaItodokanasikiYumewoS1moMiruniyaaran,Uminikite;ManoatarinarukonoYumewa.Aaayamatinu,yosiyaMiwaOrokanaritomokakutewareMorokuhatubekiInotikawa.TeruHiyaTukiyaueniar1,OotatugamimoKokoroarabaIyasikiwarewomisonawase!KorewoomoebaMunemititeNagaruruNamidasekiaezuImahataKaiwoutihuriteNamitotatakauTikaranakuSisitetaoruruHitonogotoMiwoHunaitanlnagehusinu.KakutoKokoron1sadametewaNaniMonokawatohagemitatiYaminokanatawoukagauniSorawasabisikiAmetonariUsion1uturuRinnoHinoMidaretemoyuruKageaosi.HitohanimagauHunenoutiNaminimakasetenagaretutu,KoewohanatitenakiirebaGeniSokoinakiWadatuminoUeniYukuemoSadamenakiKamomenoMikosokanasikere.WareYorubenakiUminoeniIkeruTikaranoMunenoHiwoWadukanitanomuKokoroyori,,KietewamoyuruYaminoY〓noSonosidukanaruHikarikosoTadayouMimwauresikere.AyaukibakaritomosurebaNaminiyurarurukonoHunenoTokiniwat〓kiTokoyaminoHikarinakiYomnagareoti",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0071",
+   "pid": "956263",
+   "pages": [
+    81
+   ],
+   "no": 71,
+   "vol": "二　新潮",
+   "kotobagaki": "",
+   "author": "",
+   "text": "NATUGUSA.NATUGUSA.136NodinoUme.Yukuewoterase,RinnoHiyo!UmiyoriideteUmiwotakuAokiHonoo1.0KagenohokaMitisirubenakiimanoMizo.KazekaguwasikuhukuHiyoriNatunoMidorinomasarumadeKozuenoKatanihagakureteHitonisirarenuUmehitotu.hukuHizo.Kudakabakudakeidesaraba,NamiutuKadiwakokoniar1,TatoiHunadiwakurakutomoYonikatuMitiwamaen1ari,AaNiizioniutinoriteSadamewoouteikitekaeran.Kozuewatakasi,TewonobeteEkosohuremeya,tadahitoriAsay〓Waga-mono-gaoniwoNagamekurasitesugositeki.0tomomaewoouteYagatenakuToriomosirokuKoganenoIronisomenasebaYukikauHitonoMen1hureteOtitehumaruruNodinoUme.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0072",
+   "pid": "956263",
+   "pages": [
+    82
+   ],
+   "no": 72,
+   "vol": "二　新潮",
+   "kotobagaki": "",
+   "author": "",
+   "text": "Beturi.Bansyunno(晩春の別離)MidumuturouYamasironoMiyabinoMiyako,yukuHaruKasumeruSugatamitukusiteKinainisemaruIgaIsenoSuzukanoYamanoNamit〓kuUminioturuwonozomutoki,IkaniyorodunoUramiwobaSorayukuWasin1kiwamuran.noTokiwakureyukuHaruyorizoMatamizikakiwanakaruran.UramiwaTomonoWakareyoriSaraninagakiwanakaruran.KimiwookuriteHanatikakiTakadonomademokitemireba,MidorimmayouUguisuwaKasumimunasikunakikaeri,SirokiHikariwaSaohimenoHarunoKurumawoterasukana!HarusariyukabaaoniyosiNaranoMiyakon1taduneiriTositukikimigakoisitauMid〓noutiniasobutoki,HurukiTakuminoHananoKanoGarannoKabennokorinabaIkaniNioiwoMin1simeteHukakiOmoinisidumuran.KoreyorikimiwayukuKumotoTomoniMiyakowotatiidete,OmoebaBiwanoMiduuminoKisinoHikarin1mayoutoki,HigasilbukinoMinetakakuNisiniwaHieiHiranoMine,HiwayukikayouYamayamanoHukakiNagamewohusiaog1,〓IkanisuguresiOmoiwokaSidumeruNamin1tatayuran.toSatewaAkitunoSimaganenoMinaminoTubasa,KinoKuniwoMeguritesusumuKurozionoyukuNarutoniotitetokoroAmagiwat〓kusirokiHinoHikariwomorasuKumosakete,MeniharukanaruT〓uminoNaminoodoruWOnozomutokiNagarewamunas1,YumeharukanaruH〓〓noKamonoMidu,WOnozomu",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0073",
+   "pid": "956263",
+   "pages": [
+    83
+   ],
+   "no": 73,
+   "vol": "二　新潮",
+   "kotobagaki": "",
+   "author": "",
+   "text": "IkaniKimiMuneutuOtotakakugaTisionosawaguran.OniwomookosiUtabitonoTamawomot〓kukaesitutuSuzusikiKoewoutiagete,KutisenuK〓towokakinarase!MatawaNaniouUtamakuraNaminititosenoIrouturuAkasinoUranoAsaborakeMatuYoroduyonoNenihibikuMaikonoHamanoY〓magure,MosisoreUminoKumootiteAwadinoSimanoKagekurakuSagirinoutininakikayouTidorinoKoewokikutokiwaIkaniUrabenisasuraiteT〓kiMukasiwosinoburan.AaUtagam1nohukuIkiwaTaetesabisikunarinikeri.HibikimunasikiTenraiwaIdukunikaaru?KokonotunoTakuminoKaminoKandumari,KansabimasesiTotukuninoAzennoMiyanoTamagakimoImawauturolkawarikeri.KusanoMidoriwaGreecenoMakibawoimamo〓utomoMivabitukusesiInisienoHuenoSirabewaidukuzoya?KanoBabironnoMiduaokuTitosenoIrowoutusutomoYanagin1kakesiInisienoK〓towamunasikunagarekeri.ran.moGenikimigatameYamayamawaKumowotodomen,UraurawaIsoninagaruruSiranamiwoAgentosuran,yosisarabaTabidiharukaniNobeyukabaNobenoHimegotoMoriyukabasagurimote,MorinoHimegotoTakakininoboriAmetutinoMonakan1asobiOokawanoNagarewokiwameYamayamanoKamiwomoyobaiTanidaninoGeniyaMiyabiwokoisitauKiminiS1arebakimigatame",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0074",
+   "pid": "956263",
+   "pages": [
+    84
+   ],
+   "no": 74,
+   "vol": "二　新潮",
+   "kotobagaki": "",
+   "author": "",
+   "text": "TakuminoSoramkakaruHimoTokiwomitibikuHosikagemoIdureYukuewoteras1tutuHukakiHikariwosimesuran.TukinoHikarigosyu.SanariIwaowoutuNaminoY〓benoYumewoarautomoMidorinoKisinimakurasiteMatunemurinabaikanisen.Saraba,NagoriwatukizutomoTamotowowakatuY〓magure;Miyo,Kagehukaki〓basimanlKemuriwohukumuHudinoHam,KitayukuKariwaOozoranoKasuminisiduminakikaeriAyanasuKumomoureltutuKimiwookuruninitarikeri.AogebaMunenisinobiiruKiyokiHikarin1terasareteWarenomihitoriHuehukedoKimiodorazubaikanisen.KoyoiTukikageatarasikiKoromowokimin1motarasuTositukinaretehuritaruwoKimiS1sutezubaikanisen.moAaitukamataaiauteMotonoTigir1woatatamen,UmemoSakuramotirihateteSudeniYanagiwahukamidori,HitowaakanedoyukuHaruwoItumadekokonitodomubeki?Wareniosimuna,IedutonoIssinoHudenoHananoIrokaKumowamidorinoNamiwoage,TakakiUsiowowakatutomoKimiS1NamidanokarehateteMuneugokazubaikanisen.wo!Wareayamarer1,sonoKaranoYasukiwoomoeKatatumuri,,KimisiNemurinotanosikubaSamezumoareyaTukinoHikarini.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0075",
+   "pid": "956263",
+   "pages": [
+    85
+   ],
+   "no": 75,
+   "vol": "二　新潮",
+   "kotobagaki": "",
+   "author": "",
+   "text": "HarukanikikebataedaeniNagaretehibikuTaninoMidu.GeniyaimizikisonoKoewaItosimeyakaniTumagotonoItadowomoruruSinobinenoItonoSirabenikavouran.I.SanakidaniTuyusitataruruHukakiKkagemtatazumebaOizunoYumenitatoubekiYorunoOmoin1youmonowo,TukinoHikarinosasiiriteHayasinoSamazosidukanaru.MidoriwoarauY〓datinoSuginisiAtonoKozueniwaSumitaruSakenoKanikayouSidukunagareteniouran.wo,HibikiwoageyoTaniainiMusebitekudaruKawamiduya,HibikiwoageyoTukikageniSirabewotukuruKawamiduya,YosiyaHayasinohukakusiteMeniwaNagarenomiezutomoTukinoHikarinisasowareteYorunoOmoiwookure,sonoKositan1Yumewomiyototeka,HayasinoYorunoSidukesawaKurakimsidumuKiginoHanoKagenohukakiniyorebanar1.ObotukanakumoKinoKagenoYaminohukakinisidumeruwaMidorinikemuruY〓noTukinoHukakiKoedawomoreideteHikarimoitodohanavakaniSasiiruKagenoarebanar1.K〓to.Ⅱ.MiyakonoTiriwakakarutomoItinoHibikiwakavoutomoSanagaraTukiniterasareteKagaminimagauIkenoOmo.SazarenamitatiIkemidunoUgokeruKatawonagamurebaKagaminoutiniMidutori110MuragariasobuKagenomiyu.Mimiwotaturebanatukasiya,Kanatakonatan1kogakureteNakuNewomorasuHototogisu.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0076",
+   "pid": "956263",
+   "pages": [
+    86
+   ],
+   "no": 76,
+   "vol": "二　新潮",
+   "kotobagaki": "",
+   "author": "",
+   "text": "HitonoYowagenitodomaradeTokinituketutuugokutomoTakuminoKuninoSidukesawaKonoIke-no-monnitarukana!KokoronoHananoUturoiwautiHitoyoNemurinoniari.KorewoomoebataegatakuMigiwanikudariIkemiduniHibikuwokikebaOtot〓kuSidukanisidumuKanenoKoe.KasikonukabuMidutoriwaSidumutomonakitagaKagezo?Kasikon1ugokuSazanamiwaTagayuamisuruWazanaran.Ⅲ.AateruTukiwaMukasiyoriHitononozomunimakasetari.TakuminoHanawaMukasiyoriHitonositaun1makasetari.Gekk〓noKyokuGinnoHue,HarukekiNisinoKuniburinoKimihukisusabuhitohusiwaMidorinoKumowotodomekeri.TomosibitoriteyomosugaraAsobuto1umoKotowariya,Takumiwanagasi,Tukikiyosi,KonoInotikosomizikakere.TukiwaKozuewohanareideKagehanayakanisasumonowoImahitotabiwasemetekimi,HukeyaSirabewo,onaziNeni.InotiwayosivaYubioriteOsikaranumadekazoutomoNozomiwat〓kuYumeatukiSonoHonookosomizikakere.TatoebasumeruMasimidunoIwaniahuretenarugotokuHukakiMakotonoIdumiyoriSonoHuenoNeyanagaruran.Tarekawahayakuoizaran,Tarekawahayakukutizaran,IduremoSuewaHanasugite",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0077",
+   "pid": "956263",
+   "pages": [
+    87
+   ],
+   "no": 77,
+   "vol": "二　新潮",
+   "kotobagaki": "",
+   "author": "",
+   "text": "MakotonoIrowaasenanwo,KimiwaikanaruTakumimoteKakuatarasikiKoewohuku.Arae,midorinoKinoKagenoSitataruTuyunoSuzusisaniKimigakurusikiAraganenoTutimotokenan,HirunoYume.MukasinoK〓tonoHuwahuriteIkumomotosewosuginikeri.TakuminoHanawaKusatonariUtubarinoTiriYamatonaru.Musi,NemotakakuMurewoK〓tonoSiraben1samonitari.Kazeonodukarahukiniou,Tagamanekutomonakarikeri.yobu,Y〓gureHasinoTamotoniteMukasinoHitoniaugotokuSarebahitohusiatarasikiKimigaSirabezonatukasiki.MoyuruHonoonokurenainoTirimosidukaniosamariteTanosikiSononikawariyukuY〓gureSamanoomosiroya.Uresiya,takakiNewosoeteKiyokiOtokonohukuHueniMidorinikeburuTukikagenoIyauruwasikumiyurukana!Kimiyamoyukuka,warewaS1UkaberuKumon1taekaneteHikariwoabinSiroganenoHanayakanisasuTukinoHikariS1mowo.Ⅳ.V.Y〓betonarinu,NatunoHinoNagakiTutomewoutisuteteIzayaoosikiKainayoriNagaruruAsewonuguekasi!AatokitositeTukimirebaMunasikiAmanoTowowataruSumeruKagamitomienikeri.AruTokiwamataYonitikaku",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0078",
+   "pid": "956263",
+   "pages": [
+    88
+   ],
+   "no": 78,
+   "vol": "二　新潮",
+   "kotobagaki": "",
+   "author": "",
+   "text": "IzayoiwataruYokogumoniItonareyasukumienikeri.AkatukinoTanzy〓.HigasinoSoranohonobonctoNagaYowasiramisomenikeri.KonoAkatukinoSamawomiteSadamewoikaniuranawan.MatatokitositenagamurebaItodoTunenakiYowokoeteKutizutukisezumienikeri.AruTokiwamataKagekiyokuMadokanitakakukakaredomoTokukakeyasukumienikeri.KotonisayakekikurenainoHikariwohanatuAkabosiya,YagateOtometonarumadenoNagaOisakinosirubeseyo!MatatokitositenagamurebaHikarinoItoniY〓toAsawoTunagitodomutomienikeri.AruTokiwamatahiyayakaniHanatoKusatonoWakatinakuYoterasukatomienikeri.woAsakazeMaiwomaugotokuHarukaniKumonoSodewohukiToriwaNezameniodorokite,MaduSinonomewoyobinikeri.MatatokitositenagamurebaMukasimoImamosamayoiteYukuemosirazumienkeri.AruTokiwamataSadamenakiUkaberuKumonimakurasiteNemurisidukanimienikeri.HazimeteAsanoTokonoeniNagaUbugoewokikutokiwaTubomiwoyaburuAkebononoHatisunoHananimagaukana!NurukiUsioniyuamisite,AsahininiouAkanezome,MadaTumimonakiSugatakosoNakabawaYumenoHuzeinare.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0079",
+   "pid": "956263",
+   "pages": [
+    89
+   ],
+   "no": 79,
+   "vol": "二　新潮",
+   "kotobagaki": "",
+   "author": "",
+   "text": "IkaniikanaruYonar1towaOmouKokoromonakaramasi.SonouruwasikiManakomoteNaniwokamintonegauran.MunewonagaruruAyatoIroatarasikuorasimeyo!naslYosiK〓tohikazuUtayomazuEwokakuWazan1sugurezumoSemeteTakumiwokoisitauHukakiKokorowomotasimeyolMada,umarekosiYononakaniNegauMotomemonakaramasi.SoraniyasasikiTewonobeteNaniwokahayamositauran.SakadukiageteyokiSakewoKokorogokoronikumikawasi,UtawotukuriteYorokobinoKonoAkatukiwoutaiutawan.YukuSueHanatooitatite,IkanaruYumewokasanutomo,KakaruyutakekiAsanogotoKokoronoSoranosidukanare!Aakutizuty〓kokonotunoTakuminoKamimoKokoroaraba,KonouruwasikiMidorigoniKaorinoTuyuwososogekasi!YagatekonomiteK〓tohikabaYubiwoBud〓noTurutonasiMimiwosoyogeruAsitonasiTanarenoIton1huresimeyo!YagatekonomiteHudemotabaKokorowoHuminoOsatonasi",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0080",
+   "pid": "956263",
+   "pages": [
+    90
+   ],
+   "no": 80,
+   "vol": "二　新潮",
+   "kotobagaki": "",
+   "author": "",
+   "text": "HitobitonoIdakikogaruruNamidawaTokowohitasutomoKaorimunasikuHanaorete,Sadamenomaemtaorekeri.*Sy〓enY〓be.noUsiowaotitekaerikeri,InotinoKisiwoutuNaminoYagateY〓bemmegureruwoHikitodomubekiSubemonasi.MegumiwaatukiTitihahaniSakidatukotonoKanasisawoKakotiwabitesiKutibirumoImawaTuyanakuTikaranasi.Yukun1makaseyo,ikumakinoHizirinoHumiwaaritotemoGibanoTakumimoUmiyamanoKusurimoimawaTikaranasi.SitaiaerisiHarakaramNagakiWakarewotugentoteHukakiNasakemkagayakisiKokoronoMadomotodihatenu.HatigwatuHotarutobimidareOwarinoTokonimayoikiteMadaurawakakiTaoyamenoNioinoTamawosasoikeri.YameruMakurabetikakukiteY〓benoTorinonakuKoeniNamidanagaramohohoemisiIrosaeimawaidukozoya.MisoranotakakiTowoideteAyanasuKumonokudarutoki,KanenoHibikimosidumariteNemurugagotokuIkitaenu.HikarimomiezunarinurebaMimamoruHitowoidakisimeNawotadunetutuTewotorisiKainawaIsitonarinikeri.UruwasikarisiKurokamiwoHukuKazeitodohiyayakaniMakurawoterasuY〓gurenoHosimoOmoiwoitamasimu.OturuHiwomiyohitotabiwaKagayakikaerisidumugoto*終焉",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0081",
+   "pid": "956263",
+   "pages": [
+    91
+   ],
+   "no": 81,
+   "vol": "二　新潮",
+   "kotobagaki": "",
+   "author": "",
+   "text": "YagateHikariTuinikieyukuwomatoisiwaTokinariki.Uguisu.Sabare,munasikiSaeduriwaSuzumenoMurenimakaseteyo!UtauwokikeyaUguisunoSugikosiKatanoOmoidewo.AaSinoUminoSokohukakuKoemoKotobamokayowanebaNagekiamarisiHitobitonoNamidawaSiotonagaruran.HazimeteTaniwoidesitokiKitakazesamukuArarehuriUtiniNozomiwaahururedoYukuewaKumon1kakureteki.OwarinoTokonoNakigarawaArisiNagoriwomisuredomoHayasonoTamawatokosienoNaminikakururuKamomedori.waTuyuwamidorinoHanewotodiSimowaTubasanoHanatonaru.AsitaniNobenoYukiwokamiY〓beniTaninoMiduwonomu.SamusaniTumemok〓rihateTaenantosuruTabigotoniMataaratanaruYon1ideteKusikiInotinikaerikeri.AaKaregikunlmakurasiteHuyunoNagekiwosirazarebaTagaMinitomen,hukuKazeniNioimidaruruUmegaKawo.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0082",
+   "pid": "956263",
+   "pages": [
+    92
+   ],
+   "no": 82,
+   "vol": "二　新潮",
+   "kotobagaki": "",
+   "author": "",
+   "text": "TanimanoSasanoHawowaketeK〓reruTuyuwonomazarebaTagaMinisimen,SirayukinoSitammoetatuWakagusawo.Karigane.SamoarabaareUguisunoTakuminoOkuwatukusanedo,MatawaMiyamanoKomadorinoSirabenohodowautawanedo,MaduKazarinakihitokoen1Namidawosasou.AkinoKari.GeniHarunoHinoNodokesawaKurakutesugisiHuyunoHiwoOmoisinoberuTokinikosoIyatanosikumoarubekere.NagakiNagekiwamorasutomoNaoAmariaruKanasimiwoUtusuYosinakinaregaMika?NadokakuAkiwoyobuKoenoArakiHibikiwomotarasiteHitonoKokorowomidasuran.UmenokozomenoHanagasaKazasituyoituutaitutuSarabaHarukazehukikitaruNioinoKunimtobiteasoban.woAaAkinoHinoSamisisawaOzikanosirerukagirikawa.SuzusikiKazeniodorokiteHasodemoitodohiyayakaniMomotinoTorinoMurewoideUkaberuKumonlnarurukana!KikuyorioturuHanabirawaNagatuibamunimakasetari.Siguren1somuruMomidibawa",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0083",
+   "pid": "956263",
+   "pages": [
+    93
+   ],
+   "no": 83,
+   "vol": "二　新潮",
+   "kotobagaki": "",
+   "author": "",
+   "text": "Naregakazasun1makasetari.KoewohanatitesakebutomoTarekaimasiwotodomubeki.Wasuregusawoyomite.\"\"SimadaUdi\"WasuregusawanoMusumeAi-koganokosiokeruUtabumiamataarikeruwo,sogaOsieoyanaruHitonoHunesasiyoseteSirusiariyatotumi-atumetaruhitomakinari.ZyonoUtawaMadenokodiHaku,SyodenwaHigasikuzeHaku,Tuit〓noUtawosoetaruwaTiku-hakuennoUsinari.NaoMakinoOwariniwaTomogakinoTamukegusaamatano-setarugaiduremohukakuTuibonoKokorowoyosetari.MakinoHazimenaruOmokagewaKaminoTukanezamamoitotutumasikuMaegaminomiwaNisi-burinisiteuruwasikukirisagetaru,madauiuisikiKataagenonitukaitarunado,idureMukasisinobunoTanenaranuwanasi.IewaKanagawanaruKawasakimatiniantoiu.26nennoAkiyoriMiyakonidetemanabunokatawara,TikuhakuennoAruzinitukiteUtabuminoMitiwoosame,sugu-retaruHomarearlslwoyotosemenoHaruYamainikakari,Tosiwadukanizy〓sitinitemimakarinu.SonoMukasiOriorinoKik〓noHuminadowagaMotommoteHosiwaAsitanihiyayakaniTuyuwaY〓beniitosirosl.KazenisitagauKirinoHanoEdaniwakaretetirugotokuMisoranoUminiurabureteTatikaerinake,AkinoKarigane.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0084",
+   "pid": "956263",
+   "pages": [
+    94
+   ],
+   "no": 84,
+   "vol": "二　新潮",
+   "kotobagaki": "",
+   "author": "",
+   "text": "kiteTy〓wokuwaeyonadoiisikotomoomoiiderare,sabakarinoEnisimoarikerebakonoMakihimodokiteKwaiky〓noZy〓nitaezu,ZatunoUtanoOwaraini\"Yamai\"hasigakiatusikarikerutokitosite,TitihahanohukakiMegumiwoyosonisiteKusabanoTuyutokientosuran,toarisiwoyomi,sunawatisonoUtan1tinamiteHudewookosi,KanasiminoUtawotuduru.HiroumotukiziKotonohanoNioiwonokosuWasuregusa.SuguresiyueniUtusiyoniTodomemoaezukurenainoUturoiyasukiIroniideNarewayahayakuuseniken.AsitaY〓benoyukuKumonoHatateniMonowoomounareKokorodukusinoYominimataMuneodorokasuYumeariya?MotoyorikiyuruTuyunarebaTarekaKotobawotukusutomoTiranuSugatanitatikaeriMotonoKusabaninoborubeki.HaruwatanosikiUguisunoNagaOkutukin1utautomoYomidiwaikaniMokurannoHanayorioturuTuyuar1ya?niHutatosenoNatuhayamokinu.NokoreruHitonoosimitewaAmaruNamidawososogitesiOkutukinoHanasakuranka?Akiwasabisiki-MomidibanoNagaOkutukinikakarutomoUreiwoikaniMen1ateteOsinuguubekiKikuariya?MidorinoKusanooiideteUruwasikiMiwoTamaninukiNaregaHakabawokazarutomoSidugokoronakunemururan.yukasikusakiideteAsitaY〓benitiruwokazourun1AaAodukanoAogusamoIkusonoHitokaawareman.MusasiabumimoMurasakimoTuiniwaonaziKirihitoha.n1",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0085",
+   "pid": "956263",
+   "pages": [
+    95
+   ],
+   "no": 85,
+   "vol": "二　新潮",
+   "kotobagaki": "",
+   "author": "",
+   "text": "YumenaosoresoKazeareteKumowaUkiyonisawagutomo,YumenaosoresoInadumanoNagaOkutukiwoterasutomo.Nareyoyasukare,KutinasinoIronoIduminoKisinisakuYomidinoHananimakurasiteKusabanoKagen1ineyokasi!K〓zanmnoboritet〓kuUta.nozomunoTakanemnoboriManaziriwoKiwametenozominagamurebaWagayukusakinoYamakawawaMenimohogaranimiyurukana!MisorawosinoguKumonoMineKudaketet〓kuAoniiru.KogosikukusikiIwaganenoTuranariwataruYamanamiwaUminikioeruTakazionoOdorokimidarewakugotokuOoyamazumimoyurugiideWagaTamasiiwoubaukana.TarekawasosirltagauramuTubasawonobesiHayabusawaMunasikiAmanoTowotukiteTakakiMisoranikakeredomoUtihuriutihuruHasodedaniHikitodomubekiKumomonasi.T〓kuMidorin1〓wareteNozomiwotutumuNonoKatani",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0086",
+   "pid": "956263",
+   "pages": [
+    96
+   ],
+   "no": 86,
+   "vol": "二　新潮",
+   "kotobagaki": "",
+   "author": "",
+   "text": "HigasinkudaruKawanaminoYukuewomirebamurasakinoYamanoHumotowoutihitasiT〓t〓tositenagaresaru.HutatunoIdumi.SizennoHahanoTibusayoriSokomnagaruruIdumiari.AaOozoraniKazehukebaKumoonodukaramaugotokuMayoinoKirinikomeraresiKurakiTanimawoayumiideTakanen1arebaTokiwoeteHarukaniagaruwagaKokoro.TatoebaHananoOtomegoncYagateyasasikiHahatonarl,SonoMidorigonoKutibiruwoUruosuSaman1nitarukana.HitotuwasumitehiyayakaniTaninoaidan1hodobasiriHawokasanetaruAogusanoSigeminoutiwonagarekeri.KaerimisurebakoetekosiYamawaUsironiotiiriteArenisiMorinoKagemonakuSabisikiNobemomiewakazuHinoterasutomonanaeyaeWagaHurusatowaKumon1HitotuwaIdumiatatakaniSonoIrokurakunigoriideHibikiwaKaminonarugotokuIwaonoKageniahurekeri.kakurete.SatiwaAtusan1tukarehateKawakikanasimuHitoniare!AaKinoKagenoKusahukakuSumeruIdumiwonomihositeSizennoutiniwakiiduruKiyokiInotiwokumasimeyo!",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0087",
+   "pid": "956263",
+   "pages": [
+    97
+   ],
+   "no": 87,
+   "vol": "二　新潮",
+   "kotobagaki": "",
+   "author": "",
+   "text": "SatiwaNozominousukusiteOmoinayameruHitomare!AaY〓kazenokitarutokiAtukiIduminiyuamisiteSizennoutinihodobasiruKusikiTikarawosirasimeyo!Amanogawanisyu.Sonoiti,SitigwatuMuikanoAsuwaomoebahitotoseniHitoyonoAkinoY〓benari.UkiyonisigeruKoigusawoMisoranoHosimotumantoya,HckutowaIrowoaratameteYorodunoHikarinamamekinu.Y〓be.IwatoIwatonoTaninoKageSunatoSunatonoYamanohawoMidorinoKusanooiideteHanasakuSonotonasumadewaAhureidetutuHirumoY〓moTaenuIdumitosiruyaTabibito!AogebakiyosiSirokanenoY〓namitakakiAmanogawa,HukakiIdumiwowakiideteUkiyonosotonitatisawaguTukisenuKoinoKawamiduT〓kuidukuniahururan.moyawaNisikazeHosinoHanawohukiAmanoKawagisiAkitatinu.KanoHikobosinohikuUsiwaSigereruKusan1aegiyoriHutatunoTunowoutihuriteMidunoNagarewositauran.GeniHikobosinohumiteyukuKawabenoAkiyaikanaran,",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0088",
+   "pid": "956263",
+   "pages": [
+    98
+   ],
+   "no": 88,
+   "vol": "二　新潮",
+   "kotobagaki": "",
+   "author": "",
+   "text": "KotonaruHusiwaaritotemoSamoarabaareHikobosinoTanabatadumenoOsanoNeNozomiahuretesitaiyukuKonoY〓bekosotanosikere.TakakiHotorinoKayoidiwaSirahaginoHanasakuranka.HitoyukinaruruKisinogotoSionnoKusanomituranka.niHitorisidukanitaduneyoruHikobosinoSamaikanaran.AsunoAusewohohoemiteKanoKindai*noUmazakenoSakadukiniyouHitonogotoAyumiayaukuyukuranka.MatawaNamidawosumizomenoKoromonoSodenitutumutomoNaoKankinnoKoekumoruNisinoHizirino〓YumenogotoKoiniwaMitimosutehateteSodewokazasiteyukuranka.Sononi,Nanuka〓0Y〓be.KoyoiMisoranoSiranaminiKadi-no-tosunariHikobosinoYasunoKawaraniHuneuketeimaS1koguras1.KazekaguwasikuhukiniouHanakokiKisimtadusawariNamidawaKaowouruositeOiwosisiranuYumenogoto,KasikonikasikoniKadi-no-tokikoyu.HitonosunaruwoHosimomiteKoitukusurankonoY〓be.HitonosuKoitukusuMatawaTabinenoYumenoeniYumewokasanuruKusamakura,EnisinohokanoEnisitowaSore,kayogenimosutegatakuEgutinokimiwotaduneyoruWabibitonogotoyukuranka.ranMidukagegusanoutinabikuKawasewomirebahitotoseniHutatabiawanuKoidumaniimaS1aurasi.MadaIroaokiKusamug1noHatakenoutinitaorehusi,Ten-zy〓noKoisikasugani**素",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0089",
+   "pid": "956263",
+   "pages": [
+    99
+   ],
+   "no": 89,
+   "vol": "二　新潮",
+   "kotobagaki": "",
+   "author": "",
+   "text": "MoetewaatukiKutibirunoTagainihururuYumenogoto,KasikonikasikonihureruSodemiyu.HitonosunaruwoHosimomiteKoitukusurankonoY〓be.,KoninIwaiUta.nonoSonoiti,HanayomewomukayuruKimimatuYoinoTomosibiwahanayakaniItodoHokagemoTurunakiwataruH〓rainoTiyonoMidoriwoterasukana.noUta.Kawatosayakesi,oritatiteSorayorihukakuwakiiduruKoinoIdumiwoutimusubi.,imaS1nomurasi.KawakuMamonakiSomegamiwoOturuNamidamkegasitewaInotinoKadowokakeideteKoinikutinuruYumenogoto,KasikonikasikoniwataruHikobosi.HitonosunaruwoHosimomiteKoitukusurankonoY〓be.IwainoSakewaKaniahurehitasikeri.SuzunoHisagowoIzayaKadobenltatiidete,Kiminokitaruwomukaenan.woHosiyokoyoiwaMisorayoriHitonoYotikakukudarikiteSumeruHikariniHanayomenoTanosikiMitinosirubeseyo.Kazeyoutaeyo,MatugaEniOgotowokakeyohitohusiwaItosimeyakaniMitisugaraYorokobinoHuwohikeyokasi.ManakowososogeHitobitoyo,HavakanoMurewatikadukinu.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0090",
+   "pid": "956263",
+   "pages": [
+    100
+   ],
+   "no": 90,
+   "vol": "二　新潮",
+   "kotobagaki": "",
+   "author": "",
+   "text": "HiyokunoTorinoutikawasuHasodemoitodoatarasikuAmanoTiginwoMemmomiruRenrinoEdanoomosiroya.TomonaikitaruOtomegonoKagayakiwataruSamawomiyo.WagauruwasikiHanayomewaMurasakinisakuAvamenar.SonoKoromomwaByakudanItosuguretaruKaoriari.WagaHanamukowakurenainoKaobaseitodouruwasikuManakowahikarikagayakiteAsitanoHosinimagaumeri.noKaminiwaTaninoSirayunnoNioeruAburautisosogiMusuberumirebasonoObiniKoganenoItowoorinaseri.WagaHanayomewaSirayurnoSirokiKoromowoutimatoiSonoKurokaminoTuyuhukakuKigikunoHanawokazasitari.IzayaKoyoinoYorokobinoHananoMusironiizanaiteAkinoMomidiwosomenasesiIrosuberikirukimiwoiwawan.TubasanaraburuOsidorimoOdorinoHanewamasarugotoIdurekakakuruYononakamTamesimarenaruhutarikana.Sononi,SakamorinoUtaTamesisukunakiYorokobinoKy〓noMusironoMedetasaniMiwoSakagametonasihateteIwainoSakenihitarabaya.TarekamedetakiKotonohan1KaminoTikarawaubautomoTigirinoSakewokumikawasuHutarinoSamawotatoubeki.woIkaniikanaruTakumimoteEhudeniIrowautusutomoKakuruninaresiAyawomoteHutarinoSamawoegakubeki.KamenonakanaruAmetutinoIwainoYumeniyoiyoiteKokorowaHananoKaniniouTanosikiHarunoY〓ninitari.no",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0091",
+   "pid": "956263",
+   "pages": [
+    101
+   ],
+   "no": 91,
+   "vol": "三　農夫",
+   "kotobagaki": "",
+   "author": "",
+   "text": "Iunimotarazi,KainoHanoTagainihutatuaiauteNasakenoUmimtatuNaminoSokoniyosetewakaesutomo.HanoEnisinoKamimyurusareteHutariMiwaYoniaunomikaTagainisitauMunenoHiwaKokoronoSoranlmoyurukana.Tin1arutokiwahutarikosoMatakiTigiritoiubekere.TenniaritemohutarikosoMatakiImosetoiubekere.N〓hu.AmanoKawarawakarurutomoRenrinoEdawakuturutomoHiyokunoToriwahanarutomoHutarinoNakanotayubesiya.KorewoomoebaYorokobinoIwainoSakeniyoikudakeMunenoTanosimitukigatakuKonoSakamorinoUtatonaru.Gyokuzannagakutaoretewa8ObotukanakumoTewoutiteTakasagonoUtaomosirokiKonoMusirokosomedetakere.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0092",
+   "pid": "956263",
+   "pages": [
+    102
+   ],
+   "no": 92,
+   "vol": "三　農夫",
+   "kotobagaki": "",
+   "author": "",
+   "text": "N〓hu.OyosoBanmotuniMotosueari,Kai-sakuK〓ka1momataKetuy〓2arubesi.N〓minwaAsitaniKiriwoharatteide,Y〓beniHosiwoitadaitekaeru.Enp〓Yazan3niorutokiwasukosiyasu-mukotoarebaKurowoMakuran1surutoiedomo,Tanosimimomatasonoutin1ari.HitowaTaiwoodayakaniokiteKiwotumurukotor〓by〓suruMotoka.KoremyotteSanzinwaTaiwotumeKiwayasurakanisurutoiu,koren1yottety〓meisi,Kaizin5waTaiwoyasurakanisiteKiwotumuruyuenitanmeisutoiu.Ki-taihuzinar1toiedomoKokorowamatakawarumya.S〓zieKamin6noKuwaMewohira-kiteueyorikokorodukitemiru,sunawatiKumomataakirakanisite,uenoTanosimimomataiyatanosiminaritouu.K〓s〓7waTy〓yaDandyoU-ro8n1nu-rete,N〓minsinkusuruko'ohanahadasi.Okosi-orazunbananiwomottekaSanb〓nowa1改作耕稼2結要6下民7耕桑8兩3遠方野山習4山人5海人",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0093",
+   "pid": "956263",
+   "pages": [
+    103
+   ],
+   "no": 93,
+   "vol": "三　農夫",
+   "kotobagaki": "",
+   "author": "",
+   "text": "sonoititosen.TamiwaSinki1wokudakiMiwotumete,TennoZ〓kwanisitagaitutomurumonowaRy〓minnari.N〓zinwaY〓rakunoYokuusukusitetadaZassyokunoHaranimitankotowonegaumononari.(K〓kaSyunzy〓2HazimenoMaki)KanoHurusatowotatiideteKakuuruwasikiTukinoY〓niSizennoWazawonagametutuKisinoHotorimsamayoebaAkutosimonakiKoyoikana.SannoKoe.AaUtagaitoKanasiminoYumehikimusubuHitonokowaIkaniKoyo1noTukiwomiteYorunoOmoiwokasanuran.GeniHitonosuruWazayorimoIyamunasikiwaarazikasi.IkaniNozomiwatakakusiteKonoAmetutiwosemasitosiNakituwaraituikaritutuKokorohitotunisugarutomoSononasuWazawonagamurebaHarabauMusiniidurezoya.YositoiimataasitoiiMunasikiKisiwakidukutomoKanoSeimetu1noNamiutabaNagaruruSunaniidurezoya.Asitay〓benoKagekagewaUtenawohasetetodomarazu,Zyo.'TonegawanoHotorinite.ItinoKoe.MiyouruwasikuteruTukinoMidorinikeburuY〓noHikari,MiyoyuruyakaniyukuMidunoNagarewahukakiTonenoKawa,HanasakiniouKawagisinlHikariwoyadosuAogusanoSigereruKatanoSidukesawaNemurinogotokumiyurukana.NinoKoe.SatemoZizaiwoTubasatoS1HikariniariteYamiwosiriMisoranioriteYominoYonoKoeWo.kikisiruwarerasae2耕稼春秋3序1心氣3序1生活",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0094",
+   "pid": "956263",
+   "pages": [
+    104
+   ],
+   "no": 94,
+   "vol": "三　農夫",
+   "kotobagaki": "",
+   "author": "",
+   "text": "KitaruwaNizinogotokuniteKaeruwaHananotirugotosi.Suginis1AtowokiwamurebaIdurekaZigi1marazaran.KieyukuAtowonagamurebaMatatadunubekiSubemonasi.TuyuzimohukakiTonegawanoKisibenoOdanoAsay〓be,KareSukikuwawoTomotositeTutometagayasuMinaredomoIenoMukasiwotadunurebaMakotoiyasikiTanenarazu,GeniwarewasimoKoyoiyoriKarenoKokoronoutimsumiOosikikarewoizanaiteKoisamazamanoYumewomiseTokiniOtometoMiwonasiteKonoTukikag〓noKawagisiniKusikiHikariwonagurugotoAyasikiKagewokaren1nageTokiniwaYumen1arawareteYasukiKokorowoubaisakiMuneniArarewososogitewaNamidanoTuyuwootosasimeUtutunikakureYumeniideHikarinihisomiKagen1mieMoyuruTamesinoH〓tonariteWakakiN〓huwokokoromin.NinoKoe.KikeyahitohusihogarakaniT〓kuhukisumuSirabekosoKaregaSusabinoHuenarame.ItinoKoe.Sanar1sayakekiTukikageniHuenoAruziwonagamurebaMakotoyakarewaN〓hunari.SannoKoe.Yosiuruwasik1AogusanoKisin1suwaritekarewomatanan.KaminoMaki.I.TahatanoaidanaruTiti.Y〓beogurakiTomosibinoAburawatukitekiyurumadeHitowaNemurimsasowareteTanosikiwumeniireruMamoInerarenakunitadahitorinoaidanaruKomitinite.1兒慮",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0095",
+   "pid": "956263",
+   "pages": [
+    105
+   ],
+   "no": 95,
+   "vol": "三　農夫",
+   "kotobagaki": "",
+   "author": "",
+   "text": "HitoriMakurawokakiidakiSiginoHanegakisibasibamoOnaziOmoinikaeritutuKonoMorokosinoIkusan1zoNarewayukazitonagekiken,SonoKokoronewohakarisiga,WagaUtagaiwatokezariki.TisionoNamidanagasuran.GeninarewaS1mowagaIenoTakakiHomarewosuturumadeYonoKotowarimowakanumadeIkusawoosoruKokorokaya.N〓hu.Osoreyawasuruyosiyaima,KokorowoubauIkadutinoHuruugagotokuOodutunoManakonomaen1todorokumoWarewasidukaniKuwatoriteTositukinareslTonegawanoKisibeniideteOdautan.MatawanagaruruTamatobiteMiminoHotoriwokasumutomoTanarenoSukiwoKatanisiteY〓benoUtawoutaitutuItohiyayakaniKuwa-no-kinoHakagewohumitekaerubesi.ImakosowakakuTonegawanoKisibenoKusaniudumoretehumiAsitaniHosinoKagewoY〓benihukakiTuyuwowakeSukitoKuwatowoKatanisiteIyasikiWazawaitonamedoMononohunoMotoHomarearuTakakiNagarewokumeruMizo.SuguresiUmammutiutiteKazeniMayumiwohikinarasiMuneniahururuMasuraonoHomarewaUminowakugagotoNozomiwaKumonoyukugagotoOosikarikeruwagaTitimeKusabanoKagenoYumenidaniNaKotonohawomorekikabagaIkanihagesikikurenainoTiti.Sikarabat〓kiIkusaniwaNadokaidezitonagekuran.N〓hu.NagekazarameyaTatakaito",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0096",
+   "pid": "956263",
+   "pages": [
+    106
+   ],
+   "no": 96,
+   "vol": "三　農夫",
+   "kotobagaki": "",
+   "author": "",
+   "text": "Hanayahitotoki,Haruyukaba,TurugimoHonemoHukagusanoAokiSigeminiumoruran.GenisusamazikiTatakainoAtonimomasiteUtusiyoniIyakanasikiwaarazikasi.Nabetewoomouwaga〓Minari.TurugiwotorumoHatautumoHukakiKedimewaarazaran.WaretokitositeHatanakaniTenimotuKuwawonagesuteteSTagayasisurumoHatautumoTutiwokaesumokusagirumoAsemoAburamoorokasikuUmareidetaruwarehitonoMunasikiInotihitohiyoriHutahinitunagutamekatozoOmoebaMiwomowasuretutuTatazumukotomoar1s1nari.Titi.OrokasiyasonoKurigotowaYumemiruHitonoiuKotozo.N〓hu.Sanari,UkiyonoArasoiwaIdurekaYumeniarazaran.Titi.AanagaMimiwasiitarebalkanisuguresiMononohunoHomarenoKanemoHibikinasl.NaregaManakowasiitarebaIkanimakotonoTarationoKotobanoHanamoIrozonaki.KarisomenaranuYonoWazawoAzakeriwarauKotonohawaSawayakanaruninitaredomoNonosirikuruuMasuraonoMakotonoSamawotadunurebaTatakaitotemomataonazi.,NozuenoKusamnagareyukuIkeruTisioyaikanaran,TuruginoSimonihorobiyukuHitonoSadameyaikanaran.TarekaHini1ruMusinogoto,IkeruInotiwohorobositeAdasiHonoonlMiwoyakunoOrokanoWazawomanabubeki.AaTuwamononomiruYumeno",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0097",
+   "pid": "956263",
+   "pages": [
+    107
+   ],
+   "no": 97,
+   "vol": "三　農夫",
+   "kotobagaki": "",
+   "author": "",
+   "text": "Osienohodowoomoimiyo.MadaitokenakiMukasiyoriKonomerumamaniHumimoyomiMononoAwaremoKotowarimoArakatawasirunagaMinari.Tarekakonomiteumeru'KoniWazawaiaretonegaubeki.SinobigatakiwosinobitutuT〓kilkusaniyukinekasi!MinoYukusuewonagamurebaMinaOtiburetoNamidanomi.AawagaMunewaKurusimitoHaditoIkariniahuretari.KanasiasamasiYonoHitoniNagaKotonohanomoremosebaTumetakiAsewaAmenogotoIkaninagaretewarewohitasan.Ⅱ.MaetoonaziKomitiHaha.KakutemonagakiNatunoHiwoHitoriOmoinisidumitutuMidorinoKagenitatazumiteIkusonoTokiwoheturuzoya?Ⅱ.onaziKomitinite.N〓hu.MakotoyawarewaMasuraonoHomarewosiranuKokoroyoriT〓kiIkusaniidetatuwoNagekumononiwaarazlkasi.AawagaMunewautusubekiKotobamosiranuKanasimiwoYadosesiHiyoriHirumoY〓moHukakiOmoinsidumitutu,MayoeruMusinoMadonikiteKanatakonatanitobugagoto,AmetoTutitonimayouMinoOrokawokakotuhokaarazi.KonoKanasiminoTibusayoriWaresamazamanoTiewonomiNigakiYonoAdiMononoUra,Yumenauramiso,nagaTitiOmoiamarisiKuroganenoKobusinoAtowamurasakiniHukakiItamiwonokosutomo.woSowaArasoinoAtotoS1moOmoebasakosoUramiare,ItamiwaikaniNatunoHinoHagesikiSamaninitaritomoNagaTarationoAkizimono",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0098",
+   "pid": "956263",
+   "pages": [
+    108
+   ],
+   "no": 98,
+   "vol": "三　農夫",
+   "kotobagaki": "",
+   "author": "",
+   "text": "HitonoMakotomoItuwarimoAdiwauMitowanar1slnari.KonoKanasimiwaayasikumoWarewoizanaimitibikite,KiwaYowo〓uMasuraonoTakakiHomaremoYumetomise,MaturinoYorunoTomosibin1TawaruruHitowoKagetomise,KurakiUtenanoUtusieniMononoKatatinouturugotoYonoSamazamawomisesimeki.KonoKanasimiwawagaMunenoHukakiSokoyoriwakiagar1T〓kilkusaniyukubekiwoHanatazitokosotodomunare.NanimoyobareteAsay〓be,KurakiHitoyanoMadonyoriHosinoHikariwomirunohokaMinisouKagemoarazaran.MiyoHanahukakiKawagisiniMutumazikarisiMatoisaeSaseruArasinosawaginabaIenoMutubimoTanosimimoHitoyonoutintyaburenan.nimoHitowakonoYoniumarekiteEsiranuMitiwovukunarebaGenisamazamanoYamakawawoKoyubekiTabiMinaruzoya.noWaremoomoebaMaegaminoMadaHatuhananoMukasiyori,HayamoInotinokatabukiteAkinoSimohurukonoHimadeAruwaYukuenoKumohukakuMitinakiMorinimayougotoHikarimonakuteakuruHiwaSorayukuToriwonozomimiteHareruTubasawourayamis1,SonoAkatukimo〓kariki.AruwanayameruTabibitonoHaha.GeniSigaraminosekitometeNagaremoaenuTanigawanoSonoKanasiminoarakatamoWarewatokuyorisirerunari.Sabare,kakumadeiihariteIkusanoTabiwoitoinabaSonoAkatukiyaikanaran.Omoumokurusi,Tumibitoto",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0099",
+   "pid": "956263",
+   "pages": [
+    109
+   ],
+   "no": 99,
+   "vol": "三　農夫",
+   "kotobagaki": "",
+   "author": "",
+   "text": "NatunoMidorinoKageniyukiSumeruIdumiwomnsubugotoGenitaenantobakariniMatamoInotinikaeritesiSonoY〓guremo〓kariki.R〓ba.KanoKagehukakiMidoribanoYanagino!HotoritadunevukiHitoyakitarutomatisikadoKazewamunasikuKawagis1noKusanoOmotewowatarunomi,TadunuruKagewaarazariki.Naayamarisoayamariso,AyumunikatakiYonoMitiwo!MiyoHitonoyukuTabidiniwaIrubekiMitinoarlnagara,IdurunikatakiTaniainoOokarutokosokikumonowo.AaurawakakiTabibitonoKakaruHotoriniwakeiriteMatakaerikonuTamesisaeYonisawanarltosiruyasirazuya?AokiMisoranimayoiyukuKumotoKumotonoTaemayoriY〓hiwamoreteonegawanoMidumHikariwosidumetutu,KoganenoIrowaKawanaminoYukueharukanikagayakumoTadunuruHitowaarazariki.wo.Y〓ben1kakaruMy〓zy〓noItodosayakaniarawareteHukakiHikariwaNatunoHiHutatabisiranuSoranoHana,KagewaKataminoNonoIenoYane.woobitutukiramekumoTadunuruHitowaarazariki.Ⅲ.KadinoIenite.TukainoR〓ba.NozomiwamunasiMatibitonoKagewasoretomomiezariki.Ⅲ.mKadinoMusume.OsamotuWazamtaekaneteY〓gureMadoniyoritutumoNagakaerikonTokiwodaniMatiwabitesiwaadanariya.YagateKawabemtatikomesiSagirinoutinitozasarete",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0100",
+   "pid": "956263",
+   "pages": [
+    110
+   ],
+   "no": 100,
+   "vol": "三　農夫",
+   "kotobagaki": "",
+   "author": "",
+   "text": "Musume.1.KadotamideteKusatorinoMinoItomanakiHirunakaba,WasururutoniwaaranedomoMagiruruSube20〓kariki.2.Y〓gureOsawoTenitorite,KokorosidukaniorutokiwaHitonoesiranuOmoikosoMuneyortwakitenagarekere.3.AsuwaIkusanoKadodenari,T〓kiIkusanoKadodenari.SemeteWakarenoNamidaMunasikukaeruWatasimori,YurukiNagareniSaosasiteHuneyaruOtowaY〓gurenoSabisikiSoran1hibikedomoTadunuruHitowaarazariki.MinoMusume.AanatukasikiY〓gurewoHitomatuTokitoiutokaya.AmanoKawaran1H1kobosinoTanabatadumetoalaumoSamisikuhukesiYohanaradeSowaY〓gurenoKorotokaya.Madakurehatenuky〓narebaHitomatuNozom1nokoruran.ImahitotabiwaideyukiteKisinoHotoriwotadunemiyo!R〓ba.HayaHanagusanoKagekurakuNeguraniisoguNiwatoriwaSawabewokaeruHinadorinoSonoKazukazuwoyobuzokasi.TakenoHayasinokanataniwaHaotosabisikiTabigarasu,KumowonozomitetobiyukuwaMureniwakaretemayounaruran.AsuT〓kinari.nowoba",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0101",
+   "pid": "956263",
+   "pages": [
+    111
+   ],
+   "no": 101,
+   "vol": "三　農夫",
+   "kotobagaki": "",
+   "author": "",
+   "text": "terasareteKiebayatokosouramunare.Nagorinisentonegaukana.4.KimiwoomoebaWaduraimoTeruHinitokuruAsanoTuyu.KimiomoebawoKanasimimoMidorimsosoguNatunoAme.5.KimiwoomoebaYaminoY〓moHikariwomatouHosinoSora.KimiwoomoebaAsadiunoArenisiNobemoHananoYado.6.MunenoOmoiwatumoredomo,HubukihagesikiKoinarebaKimigaHikariniKimiⅣ.Hayasinonaka.N〓hu.TokiwasemarinuTonegawanoMidunoNagareniHuneuketeMiyakonoKataniyukuHitowoHayaKisinobenimatunaran.NakanasimisoImawawareSudeniKokorowosadametari.Koreyort〓kiMorokosinoIkusanoTabiniyukubekiwo.Ⅳ.TeruMusume.Ky〓wakaretewaitukamataAiaumadenoNagorizoya.AaHitosariteTorinakabaTorinoYukueniHanasakabaHananoIrokaniyosoetutuNarenisiKisinoAogusanoUen1suwaritenaregatameSatiarekasitoinoranan.KimiMuneN〓hu.warewaOmoebakonoHigoro",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0102",
+   "pid": "956263",
+   "pages": [
+    112
+   ],
+   "no": 102,
+   "vol": "三　農夫",
+   "kotobagaki": "",
+   "author": "",
+   "text": "AdanaruYumen1mayoitutuKarisomenaranunaregaMiwoAyamarisikosoutatekere.Musume.SonoKotonohanoSokowoKumisirazitoniaranedomoAanarewawagaInotinari,WarewaInotinihanaretari.daniMusume.SarabahutarinoEnisiwobaAdanaruYumetoomoukaya.Tadawasurez1tohitokotonoTanomubekidaniarimoseba,IkanikurusikiNayamiwomoWarewanareyuesinobubesi.IkanisakasikiYonoHitonoWaraiwasutomokikiirezi.SaruwoturenakiKotonohanItamiwoMunemnokositutuKakutetagainiwakarenabaWarewatatoebaSirayurinoHitonioraresiHananogotoImawaMitibensuterareteItosumiyakanisiorenan.N〓hu.SanariNamitatuUnabaranoSokowaaritomowagaKoiwaSokoisirazutokakotitutuNareninagekisiky〓madewoAdanaruYumetoomoiteyo.Aaayamateri,warewahayaNarenikoisuruKokoronasi.GeniorokasikiwagatameniNagaMinoHanawatunagareteYukubekiKataniemoyukazuIkusonoTokiwohetesizoya.Naayamarisokanasimiso,SudenitumetakiIsinarebaKoiwaY〓nakiwagaMinar.MegumiwahukakiTaratineniYukiteMakotowotukusekasi.HitonoNozomitoNegaitoniMiturukagiriwaaranedomoNareTumatonariTititonarlWareTumatonariHahatonari,YoniaruuewakakutekosoEnisinoKaimoarikemewo,",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0103",
+   "pid": "956263",
+   "pages": [
+    113
+   ],
+   "no": 103,
+   "vol": "三　農夫",
+   "kotobagaki": "",
+   "author": "",
+   "text": "KakaruSadamewakutiteyukuKayowakiHitonoMinoTuneka.Musume.AuTokiarebahutarimataWakaruruTokinoarZOtowaKotowarisiranuMinaranedoKakumoosimebaosimaruruWarerahutarinoNagorikana.Saraba,hutatabikaerikiteIkusagatariwonasanmadeKunikotonareruHaruakinoAmetoKazetowoitoiteyo!TuruginoKagenoSimosaeteIkusanoNobewasamukutomoKanoHomarearuTuwamononoTakekiWazaniwaotorisoyo.N〓hu.Nareayamareri,ayamareri,OtomenoMunenoHana1SSI,HutatutowanakiIrokazoya.KarisomenaranunaregaMinoTakarawohukakuosameteyo.AaKokoroseyo,orokasikiWarewaMusimmootoruMizo.SoraniTubasawoutinobete,OmoinomamanmauTakamoHitotoumares1wareyoriwaKasikokiSubewosiruzokasi.HayaKawagis1nokanataniteRappanoHibikikikoyuruwaHunenoYosooitotonoiteYobun1yaaranaasaraba,T〓kiIkusan1idetatiteInotisadamenuMinaredomoIkusanoKaminoMimeguminiWaremoHomarewaagenanwo.Saraba,nareyamoTaratinenoHukakiMegumiwoadanisedeEnisimoarabayokiKataniSueSakaearuMiwotateyo.AaTonegawanoMidunogotoYanaginoKagenoAsay〓be,MuneoyaminakiwagaMiyoriNamidaKatawanaregan1nagaren.Simo00Maki.I.MidorinoKinoKagenite.N〓hu.Hayahutatosewasuginikeri.IkusanoTabinoNezamentwaAkatukizoranihukisumeruI.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0104",
+   "pid": "956263",
+   "pages": [
+    114
+   ],
+   "no": 104,
+   "vol": "三　農夫",
+   "kotobagaki": "",
+   "author": "",
+   "text": "RappanoKoewokikugotoniOmoiukabesiHurusatonoImawauresikumiyurukana.HikariwamoreteYamakawawoMotonomamammoterasukana.waAanatukasinoHurusatoyo,KuniwotatiideHaruakinoNagakiYumewobakasanetutu,ImakaerikitetadazumebaKokagewamotonoHukamidori,UmenoKozuenlhagakureteNakuTorinoNemokokotiyoya.Kinsy〓zy〓noAkihukakuKagarinoKagenokurakiY〓RoeinoSimonoSamusayoriMataIsuzannoTatakainoTamanoArarenotabasiriteTeruHimokurakiSamamadeWaganatukasikiHurusatonoHitonitugenabaikanaran.wawoSatemokanatanoKawagis1noHukakiNamikinoKagenisiteKazesasoikuruOtoyanan1,KikebaSawarinoNy〓hatinoUkiyoniarislKanasimiwoUkiyonoSotontutayuruwaIkanaruHitonoNobeokuri.Y〓gaosirokiHanakageniIwalnoSakewokumantokiKokorooosikiwagaTitiwaIkaniManakowokiramekasiSirakaminagakiwagaOdiwaIkaniMimiwobasobadateteWagatokiiduruhutatosenoIkusagatariwokikunaran.AanatukasinoHurusatoyo,NagarekawaranuTonegawayo,T〓kuTukubanoAoyamanoSobiyuruKatanoKumomayoriYoroduyoonaz1sirokiHinoRokud〓noMatu,KaminoHataSudeniMidorinikakuretari,SidukaniyukuwonagamurebaSirokiYanaginoKositakageHirukagayakasuSiraharinoNakiHitookuruTomosibiwaHokageyurugiteTamasilnoYukuewoikaniterasuran.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0105",
+   "pid": "956263",
+   "pages": [
+    115
+   ],
+   "no": 105,
+   "vol": "三　農夫",
+   "kotobagaki": "",
+   "author": "",
+   "text": "K〓noKemurimoureltutuTenninoborun1nitarikeri.SonaenoHanamokanasimiteTintaorurun1nitarikeri.Yukuemot〓kuwakaretewaTuiniAusenotaesiyoriWakakiInotin1sakiidesiKokoronoHarunoHanaItusikaitodoitamasikiWaduraitokosokawarikere.saemoNamegewayuruse.KagemiesiWakakiHiziriniKototowan.SomotarebitonoNakigarawoKowaokuriyukuMurenaran.HutatabiMomowasakikaeriHutatabiSumirenioedomoHitowamunasikukaeranebaKoinoNayaminkutihateteYon1suguretaruTaoyamenoUramiyaikaninagakaran.5S〓.*MidusidukanaruTonegawaNagarenoKisiniumaretesi,KadinoOtometokikisikadoSonoNawakimiyoomoidezu.noN〓hu.SorewamakotokawagaMuneHukakiItamiwooboetari.SabaraHitobitomaturanwoIzayaIediwoisoganan.waGenitaegatakiKoiwoS1moAdiwauHitonoaruYokana.KaremoukitaruKokoroyorHanasakiniouAsay〓beKisibenoKusanitadusawariMidunoNagarenikawarazitoTigireruHitonoarlsinari.S〓.WareamatatabiMansy〓niTakakiMinoriwotokisikadoKakumadeHitowougokasesiSirukiTamesiwaarazariki.GeniNisikazenohukerutokiSowakazourebaNatunoY〓noHosiyori〓kiTamesikana.*儈*萬性",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0106",
+   "pid": "956263",
+   "pages": [
+    116
+   ],
+   "no": 106,
+   "vol": "三　農夫",
+   "kotobagaki": "",
+   "author": "",
+   "text": "MidasutarewanoTawamurezo.TobitiruAkinoHanogotokuOmoebakarenoKaobasewaSikwainolronikawaritutuSonoKutibiruwautisoyoguAsinohitohanimagaikeri.AaOomuginoaoaotoTawaniminoris1Hatanakan1KarenoYukuewonagamurebaSisitekudakuruHitonogotoSatemoHokagen1taoreken,SugatawamiezuMugin1umorete.4.Mugimakidorinokinakuyor1MaruneniAmenokakarumade.5.sigekiAsatuyuHosikageniKatasagarnakiKuwamakura.6.Y〓dutusidumuYamanohanoKodamanihibikuHatakeuti.Sy〓dyo.I.Yukitetoraeyo,Oomug1noHatanikakururuKousag1wo.2.WareragatukuruMugihatanoAokuSakaritonarumonowo.3.TawaniminorisiHonoKagewoHata7.WareragatukuruMugihatanoAokuSakaritonarumono8.Yukitetoraeyo,OomuginoAokuAokuwo.wo.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0107",
+   "pid": "956263",
+   "pages": [
+    117
+   ],
+   "no": 107,
+   "vol": "三　農夫",
+   "kotobagaki": "",
+   "author": "",
+   "text": "MunasikiMidunitobuHotaru,AasonoKagewanakiHitonoNioinoTamakanaremomata,ArisiMukasinoOmoideniKisibenoKusanimayouran.HatanikakururuKousagiwo.Ⅱ.Sin'ya.1N〓hu.Sayohukenikeri,tadahitori,Nagaren1souteteruTukinonozomebaSirokanenoKagewoMisoranoYuminitugaiteslTakakiHikarinoYawaotiteWagaoyaminakiMunewoiru.KusakimoimayasidumariteHirunoHibikiwataen1keri.YonoArasoimoWaduraimoHukakiNemurinitutumareteItodotanosikiNatunoYonoMizikakiYumen1irinlkeri.KazeyobiokosiKumon1noruTakahikarimasuSumerogimoTurugiwonukitetatitemauTakekiKokoronoMasuraomoImawasid'ukanimakurasiteOsanagonogotonemururan.HirumoY6monakuyukuKawaKoenakiKatawonagamureba6HasodemoitodoTikaranakuHataran.AhururubakariwakiiduruTisiotot〓kiNozomitowaMatataegatakiKanasiminoSonoSigaraminisekaretutu,UtatakurusikiTatakaiwoHitoniwatutumikakusutomoAogebahukakuwagaMuneniSasiiruTukinoHikariniwaGeni〓ubekiKagemonasi.noNaniwoKokoronoHasiratosiNaniwowagaMinoYadotosen.5SinobutosuredoY6noTukinoSorayukuKagewomirutokiwaYorodunouturukokotisiteNamidanagaretetodomarazu.TokiniwaOyamoHarakaramoIemoTakaramosutehateteYonoAzakeritoMinoHadiwoOmouItomanoarabakosonowo1深夜",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0108",
+   "pid": "956263",
+   "pages": [
+    118
+   ],
+   "no": 108,
+   "vol": "三　農夫",
+   "kotobagaki": "",
+   "author": "",
+   "text": "K〓riwoMunemsosogutomoMinimatuwareruKanasimiwoNogareidentoomounarl.SugaritodomuruMonoarabaKeotosumademoyaburiideYukuemosirazuKurokumonoKazenimidaretemayougoto,MatawaizayouOohunenoUmininagareteoturugoto,MatawaAkinakuKariganenoHitoriMisoranitoberugotoMiwaYorubenakuurabureteMitinakiNobeniwaketeirl,AruwaMinlsouHikarinakuT〓kiUrabenisamayoitoSiruHitomonakiHanagusaUmorehatentoomounari.TokiniwahayakusiniuseteKuturuMukurowohikihanareTadaTamasiinoMitonariteKurakiYomidinimayoiyukiKanonakiHitotonakiwaretoTamatoTamatowaidakiaiIkaniTakainoKazehukiteWarerahutariwotobasutomoIkaniHudannoHiwamoeteWarerahutariwoyakutotemoHutarinoTamawaTokoyamiHanarezikutizihorobizitoTigiramahosikuomounar.niniTokiniwataeteHitonoYonoHibikikayowanuTeran11rl,AkakiNamidawoSumizomenoKoromonoSodenitutumitutuHikariwomatouMihotokenoTukuenomaenihizamadukiKazehukutokiwaAkatukinoDoky〓niYumewoyaburisuteAmehurutokiwaY〓gurenoKaneniKokorowosumasltutu,YosiyakurusikiSetuzannoGenisonoMukasihutarisiteTanosikuaogimisltokimo,ImawaKokoronosioretutuNamidaninuretemirutokimoOnaziHikarinikagayakiteOtiteKoenakiTukinoKage.(ItibandorinoKoekikoyu)",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0109",
+   "pid": "956263",
+   "pages": [
+    119
+   ],
+   "no": 109,
+   "vol": "三　農夫",
+   "kotobagaki": "",
+   "author": "",
+   "text": "NiwatorinakinuYubioriteSonoKoegoewokazourebaNemurinoHakamtozasareteHukakusidumerukonoY〓yamo.HayaInotiarukanoHinizoYomigaeruranitumadeka,Kakutearubeki,aawarewaImawaKokorowosadametari.NaremoNagarenoKiwamiYukinabayukineT〓uminiOtinabaotinewaremomataOmoihitosikuahureideKonoSakadukiwokatamuken.madeTarekayarenisiHurugameniMidorinoSakewokaesubeki.TarekaNamiutuIsogiwaniNagaruruSunawotodomubeki.SarabakoreyorinakiHitonoIenoHotoriwotadunemiteKumomukabiteHurusatowoNogaruruTokinoNagorinimoWagaKurokamiwanuremidareWagaKutibiruwautihuruuMunenoItamimtaekaneteKurusikiSamawotatourebaEdaniwakareteoturuHanoHagesikiKazenisitagaiteTadayouMikosokanasikere.sen.Ⅲ.KadinoIenoKadi.I.Takarawaawarekudakekeri,SanariManagowausenikeri.NaniwoKatamitonagametutuKoisikiTokiwosinobubeki.IenoHotorinite.TikarahagesikiIkadutinoHuruugagotokuwagaTamaItakumohuruiwananakiteOmoinayameruwagaMunenoHurukiNozomiwataenikeri.waNaniAaWaduraiwomornresyMiwaSakadukininitarikeri.NagareteoturuKawanamiyo,",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0110",
+   "pid": "956263",
+   "pages": [
+    120
+   ],
+   "no": 110,
+   "vol": "三　農夫",
+   "kotobagaki": "",
+   "author": "",
+   "text": "2.ArisiMukasinoKaniniouUsuhanazomenoObiyoken.UruwasikarisiKurokaminoKazasinoakakiTamayoken.3.ObiwaaredomoOigaMiniHikimatoubekiSubemonas1,TamawaaredomoSirokamiwaUtikazasubekiSubemonasi.4.HitoriyasasikiOmokagewaManakonoSokonitodomariteAsitanimomataY〓benimoWarenitomonauOmoiari.5.AataegatakiKurusiminiOtoroehatetuHodomaeniTaorekanasimuOrioriwaOmokagesaezoTikaranaki.6.WareNakadutiwoutihuruiHonoonomaenihagemebaya,MuneniuturisinakiHitonoKataraugotokumiyurukana.7.OmokagenowagaMuneniIkitehohoemuTanosisawaYagateTutomewoisosimiteArisininiObiTamanonasi.Ana,Asita",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0111",
+   "pid": "956263",
+   "pages": [
+    121
+   ],
+   "no": 111,
+   "vol": "三　農夫",
+   "kotobagaki": "",
+   "author": "",
+   "text": "MatawaInotiwohakanamiteYumeniodorokuKokoroyoriNagekitaoruruAkatukiwaIkeruTisiomokarenanwo.KanasiminikatuInotinari.8.AsewakoisikiNamidanari,TutomewaikeruOmoinari,IdeyaKainanoorurumadeKy〓noTutomewoisosiman.AseAsewakoisikiNamidatoya,TutomewaikeruOmoitoya,AaurawakakiwagaMisuraTadaKanasimin〓wareteTonenoKisinaruHurusatoniKaerisiHiyoriSukikuwawoTen1motuTikaranakimonoNagaruruAsenositatariteKanoSirokamiwanururumadeHonoononakanoAkayakiya,KoaonimiyuruZyuntetuwaYagatekawareruBeninoIro,UtebanagaruruTetukasunoHikaritonaritetirabatireKoitumusebituNakadutinoTikarawohuruuOosisayo.Ideyawo;N〓hu.Utauwokikebaisamasiya,SatemosonoUtanatukasiya.MakurawoutiteyomosugaraNagekiakasesimononaradeTarekakakumadenatukasikiUtanoKokorowoomoubeki.Sanari〓kataYonoTunenoOyanosabakariItosigowoItamuKokoromsiduminabaTadahitasuraniKanasiminoNamidanlnuretukogaretutuKokorokudaketuarinanwo.GeniisamasiyanakiHitonoSonoTarationokakumademoImanoTikaranimutiutiteKin〓noYumetotatakaeruIkeruSugatanikurabureba",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0112",
+   "pid": "956263",
+   "pages": [
+    122
+   ],
+   "no": 112,
+   "vol": "三　農夫",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WareKanasiminoHakahukakuHayamoogurakiAnaniinWakakiInotiwaar1nagaraUmorekuturun1nitarukana.KusanoSigeminhaimeguriTikaraahururuSugatakosoGenikonogoronoNatunareya.NozomiwosasouAsakazewaKiginoKozuewowatarikeri.AayosisarabaSirayurinoHanasakiniouKawagis1noMukasinoSonon1tatikaerimin.AaayamatinuTosioiteSimohuruKamiwamidaretutuNagaruruAseniuruoumoTeniwaAburawosiborikiteHonoonlmukauHitonogotoWaremohutatabiTonegawanoKisinoHotorinoAogusanoSigereruKataniOdautiteOosikiKokorokakiokosiUreinikatitetatakawan.tutuSananoboronoHarunoY6noSonohitotokinoYumewomiteTadaHanan1youTy〓nogotoHiwaHakanakutenom1sugosuSudeniMukasitonarin1keri.ImawaMidorinoKinoKageniKanoTienoHanooisigeriIkeruUsiowanagarekiteY〓benoYumewoaraltutuUgokeruMusiwaSuwoidete",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0113",
+   "pid": "956263",
+   "pages": [
+    123
+   ],
+   "no": 113,
+   "vol": "三　農夫",
+   "kotobagaki": "",
+   "author": "",
+   "text": "noonKagenaruSy〓kaid〓noHanamosaki-idenu.Warewaasay〓konoHanazononisy〓y〓surunoTanosimiarikereba,Edata-wawanaruNatunasinoKage,Bud〓dananoMoto,matawaYuribatakenoAidanadomarite,UminogotokiAozoraniNatugumonoyukikisuruwonozomi,mosikuwaY〓-gaodananoHotoriniarite,oitaruN〓hutotomoniItuwariusukiH〓zokunoSama,MaturinoY〓noNigiyakasa,K〓sakunouenoKotonadokataritutuInakanoHuzeiwoadiwaiki.Ky〓rekiSitigwatuZy〓goyaniwaTukiakakuKeikoku1·kotonikononisasiirinu.WarewaKazokutotomoniKonzyakunoMonogatariwotanosimitariki.OinaruHitowawaretoTosiwadukanimitubakaritagaitareba,hotondomakotonoHarakaranogotokutuneniOkihusiwoonaziusite,tomoniyomitomonikatarinanikuretokokorodukekururuNasakenohodomouresi.IeniwaMukasiyoritutawareruKo-gwaKosyo2matawaT〓kiSikkiK〓gu3noTaguinadosukunakarazu,warewakoregatameniK〓ko4noSeiheki5wohosiimaman1NATUGUSAAtonisirusu.Hohukuzit〓geToriit〓gewokoeteKisoniirislwakonoNatuSitigwatuTy〓zyunnariki.Hukusimano·TakaseUdiwawagaAnenototugitaruTokoronite,IewaKisogawanoHotorinaruSy〓ky〓1myoritetateri.MonwoidetemirebaTaik〓2t〓t〓tositenagaru.WarekonoIemaritegagataruK〓zannoS〓kwannisessis〓s〓taruKeikokunoSinsei3woMiminiSl,TuyutanosikuKazesuzusikiAsita,matawaAmesabisikuTorinatukasikiY〓be,Ky〓nizy〓ziteHitudurinaseruNatunonoUtagusawoatumetaruwakonoHuminari.HatigwatuKisogawanoKisinlhahu-rui,TuyukusanoTaguisakimidare,YamaniwaSyakunage,Iwatidori,WasigusanadosakiidetesasuganiNaniouTanimanokotonareba,Ikwa4noKik〓5wohanatumonosukunakarazu.KazikanakuKoemoma-reninariyukiteKuwatuminoHinautaomo-sirokukikoyuruKoroyori,TakaseUdinoK〓en6niwaKusabananoNagamekotoniuresiku,KugwatunliritewaSirakabeno1小丘2大江3深聲4異花5奇香6後5奇香6後1豁谷2古畫古書3陶器漆器香具4奸古5性博",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0114",
+   "pid": "956263",
+   "pages": [
+    124
+   ],
+   "no": 114,
+   "vol": "落梅集",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ses1nomika,mataKuran1osametaruTosyowomirunoTanosimimo〓kariki.KonoHumiwaTakaseUditoAnetonoTama-monotomoiubekinari.Genibimy〓naruSikisainigenwakuse-rareteNaibunoSeimeinotoraegatakiwoomoutoki,Zinryoku1nohakuzyakunisitesin〓naruSizenwot〓sisuru2nokatakiwoomoutoki,GeizyutunoAibotarazaruwoomoutoki,Kozin3ga\"WagaSiwotukuru\"Kotonohawazikowomutiutunan,toierunosinzinnaruwotanzezunbaarazu.NATUGUSAwawagamidukarasemu-runoKon1sugizarunoml.TosyoKonoTama-〓RAKUBAI-SYU.1人カ",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0115",
+   "pid": "956263",
+   "pages": [
+    125
+   ],
+   "no": 115,
+   "vol": "一　千曲川旅情の歌",
+   "kotobagaki": "",
+   "author": "",
+   "text": "鸕鵞杓鸚鵡盃百年三萬六千日傾三杯一日須漢葡若百遙綠看水萄鴨頭似恰初作醱酷此江變築春酒壘麴便糟丘臺I.TikumagawaRyozy〓Uta.no千金駿馬換小妾笑座雕鞍歌落梅車傍側掛一壺酒鳳笙龍管行相催李靑蓮",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0116",
+   "pid": "956263",
+   "pages": [
+    126
+   ],
+   "no": 116,
+   "vol": "一　千曲川旅情の歌",
+   "kotobagaki": "",
+   "author": "",
+   "text": "KomuronarunaruKozy〓Hotori.noKomuronaruKozy〓1noHotoriKumosirokuY〓sikanasimu.MidorinasuHakobewamoezu,WakagusamosikuniYosinasl.SirokanenoHusumanoWokabe,HinitoketeAwayukinagaru.AtatakakiHikariwaaredo,NonimituruKaworimosirazu,AsakunomiHaruwakasumiteMuginoIrowadukaniawosl.TabibitonoMurewaikutuka,HatanakanoMitiwoisoginu.KureyukebaAsamamomiezu,Utakanasi,SakunoKusabue.TikumagawaizayouNaminoKisitikakiYadoninoboritu,NigorizakenigorerunomiteKusamakurasibasinagusamu.1古城",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0117",
+   "pid": "956263",
+   "pages": [
+    127
+   ],
+   "no": 117,
+   "vol": "一　千曲川旅情の歌",
+   "kotobagaki": "",
+   "author": "",
+   "text": "TikumagawanoHotorinite.Rod〓.Sonoiti,Asa.Kin〓matakakutearikeri,Ky〓momatakakutearinan.KonoInotinaniwoakuseku,Asuwonomiomoiwadurau.Asawahutatabikokon1ari,Asawawareratotomoniar1.UmoreyoNemuri,yukeyoYume,Kakureyosaraba,Sayoarasi.IkutabikaEigo1noYumenoKienokoruTaninikudariteKawanaminoizayoumirebaSunamazirlMidumakikaeru.MorohautihuruNiwatoriwaNondonoHuewohukinarasiKy〓noInotinoTatakainoYosooiseyotosakebukana.AaKozy〓2naniwokakatariKisinoNaminamwokakotayu.InisiYowosidukaniomoe,MomotosemoKin〓nogotosi.Noniideyo,Non1ideyo,InenoHowakiniminoritari.Waraditokuyue,Kamamotore,Kazen1inanakuUmamoyare.TikumagawaYanagikasumiteHaruasakuMidunagaretari.TadahitoriIwawomeguriteKonoKisiniUreiwotunagu.Kumon1mutiutuSoranoHiwaKatarazuiwazuKowenakimoHitowohagemasusonoOtowaNoyamaniTanimahuretari.NagaruruAsetoAburatonoOturuyaidukokanoNobem.NamonakiSidunoMononohuKitaritemamore,Ikusagami.wo1条枯2古城",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0118",
+   "pid": "956263",
+   "pages": [
+    128
+   ],
+   "no": 118,
+   "vol": "一　千曲川旅情の歌",
+   "kotobagaki": "",
+   "author": "",
+   "text": "Noniideyo,Noniideyo,InenoHowakiniminoritarl,Waraditokuyue,Kamamotore,Kazen1inanakuUmamoyare.MuneniSimohaKy〓man,TeniTikarawohumitetokukitare.Noniideyo,Noniideyo,InenoHowakiniminoritar1,WaraditokuyueKamamotore,KazeniinanakuUmamoyare.AaAyaginunitutumareteNasuYosimonakuinuruyorl,UsukiTudurewamatoutomoIkitetatukosowokasikere.Sononi,Hiru.Tarekasirubeki,AkinoHanoOtiteKinoNenoudumutokiOmokuKowenakiIsinositaSimiduahuretenagarutowa.HarabauMusinoSidugaMiniTubasawomegumumonovanani,SakekaNamidakaTameikika,MayoikaYumekaminaarazu.TarekasirubekiWoyamadanoInahonotawan1minorutokiHananakuKanakiSidunoMuneInotiwodoritehibikutowa.Nonideyo,Noniideyo,InenoHowakiniminoritari,Waraditokuyue,Kamamotore,KazeninanakuUmamoyare.TomonikitemakikiteuwesiTanomoniAkinoKazeotiteNobenoKohakuwonarasukana.Karihosekarihose,InenoHowo.SanagaraTutinitunagaruruOmokiKusariwotokiideteItodokurakin1sumuOninoSimotonoSemewoidentoki.TisiowaKusaninagasanedoTikarautihuriKuwawoutiKutiniwaAsanoIkiwohukiHoneniwawakakiTiwomatoi",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0119",
+   "pid": "956263",
+   "pages": [
+    129
+   ],
+   "no": 119,
+   "vol": "一　千曲川旅情の歌",
+   "kotobagaki": "",
+   "author": "",
+   "text": "RAKUBAISY〓.RAKUBAISY〓.TennoArasiniIkadutiniWagaTatakainoAtoyakoko.NobenoKohakuwonarasukana.Karihosekarihose,InenoHowo.Miyo,HiwatakakiAwozoranoHateyoriHatewoYumitositeImasiTitinoYaHahanoYanoHikariwohurasuMahirunaka.OmoeNamonakiSidunagaraT〓kiniIsiwomnauMiwaNatunoY〓datisugurugotoHomaremizikakiYumenarazi.TomonikitemakikiteuwesiTanomoniAkinoKazeotiteNobenoKohakuwonarasukana.Karihosekarihose,InenoHowo.InotinonagakiTatakaiwaKokoniOtonaslKowemonasi,KatiteKaturanoKanmuriwaWadukanisirokiHookaburi.TomonikitemakikiteuwesiTanomoniAkinoKazeotiteNobenoKohakuwonarasukana.Karihosekarihose,InenoHowo.YundemInewotukamutoki,MeteniTogamawonigirutokiMunemitikurebaHinogotokuHonetoZuwitonomoyurutoki.TutitoAkutatoDoronoen1AsetoAburanooturutoki,Midorin1mazirukinoKukiniHagesikiIkinokakarutoki.Sonosan,Kure.AgeyoKatidoki,TewonobeteInabawotakakuhurikazase!HikuretukareteMitinobeni,TaoruruHitoyotokukaere!Ayagumova,OturuHiya,Tomomkitemakikiteuwes1TanomoniAkinoKazeotite",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0120",
+   "pid": "956263",
+   "pages": [
+    130
+   ],
+   "no": 120,
+   "vol": "一　千曲川旅情の歌",
+   "kotobagaki": "",
+   "author": "",
+   "text": "YukuMitisugaranagamurebaSy〓ten1takakiY〓magure.TomonimakiTomoniuweTomoniInahowokarihositeUtautekaeru1manoMiniKotosinoNatuwokaerimisurebaAawagaTamawaWananakihuruuKonoHiOsorewokanoHinitutaeKonoY〓NozomiwokanoY6nitunag1KadonitatiNobeniyukiAruTokiwaKazetakakusiteAwogusanagakiTaninoKageKumoniArasiniInadumaniYukutemokurakuKowewonomiAruTokiwaNatusamukusiteYamanoHatonakuMorinosita,TamatamaNiziniY〓baenSuwenoMinoriwoinoriteki.SorewayukiKorewakiteUwetoNamidatookuritesiOnaziSizennoWazanagaraImawaOmoinoNagusameniHikariwohanatuAkinoHosiAaisamitutuwodoritutuMorotewoutitewaraltutuKositanoHakawoyokogiriteIedinikayouMorinoMitiNemuruHizirimoNusubitomoMinaTutikurenoKokehitoeKiritatuSoraniIriainoSy〓zyanoKanenohibikutokiAaKy〓mantoYorokobitoTikarawoIkinihukiireteKatiteIkioinikaerunoAgeyotanosikiAkinoUta.sureba1秋天",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0121",
+   "pid": "956263",
+   "pages": [
+    131
+   ],
+   "no": 121,
+   "vol": "一　千曲川旅情の歌",
+   "kotobagaki": "",
+   "author": "",
+   "text": "ImasititosenoTokiniusobukiHitoriSItatuwanannoTikarazo?SirokanenoHanahihitositeHubukinoKemurikurakitokiYomowaK〓rinitozasareteEumimoOtowohisomutokiImasimidorinoKagemokutisezuSorawosinoguwananinoTikarazo?nakiNobenoSumeragi,TateyoTomotakakutateyoTokiwagi!YuyusikunakubaImasinonagakiHaruInotimooinanka.YamanoImasinohukakiIkinakubaHibikimotaenanka.TaniAsitanoniwaHawoutuMizoreY〓beniwaEdautuArareTigusamosiranuHuyunoHinoArasinisakebuUkinayamiIdurenoHinikaK〓riwatoketeSonoHanoNamidaKientosuran.AayosisarabaEdamokudaketeWowarinoIronootinanHimade,KumoukabaTen'i2,Muh〓1noTokiwagi.zo?Arawowosikikanaitamasikikana,KanoTokiwaginootizukarezaru.TokiwaginokarezaruwaMomotinoKusanooturuyoriItamasikikana.SonoEdanikakaruAsanoHi,SonoMikiwomeguruY〓duki,NadoyukuTabinosumiyakanaruya,NadoInadumanoKagetohasuruya.Ty〓noMai,HananoWemiNadoNadosonoasobuYoiHinonohayakuYonmizikakisamuruya,ya.MusiKusanoHanikanasimebaHitotokinisitesudeniSimeToriSionoNeniodorokebaHitotokinisitesudeniYukiKogarasitakakuAkiotiteSizennoIrowaaseyukedoDairiki1TenwoturanukiteKondiku2tuiniYasuminasi.MonominahayakuuragareteNagakiSamusamosiranuMani1大力2坤軸Hino1無縫2天衣",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0122",
+   "pid": "956263",
+   "pages": [
+    132
+   ],
+   "no": 122,
+   "vol": "一　千曲川旅情の歌",
+   "kotobagaki": "",
+   "author": "",
+   "text": "KazetatabaHuky〓1noWogotoOgosokaniTateyoTokiwagi.Arawowosikikanaitamasikikana.KanoTokiwaginootizukarezaruTokiwaginokarezaruwaMomotinoKusanooturuyoriItamasikikana.Sekiry〓.KisinoYanagiwahikukusiteHituzinoMurenoWemmagaiNobaranoMikiwaudumoreteNagaruruSunaniAtomonasi.TadesinayamanoYamanaminoHumotowomeguruKawamiduyaUwosumuHutinisidumitewaKamonoKasiranoHukamidori,HanasakuIwanisekaretewaTennoTuduminoGakunoOto,SatemoMinasewaKutinawanoK〓bewoagetehasirugotoSiranamitakakuWadatuminiNagaretekudaruTikumagawa.yoriAsitaHonoowotatakawasiY〓beKemuriwokisoitesiSuruganitateruHuzinonemoImawasabisikiHinoKageniSirokukagayakuHakanogotoHarukanisidumuKumonosotoKorewaSinanonoSoratakakuImamohagesikiHinoHasiraAmenasuIsiwohurasitewa1不朽",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0123",
+   "pid": "956263",
+   "pages": [
+    133
+   ],
+   "no": 123,
+   "vol": "一　千曲川旅情の歌",
+   "kotobagaki": "",
+   "author": "",
+   "text": "RAKUBAISY〓.MisorawokogasuHaikemuriKamiYumesamesiAmetutinoHirakesomenisiMukasiyoriTokoyonitumoruSirayukiwaImamoMugen1noTaninoSokoWakiteahururukurenawinoTisionoIkewoMemmitewaNunobik1msumuHayabusamoTubasawokaesuAsamayama.WakakiKokorowoukagaebaHitonoInotinoKositakageHanahukakusakiHanatiriteEdamotawawanoTiwenoMiwoAdiwaisomesikin〓ky〓SirazubananikaTabinoMiniHitonoNasakemousukaran,SirazubananikauturuYoniKarinoTiginmoadanaran.HitotunoIsinotumetakimoYorodunoKowewokokonikikiHitotunoHananotanosikimoTidinoNamidawosokonimituAnaSabisisayawagaMunenoWoyamimonakiwoomoimibaAwarenohokanoAwaresamoTiwenosasayakuWazazokore.AaKitasakunoWokanoSusoMimakigaharanoMorinoKageYumekakemeguruTabinineteYasukihitohimoaranebaya,TakanenoueniakaakatoMoyuruHonoowoaogutokiMitaninoSokonoAwoiwamSakamakuNamiwonozomutokiKasikonikokomSabisisanoSonoAdiwaiwanigakariki.5KanoHukagusanoTuyunoAsaKanoKisagatanoAmenoYuuMatawaKanannoNobenoHaruMatawaDebonnoKisinoAkiYowoWabibitonoNezameniwaAwareUduranoKowetonarUki-tabibitonoYadorimwaHonokaniNebunoHanatonarlAnaSabisisayasonoMitiwaKemononoAsinoAtonomikaMaitemisetaruOozoranoTorinoYukuenosorenomikaSatemoTamesinoTomosibininarl1無間",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0124",
+   "pid": "956263",
+   "pages": [
+    134
+   ],
+   "no": 124,
+   "vol": "一　千曲川旅情の歌",
+   "kotobagaki": "",
+   "author": "",
+   "text": "Hituzi.wotomonoWarabeniwaHitonariHosinoKazutonariMuginisoinenoN〓huniwaHatukanezumitoarawareteAruwaKatatin1aruwaNeniIroniNioinikawarukosoItuwariusukiSabisisayoIdureimasinoWazanarame.HanarewozimaniarawareteNagekitaoruruHitoriminoTumetakiYumewosamasutokiKariniOmotewatereruHiyaKubiwaY〓benoSoranoNiziKoromowaAyanoKumowokiteAsiwahutatunoHinohasira,MokusiwokataruKotonohawaTakakiRappanoTennoKowe.SanariOmotewahiyayakaniItoturenakumomiyuruyoriHukakiKokorowaAdasi-yonoHitonisirarenuSabisisayoMukasiimaslgaSetuzannoHotokenoYumenimiesitokiKariniSugatawaHanamoHamoN〓mokagirnakiYakuw〓zyuMukasiimas1gaGensy〓noMidunoHotoriniarawareteSonisuteraresiAtebitonoAtukiNamidawonuguutokiKariniimasiwaTy〓sara1noGakusyo2noKisinioiideteY〓bekanasikiAkikazeniNioiwookuruKei3noKusaMatawaimasigaPatomosunoOmoebamukasiKitanoHateHunadiwabisikiSadogasimaKumon1koisikiamatuHinoHikarimousukuYukihurebaBiran1noKazewahukiotiteBon'onzy〓woodorokasiKisiutuNamiwaHaramitunoKaity〓onwotodorokasiAsasimohurebaSodetoditeKoromowak〓ruWosinoHaneY〓zimohurebaUtusiminiYatunoSamusanoKankuty〓MasiteyaKuninoTumibitonoAwanoUmarenoAmagaKowoAnaSabisisayaSabisisayaHitoriimas1marazusiteno1長沙羅2那者3薫1昆藍",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0125",
+   "pid": "956263",
+   "pages": [
+    135
+   ],
+   "no": 125,
+   "vol": "一　千曲川旅情の歌",
+   "kotobagaki": "",
+   "author": "",
+   "text": "TennimoTinimotarekamataSonoKanasimiwoawareman.Rohen.1SanbunnitetukureruSokky〓si.2Ara,arakuretaruSidunoYamazumiya,Kaomokurosi,Temokurosi,sugosugotoHayasinonakawokaeruWaraz〓rinoTutinimamiretaruyo!KokonwwIsodiMusodiwohetutumadaUmisiranuHirobitozo〓ki!SumiyakinoKemuriwonagametutuYonouturikawarumosiradeTanikagemzosumeru.Tanpoponokini,HukinoHananosirokiwohumitutu,nares1sonoAsinanzoYazy〓3nogotoki!WokanobenikayouMitiniwaNoitigonoMiwotaruruar1,tumitesitautisiteTosiwohenikeri.WakameurinoWetigonoOnna,sanzan-gogoMurewonasitekitaru,yobiteMadoniyoriteUminoMowokauzoyukasiki.Daiduwourite,SaranoueninosetaruSiozakenoNiku,SiozakenaninoIsonoKamonaki!TosidosinoKoyomitotomoniKabeniGeniHirunoYumeYorunoYumeTabinoUreiniyaturetewaHimoatatakaniHanahukakiSoranokanatawositautokiNayaminoTogemsemerareteSodeniNamidanokakarutokiKumiteadiwauSabisisanoNigakiMakotonohitosiduku.hetutuYomzoAkinoHit〓siAsitammoTakakininoboriY〓benimoNagarewotutaihitorisiteHurisakemirebaTorikagenoAmanoKagaminimaukanataOmoiwotozasuSirakumonoUkaberuKatawonozomedomoMiyakowamiezuSabisisayoKitaritewaretotomonikatarine,HananoAsinanzoKoyomi3野獣totomoniKabeni1儘邊2即興詩",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0126",
+   "pid": "956263",
+   "pages": [
+    136
+   ],
+   "no": 126,
+   "vol": "二　胸より胸に",
+   "kotobagaki": "",
+   "author": "",
+   "text": "RAKUBAISY〓.susuketaruNisikiwewomirebaUmiariki,HirosigenoHudenariki.DidiwaNamiwosirazu,BabawaSionoNewosirazu,MagowaTidoriwoNiwatorinoHinakatozoomou.TamatamaIsem〓denoSirusinitookuraresiKainohitohirawomireba,Oowa-datuminoyorodunoNamiwokizamerutozo11S1Kotonohakosoomoiiderarure.SinagawanoOkiniyorutoiunaruNorinoatarasikiwa,maduTananoHotokenimawirasete,Yamagan1aritet〓kuUmigusanoKawokagutozoiubakarinaru.womirebaUmiariki,sirazu,BabawaSionowaTidoriwoNiwatoriwaniwoⅡ.to11S1MuneyoriMuneni.n1iu",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0127",
+   "pid": "956263",
+   "pages": [
+    137
+   ],
+   "no": 127,
+   "vol": "二　胸より胸に",
+   "kotobagaki": "",
+   "author": "",
+   "text": "RAKUBAISY〓.Meguriaukimiyaikutabi.Meguriaukimivaikutabi,AdikinakiY〓woHinikaesuWagaInotiYaminoTanimamoKimiarebaKoinoAkebono.KinoEdan1K〓towakaenedoAsakazenokitehikugotokuOmokagemkimiwauturiteWagaMunewosidukaniwataru.KumomayouMinoWaduraiKurenawinoIronihohowemiNagaretutuhiyuruNamidamoItoatukiOmoiwoyadosu.moSirazarisi,MitinohiraketeOozorawaimaHikarinari.MorotomonisibasitatazumiAtarasikiNagamenliran.nliran.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0128",
+   "pid": "956263",
+   "pages": [
+    138
+   ],
+   "no": 128,
+   "vol": "二　胸より胸に",
+   "kotobagaki": "",
+   "author": "",
+   "text": "Aasanari,kiminogotokuniOmoiyoriOmoiwotadori.Aasanarikiminogotokuni1Nanikamatayasasikarubeki?KaerikitekogarewabunariNegawakuwahirake,konoToOmoiyoriOmoiwotadoriKositayonKositawotutaiosokuHitorisiteayumebaTukikoyoikasukaniterasu.Towo!HitotabiwakimiwomisuteteYonimoyouHituzinarikiyo.AdikinakiIsiwoMakuraniOmoisirukimigaMakibawo.Obotukana,HarunoKasumiUtikeburuYorunoSidukesa,HonosirokiSoranoKagamiwaOmokagenoKokotikososure.niTanosikiwauraburekurasiIduminakiSunanihusutokiAwogusanoOmoidebakariKanasikiHitanosikiwanasi.MonominawasayakanaranedoOninosumuYaminimoarazuOnodukaraHikariwaotiteWagaKaonihuruZOuresiki.KanasikiwahutatabikaeriMidorinasuNobewomirutoki,SamayoinoOmoidebakariTanosikiHikanasikiwanasi.SonoHikarikokoniuturiteHiwamiezuyaenoKumodiniSonoKagewakokon1vadorite,KimimiezutoonoYamakawa.SonoHuewoimawatanoman,SonoMuneniwarewaikowan,Kiminaradetarekakaubeki,AmetutimmayouHituziwo.Omoiyaru,oborooboronoAmanoTowaKumokaaranuka,KusamoKimoneburerunakaniAogimiteNamidawonagasu.m",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0129",
+   "pid": "956263",
+   "pages": [
+    139
+   ],
+   "no": 129,
+   "vol": "二　胸より胸に",
+   "kotobagaki": "",
+   "author": "",
+   "text": "WagaKoiKawabeKoiwaWagaSokoMunenonioite.nokokoniwa.WagaKoiwaKawabenioiteNewohitasuYanaginoKinarl.EdanobitemidorinasumadeInotiwozokimin1suunaru.WagaMumenoSokonokokoIigatakiHimegotosumeri,Miwoagete1keruNietowaKiminaradetarekasiramasl.niwaKitanoKataMidusarikaeriHirumoY〓moMinamiwosirazuAawaremokiminimukaiteKusawosikiOmoiwookuru.MosiyawareTorin1arisebaKiminosumuMadonitobikaiHawohuriteHiruwahinemosu,HukakiNen1nakamasimonowo.MosiyawareWosanlarisebaKimigaTenosirokin1hikareHarunoHinonagakiOmoiwoSonoItonoramasimonowo.MosiyawareKusan1arisebaNobenimoekiminihumareteKatunabikikatuwahohowemiSonoAsinihuremasimonowo.WagaNagekiSitoneniahureWagaUreiMakurawohitasu.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0130",
+   "pid": "956263",
+   "pages": [
+    140
+   ],
+   "no": 130,
+   "vol": "二　胸より胸に",
+   "kotobagaki": "",
+   "author": "",
+   "text": "RAKUBAISY〓,AsatorimyorimezamenuruHayaTokowanuretetadayou.KimikosowaT〓nenihibiku.KutibirumKotobaaritomoKonoKokoronanikautusan.TadaatukiMuneyoriMunenoK〓tonikosotutaubekinare.KimikosowaT〓nenihibikuIriainoKaneniarikere.KasukanaruKowewotadoriteWarewayukuMesiinogotosi.KimiyuweniwarewayasumazuKimiyuweniwarewataorezuAawarewakiminihikareteKurakiYowowadukanisaguru.TadasiruwasidumuHarubinoMeniuturuSoranoHiramekiNatukasikiKowesuruKataniHanahukakiY〓bewoomou.WagaAsiwakizutukiitamiWagaMunewaahuremidarenu.KiminakubaHitonoInotiniWarenomiyahitorinaramasl.Anakanasi,KoinoYaminiwa,Kimimomataonaz1Mesiika.TebikiseyoMesiinoMiniwaMesiikosouresikarikere.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0131",
+   "pid": "956263",
+   "pages": [
+    141
+   ],
+   "no": 131,
+   "vol": "二　胸より胸に",
+   "kotobagaki": "",
+   "author": "",
+   "text": "KokorowotunaguSirokaneTasogare.no.TutotatiyorebaKakineniwaTuyukusanoHanasakinikeri.SamavoikurebaY〓gumoya,KorezokoisikiKadobenaru.KokorowotunaguSirokanenoKusarimoimawataenikeri.KoimoMakotomoasuyoriwaTumetakiSunan1sosogamasi.KawaranoYanen1KarasunakiKarasukaeriteHiwakurenu.OtoduremosezuinimosedeHotarutotomonikokowoatikoti.KaomouruolTemohuruiAuteWakarewowosimuyoriHitomenoSekiwahedatutomoAkanuMukasizoaitawasiki.KatatitonaritesowazutomoSemetewaKagetosowamaslwo.TagainiomouKokorosuraSakitesutubekikonoYokana.OmokagenoKusakakarutomoHuriteyabururuKabenogotoKimiSlsumanebawagaMunewaTuinikudaketearenubesi.Ippon1NamidagohoniTiya,SugataKatatimoSoranoNiziOnaziteruHin1nagaraeteNagakiWakaredimiruYosimonasi.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0132",
+   "pid": "956263",
+   "pages": [
+    142
+   ],
+   "no": 132,
+   "vol": "二　胸より胸に",
+   "kotobagaki": "",
+   "author": "",
+   "text": "KainakuTamawoidakitewaTumi〓karisiKusamakura.EdautikawasuUmetoUme.Kumon1ukabitetatikaeriMiyakonoNatunikitemirebaMukasinagaranoMidoribawaKage1yahukakunarerukana.EdautikawasuUmetoUme,UmenoHakagemsonoMukasiToriwaToritoS1narabikuiWarewakimitosiasobiteki.WakarewoomoiAusewobaKimitosl1mayakatarauniHutarisuwarisiAwogusawaAtukiNamidamnurenikeri.SoraKezehukebaKumohanareWakareizayouNisihigasi,AwobawaEdanitigirutomoMidoriwvnagakutodomarazi.Midusarikaeru,TewonobeteTarekaNagarewotodomubeki.Yukun1makaseyoaasaraba,Mataaimintonegaisika.T〓kuwakaretekazourebaKasanetenagakiAkinoYume,NegaiwaaredoSuwemononoKudak〓teTokiwoitamikeri.WagaKaminagakuHitainoAsewo〓uoiidetetomo",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0133",
+   "pid": "956263",
+   "pages": [
+    143
+   ],
+   "no": 133,
+   "vol": "二　胸より胸に",
+   "kotobagaki": "",
+   "author": "",
+   "text": "TuminarebaKazeyosidukaniMonenoAwarewo,kanoKisie.TuminarebaMononoAwarewoKokoronakiMinimosirunari.TuminarebaSakewohukumiteYumemyoiYumen1nakunar.KazeyosidukanikanoKisieKoisikiHitowohukiokure!UmiwokoeyukuTabibitonoMurenizokimiwamaziritaru.TuminarebaOyawomosuteteYonoMutiwosinobi〓unar.TuminarebaYadowoowareteHanazonomwakareyukunari.YaenoSiodiwokakiwaketeYukuwawadukaniHunehitoha.SokoSiranaminouenarebaKimiyasukaretoinorukana.TuminarebaYaibanihusiteAkakiTininagaresarunarl.TuminarebaTeniTewotoriteSinoKadonikakeriirunari.UmitowaiedohinemosuwaSatukinoNobetonagamemiyo!Namitowaiedoyomosugara8MidorinoKusatoomoineyo.TuminarebahorobikudaketeTokoyaminoDigokunoNavami,AahutariidakikogaretuKoinoHinmoyuruTamasi.MosiUmiikarikuruinabaWarekonoKisinitaorehusiItoitohukakiTameikiniSonoArasiwozonadamubeki.TanosikiHazimeomougotoKanasikiWowaritaegatasi.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0134",
+   "pid": "956263",
+   "pages": [
+    144
+   ],
+   "no": 134,
+   "vol": "三　壮年",
+   "kotobagaki": "",
+   "author": "",
+   "text": "26QRAKUBAISYU.HutatabimitabiAmatuMegumiwaarlyaarlyanasiya.AaMidoribanoNagekiwozoImawaUminimoomoisiru.YabureteMunewaakakiTinoNagarurugagotositatarugagoto.zowaIII.S〓nen.meguriau",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0135",
+   "pid": "956263",
+   "pages": [
+    145
+   ],
+   "no": 135,
+   "vol": "三　壮年",
+   "kotobagaki": "",
+   "author": "",
+   "text": "S〓nen.Wakamononokatariteieru,HitonoMinyadoreruHurunoKureteyukuInotiwomirebaYukisirokuKamininagareteHiniataruHanamoKamonasi.KaregusawoSugatanikizamiKuinomiteotoroubakari,OnodukaraNemurinikaeruOikosowakusikimononare.noAruOkinakotaeteieru,Waretotemokiminisanagara,MinisakaruNatuwahenikeri.InadumawaKokoron1sawag1Y〓datiwaMunen1sosoginu.WarebakariKutig1toluya,KimibakariAwobato1uya,Sayoaras1yagateosowabaKimimomataOinoWesanaru.I.Umoregi.TubasanakerebatunagareteKutihatubesitokanetesiru.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0136",
+   "pid": "956263",
+   "pages": [
+    146
+   ],
+   "no": 136,
+   "vol": "三　壮年",
+   "kotobagaki": "",
+   "author": "",
+   "text": "RAKUBAISY〓.265HikarinakerebaudumoreteOiyukubesitokanetesiru.TategamiwaKazenihukareteWagaKomanoAyumimoososiUreitutuHidumewoageteKumot〓kiMiyakommukau.SiruHitomonakiYamakageniKutiyukukotowoitowanebaUsikauNobenoSabisisawoKakuregatokosotanomunare.TatakainoYoniSIanarebaNonoKusanoTuyutosireredoWagaTitinoiruYamtatiteKientowaomoikakezuyo.UmoruruHanamoariyatoteHitoriToniyorinagamurebaY〓bemunasikuHiwakureteMakibanoKusaniHarusamenohuru.SuteyotoyaKaminimoarazuWagaKokoroyakuYosimonasi.SuteyotoyaHudenimoarazuWagaKokoroworuYosimonas1.SonoNegaiOyayahuritaruKonoOmoiKoyaatarasiki,TukudukutoTitiwoomoebaWagaSodewaakakiTitonaru.Ⅱ.Kokubetu.TumibitotoNanimoyobaren,TumibitotoNanimoyobaren.KaerazitokaneteomoebaAaNamidasarabaHurusato.Yasum1nakutagituMuneniwaSigaramimonanikatodomen.OomidunoahururugotokuUminimadeiradewayamazi.KomatometeMitinoKokageniAmatatabikrerimisureba.KagayakitetateruSirakabeSayakanimomienikerukana.HarakarayasarabaHurusato,Ineyo,ineyo,ineyowagaKoma!",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0137",
+   "pid": "956263",
+   "pages": [
+    147
+   ],
+   "no": 137,
+   "vol": "三　壮年",
+   "kotobagaki": "",
+   "author": "",
+   "text": "MorotomonikurakusabisikuMukasinoSonowosuteteyukamasi.Muneuti〓uMidoribanoWakakiInotimoikubakuzo.Ⅲ.KanbasenoHanaakakiKoAwareyahayakuOkinagao.moY〓ky〓.1Koty〓noYumenoHitonoMiTabitolukosouresikere.Tokoyon1nagakiAmetutiwoYadotolukosowokasikere.woAruiwatakakuuteredomo,TubasakudaketeYaemugura.Aruiwat〓kumaeredomoNozomiwaotiteTiriakuta.AwokiYamabewawagaMakura,HanasakuNobewawagaSitoneHosinuuSorawawagaTobari,,SakamakuUmiwawagaWogoto.HomaremoKowemoukeruSuguresiZaewaidukozoya,NamidamoYumemoKusanoNagaretesaraniOtomonasl.KumoAmeIdukoyontowatugegatasi,Idukomadetowaiigatasi.Om〓tetarekaitamazaru,Ayumitetarekamayowazaru.ImaHinoHikariimaArasl,KitaruTanosimiKanasiminoHitonoSakariwokarisomeniNatuto1wanmoomosiroya.HitonoInotiwoWarawabenoTawaretoluW〓tagaKotoba.SidumoHizirimoMasurawomoWarawabenaranumonoyaaru.AawarehitonosiranuManiKokoronoIrowaaseyasusi.HiruniwaYoruniwaHiruniasobubesi,Yoruniasobubesi.niwa1件狂",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0138",
+   "pid": "956263",
+   "pages": [
+    148
+   ],
+   "no": 138,
+   "vol": "三　壮年",
+   "kotobagaki": "",
+   "author": "",
+   "text": "269YaburihatubekiYonaranebaMiwakuruukosokanasikere.YumenoKokotimoumakarisi,Mukasiwananiwosiretoteka,SuzusikiHosimoMiwonorouImawanamwakaomoetoya.SutetuhiroitukonoInoti,YukitumeguritukonoTamaki.Katakunanarisiwaresaemo,WoretenakisiwaKoinariki.ArakiMunenimoitirinnoHanawokazasuwaKoinariki.IV.Kusamakura.KaramatunoKiwaaritotemoSyakunagenoHanasakutotemoHurusatot〓kiKusamakura,Omoiwananikanagusaman.IsameruUmanokuruiideTategaminagakuinanakiteKazeKokotiyokiAwogusanoNobewoHidumenihumugagoto.TabinewaMunemoyamubakari,SidumuUreiwayougagoto,HitorinuruY〓noYumeninomiTadaYumeninomiYamadiwokudaru.MatawaManakomomurasakiniMuneyoriatukiHiwohukiteKumedotukisenuMasimidunoIduminiaeg1yorugagoto.V.Genkyo.1WakakiKokoronowodoritewaKubikimoTunamosutekerina.KogaretuyoituHudehurebaHudeKamiaritoomoiteki.HutoMewasamenu,itutosenoKokoronoYoiniodorokite.WakakikonoMiwonagamurebaHayawagaHaruwaoinikeri.1幻境AautukusikiHanagusawaSakuMawomatadesibomuran.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0139",
+   "pid": "956263",
+   "pages": [
+    149
+   ],
+   "no": 139,
+   "vol": "三　壮年",
+   "kotobagaki": "",
+   "author": "",
+   "text": "KiehatenikeriwagaKoiwaTakumimorotomokienikeri.VI.Meguriai.SowananiyuwenoUkiyoniteHitoniMakotowaarinagaraKoidinoSuwewaTokosienoHuyuwoInotinikizamuran.Nuikaese,nuikaese,AburanisomisisonoTamoto,NamidamnuresisonoTamotoSusugeyo,sarabanagekazumogana.Kurokamiwarewo〓utomoTisiowawarewosomurutomoHanaKutibiruwokazarutomoOmoiwaMunewoitamasimu.Nuikaese,nuikaese,KimigaKoromowonuikaese,UreiwaMidun1AsewaSeniSusugeyosarabanagekazumogana.WehudeutihuruwagaYubiwaNagekinotamenihuruukana.Namidan1nururuwagaKamiwaKatatimunasikukiyurukana.Nuikaese,nuikaese,SuteyoMukasinoYumenoAka,YameyoKainakiMonoomol,Susugeyosarabanagekazumogana.KawarihatetaruwagaInoti,KawarihatetaruwagaOmoiKawarihatetaruwagaKoidi8KawarihatetaruwagaTakumi.Nuikaese,nuikaese,KusaretenaninoSodekaaru,Tukaretenan1noMitikaaru,Susugeyosarabanagekazumogana.KonoYowaamariMinisugiteAtarawagaMiwaYumebakariNagusamemonakiMaborosinoSakain1nakitesamayouwarewa.Nuikaese,nuikaese,UsukiHasodenoSemisuramoUtauteKarawoiduruYoni",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0140",
+   "pid": "956263",
+   "pages": [
+    150
+   ],
+   "no": 140,
+   "vol": "四　椰子の実、其他",
+   "kotobagaki": "",
+   "author": "",
+   "text": "27.2RAKUBAISY〓.Susugeyosarabanagekazumogana.Nuikaese,nuikaese,KimigaNagekiwahuritariya,TokuatarasikiYonikaere,Susugeyosarabanagekazumogana.IV.YasinoMi,sonota.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0141",
+   "pid": "956263",
+   "pages": [
+    151
+   ],
+   "no": 141,
+   "vol": "四　椰子の実、其他",
+   "kotobagaki": "",
+   "author": "",
+   "text": "RAKUBAISY〓.YasinoMi.Namosiranut〓kiSimayoriNagareyoruYasinoMihitotu.ルHurusatonoKisiwohanareteNarewasomoNaminiikutuki.MotonoEdawaKiwa01yasigereru?Kagewoyanaseru?wanaoWaremoHitoriminomataNagisawoMakura,UkinenoTabizo!MiwotoriteMuneAratanari,Ry〓rinonlaturebaUrei.UminoHinosidumuwomirebaTagiriotuIky〓noNamida.Omoiyaru,yaenoSiozioIdurenoHinikaKuninikaeran?",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0142",
+   "pid": "956263",
+   "pages": [
+    152
+   ],
+   "no": 142,
+   "vol": "四　椰子の実、其他",
+   "kotobagaki": "",
+   "author": "",
+   "text": "RAKUBAISY〓.Urasima.Huradi.UrasimanoKotozoiunaruAsobubekuUmibeniideteTurisubekuIwan1noboriteNagakiHiwoItotarekurasu.UminisitehibikuRonoKowe,MiduwoutuOtonoyokikana.OozoraniKumowatadayoi,SiowaketeHunewayukunarl.NagaremonoawokiHakageniKakureyoruUwokatobakariTewonobeteMiduwoidetaruUrawakakiWotomonohitori.SidukanaruSoranlsukasiteAwonaminohukakiwomirebaMinasokoyaHatemosirarezuNagaremonoukitusidumitu.Nanorenanore,kusikiWotomeyo;WadatumimsumeruWotomeyo!Omoikiya,MidunonakanimoKurokaminoUwonoarltowa.MidorinasuKusanoKageyoriWakiiduruIduminaranedoOnodukaramitikuruSiowaUnabaranoutiniahurenu.KanoWotomenagekiteieru,WarewakoreUsionoKonari,WadatuminoKaminoMusumenoOtohimetoluwawarenari.Sanagaranit〓kiSirahowaMurewonasuMakibanoHituziHukiokuruKazenikawareteWadatuminoNobewoyukuwaran.TatunoMiyaarenabaarene,SutetekiteUmiewairazl.AakiminoMunemnomikosoKy〓yoriwasumubekarikere.KumoyukebaHunemositagai,HuneyukebaKumomomataou.SoratoMiduaiaukanata,Morotomoniky〓noTomarie.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0143",
+   "pid": "956263",
+   "pages": [
+    153
+   ],
+   "no": 143,
+   "vol": "四　椰子の実、其他",
+   "kotobagaki": "",
+   "author": "",
+   "text": "RAKUBAISY〓.279UmibenoKyoku.DOOimmaまニヨニUmibetoieruSiraben1tukurisiUta.awasete日=YonoWaduraiwonogareidetutu,hitoriUmibenisamayoikureba,aahaya,wagaMunewa,KoinoOonami,,Kokoron1yasukihitotokimonaku,kurakiUsionoUmiyoriidete,ahuretoKisininoborerumireba,tumetakiKazenoYumewohukutoki,todomemoaezuNamidaS1nagaru.一、\"S:-=〓Wa-Du:'三、一、一o0-KOas28투〓なきMu·ne:deミニP.5WHISH2·ごは\"ミ",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0144",
+   "pid": "956263",
+   "pages": [
+    154
+   ],
+   "no": 144,
+   "vol": "四　椰子の実、其他",
+   "kotobagaki": "",
+   "author": "",
+   "text": "のKo-ko--ro_ni_ya·su-kihito-to-kimonakutaka-kiU-siRAKUBAISYUno-miyo-ri-------------------------------teahu·re-5日-Ki-sinino-ho·rerumiba-re-tu-me-ta-kiKa_-ze-noYu-mewohu-kuto-ki(RAKUBAISY〓.dc-memo-zuNa-mi-dasina-ga-ru",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0145",
+   "pid": "956263",
+   "pages": [
+    155
+   ],
+   "no": 145,
+   "vol": "四　椰子の実、其他",
+   "kotobagaki": "",
+   "author": "",
+   "text": "RanwaOmoiwoitamasimu.TakakininoboriKusawosikiTy〓ty〓tositenagamurebaHibaranimayouKumootiteNamidanagaretekagir1nasi.HibikirinrinOtorinrin.HibikirnnrinOtorinrinUtihuriutihuruSuzutakakuUmawaHidumewohumisimeteKoky〓noYamawoidurutoki,SonoKurogenasuTategamiwaSuzusikiKazenihukimidareSonomurasakinoRy〓ganwaSeiunt〓kunozomukana.EdanoMidoriniSodehuretu,AyasikiKuran1matagarite,Bazy〓mutauhitohusiwaGeniyaY〓sinoTabinoZy〓.Ineine,kakaruHurusatowaHutatabiiuntarazikasi.Aayosisarabaky〓yoriwaHiyukiKazehukiAyagumonoAyanitanabikukanatawomoSiranamitakakuYaozionoWakitatisawagukanatawomoKasikonoWokamokonoYamamoIdureKokoronoYadotosebaSigereruTaninoNobud〓niAkinoMinoriwatorugamama,HukakiHayasinoMomidibaniAkinoHikariwahumugamama.HibikirinrinOtorinrinUtihuriutihuruSuzutakakuUmawaK〓bewomegurasiteKumominanakiisamutokiKaerimisurebaHurusatonoHibarawaMenimomienikerukana.AawosanakuteKuniwoideHigasinoIsobenislnoHamaSatemotunaganuHunenogotoYumenagakikotonizy〓nen.TamatamakotosikaerikiteMukasiomoebaHurusatoyaKagewoWokabenitadunurebaSy〓hakusudeniworekudakeMitiwoKawabemmotomurebaNogusawahukakuarenikeri.kana.KikuwaKokorowoodorokasi,",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0146",
+   "pid": "956263",
+   "pages": [
+    156
+   ],
+   "no": 146,
+   "vol": "四　椰子の実、其他",
+   "kotobagaki": "",
+   "author": "",
+   "text": "RAKUBAISYU.Akumu.SonoMimiwaidukoniariya,SonoMunewaidukomariya,·UreiOmoi,TagiriotunoKonoKokorotarenitugubeki.Sy〓nennoMukasi,karisomeniaisirerunanigasi,Gokun1tunagarurukotokokonimitoseamarinarislga,hakarazariki,Hih〓karenoKy〓onwotutaenu.KonsyunGokurinimitibikaretekarewoSugamonoBy〓sy〓nitoisiwaKy〓tiaimirunoSaigoniteariki.KareGakuari,Saiari,NisinoKuninoKotobanimot〓zi.,Sy〓ky〓noMunewomoadiwaisiri,〓katanoGein〓nimotutanakarazu,HitommoanadoraremazikihodonoSinakatatiwamoterisinl,sonoHanseiwoomoiyareba,zituniSankutoRakuhakutonoRensatomoiubekariki.KarewaHarunoHinonodokaniatataka-naruKateinioitatite,Kib〓toK〓hukutowoissinn1ninaitarisikado,yagateGokus〓nisinginsesinoHiwaZinseiRy〓rinoKiwamiwotukusitarunonotinariki.nozokiteAwaremubesi,tanikareSinotoyukubekiKy〓toTumiMititotewatowoarazarislnari.WarewaimakaregaAku-muwoawaremunoamar1,ippennoBuziSy〓zinnoUreiwotoritemidariniKwaty〓noInziwokegasu,Tuminoukubekiwamotoyonwagakisurutokoronari.AkibaenoMadoninokoriteHinoKagenitobikaugotokuAdikinakiHitoyanonakaniHusiteinematamomezamenu.YonayonanoHusumawanureteWagaTokowakawakuMamonasi.KurokamiwaSimomotoroe,WakakiMiwaNagekinioinu.Haruyanaki,MugennoTanima,Sioyanaki,GurennoKisibe,UragarenoSikwainoMiniwaAtukiHinomoyuruTuminomi.SirokanenoUtenamokudake,KoinoYamokutiteyukuYoniItumadekaHonenikizamiteTokisirazuikuruTumikamo.SoranoWasiwarenikoyotoya,Nanikasen,ZizainakiMiwa.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0147",
+   "pid": "956263",
+   "pages": [
+    157
+   ],
+   "no": 147,
+   "vol": "四　椰子の実、其他",
+   "kotobagaki": "",
+   "author": "",
+   "text": "RAKUBAISY〓.RAKUBAISY〓.TennoUmawaren1koyotoya,NanikasenKusariaruMiwa.Titiikani,HurunoYamakawa,Tumaikani,T〓noMurasato,KonoMitiwowasuretamauya,KonoSorawowasuretamauya.IkadutinoHiwohukugotokuItamiMunen1wodoreri.KonoNakanakaniTuminoSumikawaKokiKagenoYaminikosoare.IkanarebaNagekiwosuran,SonoTitiwawarewosuturun1Ikanarebasinobituworan,SonoTumawawarewosuturum.KuroganenoMadomsugarite,HurusatonoSorawonozomebaUkigumoyat〓kukakariteHuminaresiWokanisanagara.SabisisanotoikuruhokaniOtonaimotaetenakarisi,,WagaMadon1nakuNewokikebaHitosirezuNamidaS1nagaru.m.ItoosimuHitonakiwarezo,KakurenniMononakiwarezo.TininakiteKowewanomutomo.SabisisanoSusokosoyokere.YowosiranuwosanakiMukasi,KaniniouImowoidakite,SusurinakuUraminoHiyori,,takaburubakari.WagaMusiwaWagaInotiTawarenoUtenaSonoAkuwomaun1yaaran.WagaKokorokanasikiKagam1,SonoYumewomirunlyaaran.HiyodoriyoTubasawohuriteMomidibanoKagen1utauka,TorawarenoSimotonoSemeya,HitonoMiwaTorimmosikazi.HitonoYoniAmetutiniMiImasaramwareNakiHahamoHawoutuArasi,waSutewobune,woumitesiuramesikikana.AahitohaEdanihanareteIdukunikatadayouyaran.TereruHinoHikariwaaredoWagaTamasnwakurakusamayou.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0148",
+   "pid": "956263",
+   "pages": [
+    158
+   ],
+   "no": 148,
+   "vol": "四　椰子の実、其他",
+   "kotobagaki": "",
+   "author": "",
+   "text": "RAKUBAISY〓.RAKUBAISY〓.KaninoUta.NatunoYume.MataotikakaruY〓datinoWakabaAwobawosugitenotiMidorinoNobeniTy〓wakiteNamonakiKusanoHanazakari.NamiutiyosuruIsogiwanoHitotunoAnaniKanihutatu.ToriwaTotitoSinarabitobiKaniwaKanitosisumerukana.waHigotonoYadonoItonam1waKawakuMamonakiSunanoSiohikugotoniarawareteSiomitugotonikakurekeri.MegurimeguriteYabukagewoNuttoidurebaNatunoHiya,SirokiHikariniterasareteSugatawotutumuHookaburi.ue,YagateAmagumoodorokiteOtiteArasitonarinurebaNagaruruSunatomorotomoniHutatunoKaninoYukuesirazuHanarebanarenoKumonoyukuTennoKokorowasiranedomo,KawadunoutauKowekikebaImawayorodunoKoinoToki.mo.KayoinaretaruSirayurinoHatakewoarasuMuguramoti,KodakakiTutiwohumisimeteHanasakunokawoainiyuku.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0149",
+   "pid": "956263",
+   "pages": [
+    159
+   ],
+   "no": 149,
+   "vol": "四　椰子の実、其他",
+   "kotobagaki": "",
+   "author": "",
+   "text": "RAKUBAISY〓.RAKUBAISY〓.SanagarasoremohitotokinoMunenoAwogumoidukozoya?KaerimisurebaAtomonakiS〓sukenoYumeK〓sukenoTorinakiSato.TorinakiSatonoK〓moriya,S〓sukeKuwawoKatanikakeK〓sukeAmiwoTenimotiteYamaeS〓sukeUmieK〓suke.Yume.HutatabiYuriwasakikaeriHutatabiUmewaawomikeri.HukakimidorinoKinoKagewoMayoutekaeruS〓sukeK〓suke.waKiuriHanasakiY〓kagen1SeminakukanataKuwanoHanoTuyun1suzusikiYamamitiwoUminurayamuK〓sukenoYume.IsonawotikotiSunanoeniHunehosukanataNatuzionoAdimonhibikuUminoNewoYamaniurayamuS〓sukenoYume.KakumokawarebakawaruYoya,K〓sukeKuwawoKatamkakeS〓sukeAmiwoTenimotiteYamaeK〓sukeUmieS〓suke.KasuminiuturiSimon1kureTatimatisuginu,HarutoAki,NozomiwaKusanoHananogotoSunanumoretemiruYosimonasi.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0150",
+   "pid": "956263",
+   "pages": [
+    160
+   ],
+   "no": 150,
+   "vol": "四　椰子の実、其他",
+   "kotobagaki": "",
+   "author": "",
+   "text": "RAKUBAISY〓.Yabuiri.SiowakikaeruSinagawanoOkinokanataniyukuMiduyaOmoiwaonaziKawasimonoWaganatukasinoHukagawanoI.AsaAsakusawotatiideteKanoHukagawawonozomukana.Katakagesuzusi,warewa1maKoisikiIenikaerunari.Yado.Ⅱ.SonoNabakarinoSusitukete,hitohiwakurenikeri.YagatemikaerebaItomagoisiteusukiHahanoKayariniKagonoSuzumenoky〓hitohiItomatamawaruYabuiriya,OmoumamanaruwagaMikosoSoratobuTorininitarikere.Kage.Ookawabatawokitemireba,ObiwaasaginoSomemoy〓UsirosugatanoKobasirimoUresikiwarenionaziMika.AyumiKisibewowayukiteomosl,wagaure13tutuYadonosinobummoImanoArisamaSinobun1amaruSuguseSkana.YanaginoNamikikurakusiteSumidanoKisinoHukamidori,SunadoribunenoRonoOtowaSidukaniNaminihibikukana.IewoKokoromukaburebaYumemotumetakiHurusunoko.kanasikiTutikabenoNisibiMabarakutitaruUrazumai.SirahowowataruKazewakite,BinnoWidutunoKawoharaiHanaatumareruUkigusaBwaWarenisoitutunagarekeri.MinaminoHisasikatabukiteKakinimizikakiKusab〓ki,YaresiToniyoruNatugikunoHitoniMukasiwokatarigao.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0151",
+   "pid": "956263",
+   "pages": [
+    161
+   ],
+   "no": 151,
+   "vol": "四　椰子の実、其他",
+   "kotobagaki": "",
+   "author": "",
+   "text": "RAKUBAISY〓.RAKUBAISY〓.Nezumiwoawaremu.KazehukuAsitaAmenoYowaSukosiwaYowomosirisometeMukasinomamanoMinaranedoKakaruOmoiwaimazosiru.HositikakuTowoterasedomoTommakurasiteHitosirazuNezumiHurusuwoiduredomoHitoYumesamezuodorokazu.MiwoYowoomolnagekitutu,NagarenisouteayumebayaImanoKokoronoSabisisan1NirumonomonakiNagamekana.NasakenoUminoAwadisimaKayouTidorinoKowetaeteYaziriwougatuNusubitonoNeikiwohakaruKagemonasi.Y〓hisanagaraWenogotokuKisinoYanaginiuturoiteSiomitikurebaMidutorinoKagehonokanarl,Sumidagawa.NagakiSiriwowoutihurituKowodorisitutuNokidutaiSusunomihukakiUtubariniYoruwoukagauHurunezumi.TyabunewokudasuHunabitoKowewotikotinikikoekeri.tatazumebaMiduwonagameteHukagawaatarimayouY〓gumo.noHikarinitoiitowareteSirahamoitodohiyayakaniKamadonoSuminsinobiyoriNagasinisaguruAdinoHone.YamiyoniMonowosukasimiteKurakinasobuSamanagaraNaoKowenakiniutagaiteKagewoosoretekikitonakinaku.Owari.",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0152",
+   "pid": "956263",
+   "pages": [
+    162
+   ],
+   "no": 152,
+   "vol": "四　椰子の実、其他",
+   "kotobagaki": "",
+   "author": "",
+   "text": "目次(この順序は原作詩集の新本による)藤村詩集のローマ字譯を出すに就いて此詩集のローマ字綴り原作第一版の序第十六版の序新本のはしがき目若菜集-秋の思秋初戀狐のわざ髪を洗へば君がこゝろは傘のうち秋に隱れて知るや君秋風の歌雲のゆくへ小詩二首强敵別離望〓六人の處女おえふ34567799101213151618二",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0153",
+   "pid": "956263",
+   "pages": [
+    163
+   ],
+   "no": 153,
+   "vol": "四　椰子の実、其他",
+   "kotobagaki": "",
+   "author": "",
+   "text": "おさよおきぬおくめおきくおつた三生のあけぼの草枕春誰か思はん一二あけぼの春は來ぬ三四五恃腥語獸眠れる春ようてや鼓音歌二つの聲哀歌(中野道遙を悼む)四深林の道遙、其他深林の遺遙母を葬るの歌合唱ー暗香二蓮花舟三四葡萄の樹のかげ高樓か梭の音もめ2523272932畫の夢流星君と遊ばん東西南北懐古白壁四つの仙天馬雞葡萄栗鼠の木彫を觀て888787888991929310210837434344444647495052535557誰か思はんあけぼの春は來ぬ眠れる春ようてや鼓夏春やいづこに春やいづこに鷲の歌銀河白磁花瓶の賦きりぎりす新潮新鮮食潮路の梅月光五首春の別離曉の誕生かりがね終焉の夕うぐひす忘れ草を讀みて草III112117119125四647173737780868286137129143138151159154157161",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  },
+  {
+   "id": "ndl-956263-0154",
+   "pid": "956263",
+   "pages": [
+    164
+   ],
+   "no": 154,
+   "vol": "四　椰子の実、其他",
+   "kotobagaki": "",
+   "author": "",
+   "text": "-ー高山に登りて遠く望むの歌二つの泉天の河二首婚姻の祝の歌三農夫農夫序の歌上のまきま下のき165167169173君こそは遠音に響く心をつなぐしろかねの黃昏枝うちかはす梅と梅罪なれば物のあはれを風よ靜かにかの岸へ三壯年壯年木埋〓佯草幻一二三四五六別狂枕境邂逅四椰子の實、椰子の實浦島舟路海邊の曲響りんりん音りんりん惡夢夏のゆめ蟹の歌鳥なき里藪入鼠をあはれむ253254255256258259179180183201263263264266268268271落梅千曲川旅情の歌古城のほとり小諸なるの千曲川ほとりにて勞働一朝晝暮二三盤寥漫樹常寂爐ニ胸より胸にめぐり逢ふ君やいくたびあゝさなり君のごとくに思より思をたどり吾戀は河邊に生ひて吾胸の底のこゝには梅集-225226227227229231234237243其他275276277278282284288289290292295247248249250251",
+   "sachu": "",
+   "poems": [],
+   "notes": [],
+   "lb": []
+  }
+ ]
+}
